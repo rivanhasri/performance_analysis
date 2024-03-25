@@ -1,0 +1,1581 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-25681,1096,658,7,Female,Sports Watch,COD
+B-26055,5729,64,14,Unisex,Luxury Watch,EMI
+B-25955,2927,146,8,Unisex,Digital Watch,EMI
+B-26093,2847,712,8,Female,Military Watch,Credit Card
+B-25602,2617,1151,4,Female,Pilot Watch,Credit Card
+B-25881,2244,247,4,Male,Quartz Watch,Credit Card
+B-25696,275,-275,4,Male,Skeleton Watch,COD
+B-25687,387,-213,5,Male,Skeleton Watch,UPI
+B-25643,50,-44,2,Male,Dress Watch,UPI
+B-25851,135,-54,5,Male,Diving Watch,COD
+B-25703,231,-190,9,Male,Dress Watch,COD
+B-25887,2125,-234,6,Female,Military Watch,EMI
+B-25923,3873,-891,6,Female,Pilot Watch,Credit Card
+B-25756,729,-492,5,Unisex,Digital Watch,UPI
+B-25761,2188,1050,5,Unisex,Digital Watch,Credit Card
+B-25655,6,-3,1,Male,Dress Watch,UPI
+B-25786,1854,433,5,Unisex,Digital Watch,Credit Card
+B-26095,6,1,1,Male,Diving Watch,UPI
+B-25853,2093,721,5,Unisex,Luxury Watch,Credit Card
+B-25735,7,-1,2,Male,Automatic Watch,UPI
+B-25910,1622,-624,5,Unisex,Fitness Trackers,Credit Card
+B-25950,1622,95,5,Female,Military Watch,Credit Card
+B-25744,373,254,6,Female,Military Watch,UPI
+B-25845,82,-33,4,Male,Diving Watch,COD
+B-26001,8,2,2,Male,Automatic Watch,UPI
+B-25830,1954,782,3,Female,Pilot Watch,Credit Card
+B-25842,1543,370,8,Female,Military Watch,Credit Card
+B-25778,1506,-266,6,Female,Military Watch,Credit Card
+B-25686,1829,-56,6,Unisex,Fitness Trackers,Credit Card
+B-25754,9,-1,3,Male,Automatic Watch,UPI
+B-26048,1461,202,5,Unisex,Fitness Trackers,EMI
+B-25816,391,113,8,Male,Vintage Watch,COD
+B-26022,1824,1303,8,Female,Pilot Watch,Credit Card
+B-25883,16,-15,4,Male,Dress Watch,UPI
+B-26888,1745,122,2,Unisex,Fitness Trackers,Credit Card
+B-26097,663,-212,5,Female,Military Watch,UPI
+B-25710,10,-1,1,Male,Chronograph Watch,UPI
+B-25797,1630,802,5,Unisex,Fitness Trackers,EMI
+B-25618,12,0,2,Male,Dress Watch,UPI
+B-25723,12,-7,2,Male,Chronograph Watch,UPI
+B-25755,1709,564,3,Male,Quartz Watch,Credit Card
+B-25788,12,3,1,Male,Vintage Watch,UPI
+B-25991,1625,-77,3,Female,Pilot Watch,EMI
+B-25779,13,5,2,Male,Dress Watch,UPI
+B-25909,1361,980,3,Unisex,Fitness Trackers,COD
+B-25943,1622,-448,3,Female,Pilot Watch,EMI
+B-25935,1547,340,6,Female,Analog Watch,EMI
+B-25613,1657,460,4,Unisex,Luxury Watch,Credit Card
+B-25729,1603,0,9,Male,Skeleton Watch,Credit Card
+B-25772,1549,-439,4,Female,Pilot Watch,Credit Card
+B-25640,1183,106,4,Female,Military Watch,EMI
+B-25810,74,-123,8,Male,Automatic Watch,UPI
+B-25801,1499,239,13,Male,Skeleton Watch,Credit Card
+B-26085,1120,199,6,Male,Skeleton Watch,EMI
+B-25868,15,-2,1,Male,Pocket Watch,Debit Card
+B-25714,1487,624,3,Male,Quartz Watch,Credit Card
+B-25784,1118,206,2,Unisex,Fitness Trackers,Credit Card
+B-25608,11,-5,2,Male,Dress Watch,COD
+B-26051,15,4,1,Male,Dress Watch,Debit Card
+B-25900,1364,1864,5,Unisex,Fitness Trackers,Credit Card
+B-25760,1337,147,7,Female,Military Watch,Credit Card
+B-25762,15,2,1,Male,Chronograph Watch,Debit Card
+B-25995,322,-193,5,Female,Military Watch,UPI
+B-25965,1316,527,7,Female,Sports Watch,Credit Card
+B-25967,1314,342,3,Unisex,Digital Watch,Credit Card
+B-25674,17,7,3,Male,Dress Watch,Debit Card
+B-25929,17,2,2,Male,Automatic Watch,Debit Card
+B-25777,17,-12,5,Male,Automatic Watch,Debit Card
+B-26006,1308,536,3,Unisex,Digital Watch,Credit Card
+B-25697,1076,-38,4,Female,Military Watch,Credit Card
+B-25667,1301,573,5,Female,Analog Watch,Credit Card
+B-25836,1300,-16,8,Female,Military Watch,Credit Card
+B-25984,11,-2,4,Male,Dress Watch,COD
+B-25728,1298,65,9,Female,Military Watch,EMI
+B-25757,304,97,6,Male,Vintage Watch,UPI
+B-25957,1055,264,4,Female,Military Watch,EMI
+B-26061,17,-13,4,Male,Automatic Watch,Debit Card
+B-25616,147,73,3,Male,Vintage Watch,COD
+B-25666,965,-68,3,Female,Military Watch,COD
+B-25675,12,-2,3,Male,Dress Watch,COD
+B-26079,14,-2,3,Male,Dress Watch,UPI
+B-25850,934,-916,7,Female,Sports Watch,COD
+B-25693,929,-93,9,Male,Skeleton Watch,COD
+B-25852,18,3,2,Male,Dress Watch,Debit Card
+B-25860,916,192,11,Female,Pilot Watch,COD
+B-25898,76,-72,9,Male,Dress Watch,COD
+B-26100,869,67,4,Unisex,Fitness Trackers,COD
+B-25653,112,24,3,Male,Diving Watch,COD
+B-25839,39,16,6,Male,Automatic Watch,UPI
+B-25651,857,-274,2,Unisex,Fitness Trackers,COD
+B-25704,828,230,2,Unisex,Luxury Watch,COD
+B-25730,1279,-640,8,Female,Military Watch,EMI
+B-26052,1250,486,7,Male,Skeleton Watch,EMI
+B-25656,823,-18,7,Unisex,Luxury Watch,COD
+B-26033,1157,-13,9,Unisex,Digital Watch,Credit Card
+B-25945,126,-63,3,Female,Analog Watch,UPI
+B-26086,1145,-706,3,Female,Pilot Watch,Credit Card
+B-25752,774,170,3,Female,Analog Watch,COD
+B-26098,24,-1,2,Male,Dress Watch,COD
+B-26067,774,170,3,Female,Analog Watch,COD
+B-25986,93,-1,2,Male,Dress Watch,COD
+B-25953,765,-36,3,Female,Sports Watch,COD
+B-25952,762,101,6,Female,Military Watch,COD
+B-25903,761,266,9,Female,Sports Watch,COD
+B-25650,96,-48,5,Male,Chronograph Watch,UPI
+B-25970,1137,-14,7,Female,Military Watch,EMI
+B-26062,18,8,2,Male,Dress Watch,Debit Card
+B-25632,749,-307,7,Unisex,SmartWatch,COD
+B-25821,1120,199,6,Male,Skeleton Watch,EMI
+B-25878,744,119,6,Female,Military Watch,COD
+B-25750,14,0,4,Male,Dress Watch,UPI
+B-25657,19,8,2,Male,Dress Watch,Debit Card
+B-25787,512,-225,5,Male,Skeleton Watch,COD
+B-25808,742,198,2,Unisex,Digital Watch,COD
+B-25885,44,-40,3,Male,Vintage Watch,COD
+B-25759,1061,-36,8,Unisex,Digital Watch,EMI
+B-25747,19,-2,2,Male,Chronograph Watch,Debit Card
+B-25603,17,0,1,Male,Dress Watch,COD
+B-25691,741,267,5,Unisex,Digital Watch,COD
+B-25607,735,-235,6,Female,Military Watch,COD
+B-25708,19,-1,1,Male,Fashion Watch,Debit Card
+B-26021,1021,-48,4,Female,Sports Watch,EMI
+B-25831,556,-209,7,Male,Skeleton Watch,COD
+B-25670,63,-17,6,Male,Chronograph Watch,COD
+B-26029,734,248,2,Unisex,Luxury Watch,COD
+B-25959,933,166,5,Male,Skeleton Watch,Credit Card
+B-25676,20,-9,6,Male,Dress Watch,Debit Card
+B-25888,877,395,2,Unisex,Digital Watch,Credit Card
+B-25911,719,303,6,Unisex,Luxury Watch,COD
+B-25662,12,1,2,Male,Dress Watch,COD
+B-25847,714,56,4,Male,Skeleton Watch,COD
+B-25796,50,-15,4,Male,Chronograph Watch,COD
+B-25993,709,-100,5,Female,Pilot Watch,COD
+B-25930,21,-12,3,Male,Dress Watch,Debit Card
+B-25785,693,254,6,Male,Skeleton Watch,COD
+B-26053,24,1,4,Male,Dress Watch,COD
+B-26019,24,1,2,Male,Dress Watch,UPI
+B-26070,24,1,2,Male,Dress Watch,COD
+B-25870,21,10,1,Male,Pocket Watch,Debit Card
+B-25855,681,259,4,Unisex,Luxury Watch,COD
+B-25803,674,-187,2,Unisex,Fitness Trackers,COD
+B-25996,671,-309,5,Female,Sports Watch,COD
+B-26078,646,-213,3,Female,Sports Watch,COD
+B-25682,40,15,1,Male,Diving Watch,COD
+B-25749,24,-2,2,Male,Pocket Watch,COD
+B-25962,644,167,2,Female,Military Watch,COD
+B-25899,643,225,2,Female,Military Watch,COD
+B-25951,632,-316,6,Male,Skeleton Watch,COD
+B-25828,632,316,6,Male,Skeleton Watch,COD
+B-25658,610,208,3,Female,Military Watch,COD
+B-25698,78,-28,6,Male,Diving Watch,UPI
+B-25832,595,119,4,Unisex,Digital Watch,COD
+B-25886,595,292,3,Male,Skeleton Watch,COD
+B-25897,852,51,5,Unisex,Digital Watch,Credit Card
+B-25873,594,89,3,Unisex,Digital Watch,COD
+B-25858,585,175,13,Male,Pocket Watch,COD
+B-25867,582,262,5,Unisex,SmartWatch,COD
+B-25633,845,84,7,Male,Skeleton Watch,Credit Card
+B-25609,829,19,4,Female,Military Watch,Credit Card
+B-25896,561,212,3,Male,Skeleton Watch,COD
+B-26000,771,-424,2,Female,Pilot Watch,Credit Card
+B-25940,765,8,6,Male,Skeleton Watch,EMI
+B-26087,31,2,2,Male,Dress Watch,COD
+B-25980,557,-111,2,Female,Sports Watch,COD
+B-25877,757,371,2,Female,Military Watch,Credit Card
+B-25905,545,-73,11,Female,Pilot Watch,COD
+B-25818,1052,-82,3,Unisex,Digital Watch,UPI
+B-25835,544,-152,3,Unisex,Digital Watch,COD
+B-26081,22,9,2,Male,Chronograph Watch,Debit Card
+B-25837,757,371,2,Female,Military Watch,Credit Card
+B-25893,742,198,2,Unisex,Digital Watch,Credit Card
+B-25689,537,107,3,Male,Skeleton Watch,COD
+B-26028,536,91,1,Male,Quartz Watch,COD
+B-25654,6,3,1,Male,Dress Watch,COD
+B-25720,523,204,7,Male,Quartz Watch,COD
+B-26057,27,9,2,Male,Pocket Watch,UPI
+B-25798,516,392,8,Unisex,Luxury Watch,COD
+B-25961,504,116,3,Unisex,Digital Watch,COD
+B-25701,502,84,4,Female,Pilot Watch,COD
+B-26056,734,213,6,Female,Sports Watch,Credit Card
+B-26016,42,12,2,Male,Diving Watch,COD
+B-25819,29,11,4,Male,Automatic Watch,COD
+B-25848,240,12,6,Male,Diving Watch,UPI
+B-25678,496,-79,2,Male,Quartz Watch,COD
+B-25925,485,29,4,Female,Sports Watch,COD
+B-25977,31,-11,3,Male,Automatic Watch,UPI
+B-25648,676,151,3,Female,Military Watch,Credit Card
+B-25933,23,8,2,Male,Dress Watch,Debit Card
+B-25942,13,3,2,Male,Dress Watch,COD
+B-25673,180,0,8,Male,Vintage Watch,COD
+B-25791,671,114,9,Female,Pilot Watch,Credit Card
+B-25983,22,11,3,Male,Diving Watch,COD
+B-25743,668,-31,3,Female,Military Watch,Credit Card
+B-25973,145,0,3,Male,Skeleton Watch,UPI
+B-25895,24,8,2,Male,Automatic Watch,Debit Card
+B-25717,476,0,3,Unisex,Luxury Watch,COD
+B-26064,24,11,5,Male,Dress Watch,Debit Card
+B-25630,37,3,3,Male,Dress Watch,COD
+B-26050,152,50,6,Male,Vintage Watch,UPI
+B-26035,32,11,2,Male,Chronograph Watch,UPI
+B-25966,52,11,5,Male,Chronograph Watch,COD
+B-26060,24,11,3,Male,Dress Watch,Debit Card
+B-25854,473,42,4,Unisex,Luxury Watch,COD
+B-25964,263,50,5,Male,Vintage Watch,COD
+B-25628,61,11,3,Male,Diving Watch,COD
+B-25891,469,-459,3,Female,Sports Watch,COD
+B-26089,1272,547,2,Female,Pilot Watch,COD
+B-25621,169,0,3,Female,Analog Watch,COD
+B-25727,25,11,3,Male,Chronograph Watch,Debit Card
+B-25843,457,-41,4,Male,Skeleton Watch,COD
+B-25741,455,77,8,Female,Analog Watch,COD
+B-26096,25,2,2,Male,Dress Watch,Debit Card
+B-26007,450,-90,3,Female,Military Watch,COD
+B-26088,30,-35,1,Unisex,Luxury Watch,COD
+B-25664,659,-37,2,Unisex,Digital Watch,Credit Card
+B-25642,448,148,2,Female,Military Watch,COD
+B-25987,446,53,3,Female,Military Watch,COD
+B-25770,98,-45,2,Unisex,Luxury Watch,UPI
+B-25840,443,11,1,Male,Skeleton Watch,COD
+B-25846,427,-50,7,Female,Pilot Watch,COD
+B-25745,656,-36,2,Unisex,Digital Watch,Credit Card
+B-26073,424,161,2,Male,Skeleton Watch,COD
+B-26030,27,8,2,Male,Pocket Watch,Debit Card
+B-25989,424,-272,5,Female,Pilot Watch,COD
+B-26009,202,4,4,Male,Dress Watch,COD
+B-25915,1275,357,2,Female,Pilot Watch,UPI
+B-25645,418,70,7,Female,Pilot Watch,COD
+B-25635,417,49,3,Female,Sports Watch,COD
+B-26038,199,48,4,Male,Vintage Watch,UPI
+B-26014,385,-77,11,Unisex,SmartWatch,UPI
+B-25751,414,199,3,Female,Pilot Watch,COD
+B-26025,97,-45,4,Male,Skeleton Watch,COD
+B-25981,648,50,6,Female,Sports Watch,Credit Card
+B-25610,27,-25,2,Male,Fashion Watch,Debit Card
+B-25733,27,12,1,Male,Vintage Watch,Debit Card
+B-25612,27,1,1,Male,Vintage Watch,UPI
+B-25700,413,-314,9,Unisex,Luxury Watch,COD
+B-25856,53,2,4,Male,Dress Watch,COD
+B-26026,29,8,5,Male,Dress Watch,UPI
+B-25861,30,13,1,Male,Pocket Watch,UPI
+B-25799,412,412,6,Male,Skeleton Watch,COD
+B-26054,646,-23,2,Female,Military Watch,Credit Card
+B-25660,30,-5,5,Male,Vintage Watch,UPI
+B-26045,618,27,4,Unisex,Digital Watch,Credit Card
+B-25781,143,-124,5,Male,Skeleton Watch,UPI
+B-25918,31,1,2,Male,Dress Watch,UPI
+B-25971,409,86,3,Male,Skeleton Watch,COD
+B-25699,406,126,2,Male,Skeleton Watch,COD
+B-25776,565,66,7,Male,Skeleton Watch,Credit Card
+B-25985,85,2,6,Male,Vintage Watch,COD
+B-26063,561,118,5,Unisex,Digital Watch,Credit Card
+B-26032,503,-56,2,Male,Quartz Watch,COD
+B-25767,31,14,3,Male,Vintage Watch,UPI
+B-26023,398,111,8,Male,Dress Watch,COD
+B-25809,388,93,2,Unisex,Digital Watch,COD
+B-25688,498,-116,4,Male,Skeleton Watch,UPI
+B-25753,561,212,3,Male,Skeleton Watch,Credit Card
+B-25773,61,3,4,Male,Dress Watch,COD
+B-25661,34,-22,4,Male,Pocket Watch,COD
+B-25857,32,6,3,Male,Fashion Watch,UPI
+B-25999,623,-192,3,Unisex,Fitness Trackers,UPI
+B-25926,520,151,3,Female,Pilot Watch,Credit Card
+B-26076,32,-16,6,Male,Skeleton Watch,UPI
+B-25913,32,-5,5,Male,Dress Watch,UPI
+B-26020,510,234,6,Female,Sports Watch,EMI
+B-26083,382,68,3,Male,Skeleton Watch,COD
+B-25625,33,13,3,Male,Chronograph Watch,UPI
+B-26010,381,-13,2,Male,Skeleton Watch,COD
+B-25979,490,88,2,Female,Analog Watch,EMI
+B-26002,381,144,2,Male,Skeleton Watch,COD
+B-26084,487,143,4,Female,Pilot Watch,EMI
+B-25998,366,84,3,Unisex,Digital Watch,COD
+B-25872,33,-29,3,Male,Fashion Watch,UPI
+B-25795,365,107,3,Female,Pilot Watch,COD
+B-25902,207,-100,2,Male,Skeleton Watch,UPI
+B-25793,359,-338,5,Unisex,Digital Watch,COD
+B-25652,351,-47,8,Female,Pilot Watch,COD
+B-26018,485,199,4,Male,Skeleton Watch,EMI
+B-25823,37,-23,4,Male,Fashion Watch,UPI
+B-25994,34,10,2,Male,Pocket Watch,Debit Card
+B-25863,346,108,3,Unisex,Luxury Watch,COD
+B-25680,342,-103,4,Female,Sports Watch,COD
+B-25737,35,-8,2,Unisex,SmartWatch,Debit Card
+B-25875,121,41,4,Male,Vintage Watch,UPI
+B-26031,336,57,2,Female,Pilot Watch,COD
+B-25908,336,71,3,Unisex,Digital Watch,COD
+B-26041,27,4,1,Male,Dress Watch,COD
+B-25794,333,50,2,Female,Pilot Watch,COD
+B-25615,36,7,3,Male,Chronograph Watch,Debit Card
+B-25997,333,-15,3,Female,Pilot Watch,COD
+B-25990,327,114,4,Male,Quartz Watch,COD
+B-26091,18,6,3,Male,Dress Watch,UPI
+B-25604,325,32,7,Male,Pocket Watch,COD
+B-25748,482,-6,7,Female,Sports Watch,EMI
+B-26004,465,-33,4,Female,Pilot Watch,EMI
+B-25954,40,-12,3,Male,Fashion Watch,COD
+B-26043,107,36,6,Male,Vintage Watch,COD
+B-25838,312,-312,7,Unisex,Luxury Watch,COD
+B-26042,451,25,3,Female,Pilot Watch,EMI
+B-26008,312,62,1,Female,Sports Watch,COD
+B-25927,311,72,2,Unisex,Digital Watch,COD
+B-25948,11,5,2,Male,Dress Watch,UPI
+B-26094,37,-5,3,Male,Pocket Watch,Debit Card
+B-25623,444,-200,4,Female,Pilot Watch,EMI
+B-25800,434,26,11,Male,Fashion Watch,Credit Card
+B-26039,299,0,6,Male,Vintage Watch,COD
+B-25620,37,17,3,Male,Dress Watch,Debit Card
+B-25721,299,113,2,Unisex,Digital Watch,COD
+B-25764,298,74,2,Unisex,Digital Watch,COD
+B-26066,94,7,7,Male,Chronograph Watch,UPI
+B-25712,296,225,11,Male,Skeleton Watch,COD
+B-25738,37,17,3,Male,Dress Watch,Debit Card
+B-25771,291,93,2,Female,Military Watch,COD
+B-25601,327,-39,1,Female,Pilot Watch,COD
+B-25844,291,119,11,Male,Skeleton Watch,COD
+B-26065,287,-66,6,Male,Diving Watch,COD
+B-25825,42,15,1,Female,Analog Watch,UPI
+B-25765,429,61,3,Female,Sports Watch,Credit Card
+B-25709,285,128,2,Female,Military Watch,COD
+B-25684,277,3,1,Female,Sports Watch,COD
+B-25739,274,-7,4,Female,Pilot Watch,COD
+B-26082,273,-87,4,Female,Pilot Watch,COD
+B-25731,269,91,1,Female,Sports Watch,COD
+B-26889,11,5,1,Male,Automatic Watch,COD
+B-25719,39,2,2,Male,Skeleton Watch,Debit Card
+B-25646,264,-26,3,Male,Quartz Watch,COD
+B-25874,40,16,3,Male,Dress Watch,Debit Card
+B-25638,41,19,2,Male,Pocket Watch,Debit Card
+B-25882,253,-63,2,Male,Skeleton Watch,UPI
+B-26040,406,97,7,Unisex,Luxury Watch,Credit Card
+B-26037,32,7,3,Male,Dress Watch,COD
+B-25920,260,68,2,Female,Military Watch,COD
+B-25960,41,19,5,Male,Dress Watch,Debit Card
+B-25917,401,13,6,Unisex,Luxury Watch,Credit Card
+B-25972,382,30,3,Male,Skeleton Watch,Credit Card
+B-25736,867,251,5,Female,Pilot Watch,COD
+B-25742,43,0,3,Male,Skeleton Watch,Debit Card
+B-25641,43,-43,7,Male,Vintage Watch,Debit Card
+B-25958,74,29,3,Male,Vintage Watch,COD
+B-25802,44,-26,3,Male,Dress Watch,Debit Card
+B-25834,259,-55,2,Unisex,Luxury Watch,COD
+B-25774,257,23,5,Male,Dress Watch,COD
+B-25904,76,27,5,Male,Vintage Watch,COD
+B-25934,44,-32,3,Male,Vintage Watch,Debit Card
+B-25912,257,3,2,Male,Skeleton Watch,COD
+B-25647,255,76,9,Male,Dress Watch,COD
+B-25901,44,14,3,Male,Dress Watch,Debit Card
+B-25804,45,-2,4,Male,Fashion Watch,COD
+B-25734,44,-3,1,Male,Skeleton Watch,Debit Card
+B-25711,382,119,2,Male,Skeleton Watch,Credit Card
+B-25864,250,100,3,Male,Quartz Watch,COD
+B-25949,45,-15,2,Unisex,Luxury Watch,COD
+B-25805,246,61,2,Unisex,Digital Watch,COD
+B-25919,50,25,5,Male,Vintage Watch,COD
+B-25889,246,98,5,Male,Dress Watch,COD
+B-25637,44,99,3,Male,Diving Watch,Debit Card
+B-25783,245,-78,3,Male,Skeleton Watch,COD
+B-25938,245,30,2,Male,Skeleton Watch,COD
+B-25820,376,0,7,Male,Vintage Watch,Credit Card
+B-25814,45,1,3,Male,Pocket Watch,Debit Card
+B-25631,45,-28,2,Male,Vintage Watch,Debit Card
+B-25956,244,-122,5,Unisex,SmartWatch,COD
+B-25862,244,83,2,Unisex,Digital Watch,COD
+B-25606,10,4,1,Male,Diving Watch,UPI
+B-25928,375,180,3,Unisex,Digital Watch,Credit Card
+B-26005,46,14,5,Male,Automatic Watch,Debit Card
+B-25963,49,-31,2,Male,Vintage Watch,UPI
+B-25683,47,-20,2,Male,Diving Watch,Debit Card
+B-25914,355,-114,7,Male,Vintage Watch,Credit Card
+B-25869,32,8,5,Male,Dress Watch,UPI
+B-25921,243,-14,2,Unisex,Luxury Watch,COD
+B-25849,241,-77,4,Female,Sports Watch,COD
+B-25780,47,15,5,Male,Skeleton Watch,Debit Card
+B-25892,50,-10,6,Male,Automatic Watch,Debit Card
+B-25988,15,6,2,Male,Dress Watch,COD
+B-25939,148,24,3,Male,Vintage Watch,COD
+B-25906,299,-28,3,Female,Sports Watch,UPI
+B-26017,68,-30,1,Female,Pilot Watch,UPI
+B-25644,52,18,5,Male,Chronograph Watch,Debit Card
+B-25679,239,-162,5,Unisex,Luxury Watch,COD
+B-25792,27,6,3,Male,Automatic Watch,COD
+B-25946,238,20,2,Male,Skeleton Watch,COD
+B-25992,48,16,3,Male,Fashion Watch,COD
+B-25659,66,22,3,Male,Vintage Watch,UPI
+B-25716,53,24,1,Male,Dress Watch,Debit Card
+B-25725,233,-10,5,Female,Sports Watch,COD
+B-25932,53,-2,3,Male,Skeleton Watch,Debit Card
+B-25789,54,8,4,Male,Pocket Watch,Debit Card
+B-25732,352,-345,5,Male,Skeleton Watch,Credit Card
+B-25871,349,0,7,Male,Vintage Watch,Credit Card
+B-25611,341,-85,6,Male,Quartz Watch,Credit Card
+B-25833,54,12,3,Male,Skeleton Watch,Debit Card
+B-25665,57,7,2,Male,Fashion Watch,UPI
+B-25694,340,20,7,Male,Fashion Watch,Credit Card
+B-25668,227,48,5,Male,Vintage Watch,COD
+B-25827,330,81,1,Unisex,Digital Watch,Credit Card
+B-25713,216,-38,6,Unisex,SmartWatch,UPI
+B-25944,224,-143,3,Unisex,Luxury Watch,COD
+B-25695,55,-33,2,Unisex,Luxury Watch,Debit Card
+B-25880,49,21,1,Male,Vintage Watch,UPI
+B-25941,224,87,3,Male,Quartz Watch,COD
+B-25706,223,27,2,Unisex,Digital Watch,COD
+B-25969,324,39,8,Female,Analog Watch,Credit Card
+B-25763,56,18,2,Male,Dress Watch,Debit Card
+B-25740,223,62,7,Male,Fashion Watch,COD
+B-25879,10,2,2,Male,Automatic Watch,COD
+B-25614,57,6,5,Male,Chronograph Watch,Debit Card
+B-26092,322,-113,4,Male,Skeleton Watch,Credit Card
+B-26011,219,4,2,Male,Skeleton Watch,COD
+B-26074,103,21,7,Male,Vintage Watch,UPI
+B-25976,47,-27,4,Male,Skeleton Watch,COD
+B-25865,219,0,1,Male,Skeleton Watch,COD
+B-26049,57,-48,6,Male,Chronograph Watch,Debit Card
+B-26047,319,102,6,Female,Analog Watch,Credit Card
+B-25766,315,-8,3,Unisex,Luxury Watch,Credit Card
+B-25947,314,-41,3,Female,Sports Watch,Credit Card
+B-26069,311,40,1,Female,Sports Watch,EMI
+B-25627,307,74,3,Female,Analog Watch,EMI
+B-26027,294,109,7,Female,Analog Watch,EMI
+B-26068,216,-83,3,Female,Sports Watch,COD
+B-26080,58,-42,2,Unisex,Luxury Watch,Debit Card
+B-26012,48,20,4,Male,Vintage Watch,UPI
+B-25922,54,14,3,Male,Pocket Watch,UPI
+B-26099,216,50,4,Male,Vintage Watch,COD
+B-25866,215,-30,2,Male,Skeleton Watch,COD
+B-25775,43,8,3,Male,Chronograph Watch,COD
+B-25685,136,-33,5,Male,Skeleton Watch,COD
+B-26090,59,-30,3,Male,Chronograph Watch,Debit Card
+B-26072,213,4,14,Male,Fashion Watch,COD
+B-25916,59,21,2,Male,Vintage Watch,Debit Card
+B-25722,55,3,3,Male,Pocket Watch,COD
+B-25746,294,62,9,Male,Pocket Watch,EMI
+B-25812,210,62,2,Female,Pilot Watch,COD
+B-25605,59,24,6,Male,Diving Watch,Debit Card
+B-25702,396,-31,9,Male,Skeleton Watch,COD
+B-25626,284,45,2,Unisex,Digital Watch,EMI
+B-25811,276,52,5,Male,Skeleton Watch,EMI
+B-25876,23,2,2,Male,Automatic Watch,UPI
+B-25931,209,-63,4,Female,Sports Watch,COD
+B-25663,50,-28,5,Unisex,SmartWatch,COD
+B-25677,57,27,2,Male,Fashion Watch,COD
+B-25617,276,-21,2,Female,Pilot Watch,EMI
+B-26036,268,6,2,Unisex,Digital Watch,UPI
+B-25978,269,111,3,Male,Quartz Watch,EMI
+B-26077,209,2,1,Male,Skeleton Watch,COD
+B-25790,60,-12,4,Male,Dress Watch,Debit Card
+B-25829,269,-86,2,Female,Sports Watch,EMI
+B-25705,208,-25,2,Male,Skeleton Watch,COD
+B-25936,27,2,2,Male,Chronograph Watch,UPI
+B-25782,206,-206,3,Male,Skeleton Watch,COD
+B-25769,61,8,4,Male,Dress Watch,Debit Card
+B-25718,212,-24,2,Unisex,Luxury Watch,COD
+B-25715,262,64,6,Male,Skeleton Watch,EMI
+B-26075,204,276,3,Unisex,Digital Watch,COD
+B-25634,59,-46,7,Male,Pocket Watch,UPI
+B-26015,199,-18,2,Male,Skeleton Watch,COD
+B-25822,59,6,1,Female,Analog Watch,UPI
+B-26034,45,9,3,Male,Chronograph Watch,UPI
+B-25692,211,19,8,Male,Vintage Watch,COD
+B-26046,65,-16,2,Female,Pilot Watch,Debit Card
+B-25622,25,0,4,Male,Automatic Watch,UPI
+B-25690,196,-7,5,Female,Pilot Watch,COD
+B-25726,261,13,6,Male,Fashion Watch,Credit Card
+B-25907,195,-117,5,Female,Pilot Watch,COD
+B-26013,192,-146,3,Male,Skeleton Watch,COD
+B-25975,189,87,7,Male,Vintage Watch,COD
+B-25815,32,2,2,Male,Diving Watch,UPI
+B-25619,188,13,7,Male,Fashion Watch,COD
+B-26058,73,-25,3,Male,Skeleton Watch,COD
+B-26044,259,47,5,Male,Dress Watch,Credit Card
+B-25636,187,-15,3,Male,Quartz Watch,COD
+B-25649,26,11,2,Male,Dress Watch,UPI
+B-25806,185,-26,6,Unisex,Luxury Watch,COD
+B-25826,248,8,2,Male,Skeleton Watch,Credit Card
+B-25974,67,9,4,Male,Chronograph Watch,Debit Card
+B-25884,248,-70,3,Unisex,Luxury Watch,Credit Card
+B-25672,246,61,2,Unisex,Digital Watch,Credit Card
+B-25859,179,-25,5,Male,Diving Watch,COD
+B-25817,176,-28,5,Unisex,SmartWatch,COD
+B-25968,176,-13,5,Unisex,SmartWatch,COD
+B-25671,68,-62,2,Male,Quartz Watch,Debit Card
+B-26059,176,37,6,Female,Analog Watch,COD
+B-25669,88,11,7,Male,Dress Watch,UPI
+B-25841,68,20,5,Male,Dress Watch,Debit Card
+B-26071,231,99,2,Female,Sports Watch,Credit Card
+B-25813,62,8,2,Male,Pocket Watch,UPI
+B-25890,175,77,3,Male,Skeleton Watch,COD
+B-25807,71,4,5,Male,Chronograph Watch,Debit Card
+B-25937,174,-70,3,Female,Analog Watch,COD
+B-25982,173,69,3,Unisex,Luxury Watch,COD
+B-25639,171,2,2,Female,Sports Watch,COD
+B-25894,268,-25,3,Male,Skeleton Watch,COD
+B-25768,71,32,3,Male,Skeleton Watch,Debit Card
+B-25629,29,10,4,Male,Dress Watch,UPI
+B-25758,65,17,2,Male,Pocket Watch,UPI
+B-25707,72,-46,7,Male,Diving Watch,Debit Card
+B-23687,168,-51,2,Unisex,Digital Watch,COD
+B-23710,165,30,3,Male,Vintage Watch,COD
+B-23656,74,-59,2,Female,Analog Watch,Debit Card
+B-23601,89,17,2,Male,Vintage Watch,UPI
+B-23964,228,63,3,Female,Sports Watch,Credit Card
+B-23982,119,-24,4,Unisex,SmartWatch,COD
+B-23864,75,-25,3,Male,Vintage Watch,UPI
+B-23693,67,20,4,Male,Pocket Watch,UPI
+B-23802,7,0,1,Male,Chronograph Watch,COD
+B-23676,222,35,5,Male,Skeleton Watch,Credit Card
+B-23639,219,-9,4,Male,Skeleton Watch,Credit Card
+B-23757,42,-23,2,Unisex,SmartWatch,UPI
+B-23786,216,-135,3,Unisex,Luxury Watch,Credit Card
+B-23919,47,-21,2,Female,Sports Watch,COD
+B-23894,68,-55,5,Female,Analog Watch,UPI
+B-23979,74,33,2,Male,Fashion Watch,Debit Card
+B-23651,165,46,3,Unisex,SmartWatch,COD
+B-23653,101,11,2,Male,Dress Watch,UPI
+B-23855,162,73,2,Female,Sports Watch,COD
+B-23793,20,-22,1,Unisex,SmartWatch,UPI
+B-23881,162,55,3,Male,Vintage Watch,COD
+B-23603,229,-23,2,Male,Skeleton Watch,UPI
+B-23851,27,0,2,Male,Chronograph Watch,COD
+B-23883,685,7,7,Male,Quartz Watch,UPI
+B-23768,75,2,5,Male,Chronograph Watch,Debit Card
+B-23953,161,-229,8,Unisex,SmartWatch,COD
+B-23755,71,19,3,Male,Pocket Watch,COD
+B-23989,211,-105,2,Male,Skeleton Watch,Credit Card
+B-23652,79,5,6,Male,Dress Watch,Debit Card
+B-23723,32,-22,5,Male,Skeleton Watch,UPI
+B-23629,161,40,3,Male,Vintage Watch,COD
+B-23877,159,4,1,Male,Skeleton Watch,COD
+B-23767,210,-50,4,Male,Dress Watch,Credit Card
+B-23735,79,39,2,Male,Fashion Watch,Debit Card
+B-23752,207,153,3,Male,Skeleton Watch,Credit Card
+B-23748,36,0,4,Male,Diving Watch,COD
+B-23758,206,12,1,Female,Military Watch,Credit Card
+B-23950,46,0,4,Male,Chronograph Watch,COD
+B-23707,156,23,3,Male,Vintage Watch,COD
+B-23909,154,54,3,Male,Dress Watch,COD
+B-23955,36,15,3,Male,Vintage Watch,UPI
+B-23655,206,51,4,Male,Dress Watch,Credit Card
+B-23686,200,7,4,Female,Sports Watch,Credit Card
+B-23862,199,-1,1,Male,Skeleton Watch,Credit Card
+B-23626,154,22,7,Male,Pocket Watch,COD
+B-23823,152,23,3,Unisex,SmartWatch,COD
+B-23910,152,50,6,Male,Vintage Watch,COD
+B-23830,122,-21,3,Unisex,SmartWatch,UPI
+B-23978,149,48,6,Male,Vintage Watch,COD
+B-23997,149,-87,4,Male,Skeleton Watch,COD
+B-23661,197,20,4,Male,Diving Watch,Credit Card
+B-23969,76,-54,3,Female,Sports Watch,COD
+B-23858,221,-15,2,Female,Sports Watch,COD
+B-23697,79,32,3,Male,Skeleton Watch,Debit Card
+B-23798,45,12,7,Male,Dress Watch,UPI
+B-23873,149,-1,1,Male,Skeleton Watch,COD
+B-23740,80,22,3,Male,Vintage Watch,Debit Card
+B-23700,195,12,9,Male,Fashion Watch,Credit Card
+B-23973,19,0,3,Male,Automatic Watch,UPI
+B-23698,81,41,3,Male,Vintage Watch,Debit Card
+B-23993,83,34,5,Male,Fashion Watch,Debit Card
+A-23997,149,17,4,Unisex,SmartWatch,COD
+A-23998,193,46,1,Female,Military Watch,Credit Card
+A-23999,85,24,10,Male,Dress Watch,Debit Card
+A-24000,44,-17,5,Male,Skeleton Watch,UPI
+A-24001,149,-40,2,Female,Pilot Watch,COD
+A-24002,26,0,2,Male,Diving Watch,COD
+A-24003,86,0,4,Male,Pocket Watch,Debit Card
+A-24004,86,22,2,Male,Skeleton Watch,Debit Card
+A-24005,79,16,3,Male,Pocket Watch,COD
+A-24006,193,-275,3,Female,Pilot Watch,Credit Card
+A-24007,148,0,3,Male,Skeleton Watch,COD
+A-24008,70,-14,2,Unisex,SmartWatch,UPI
+A-24009,148,59,3,Male,Dress Watch,COD
+A-24010,190,19,9,Unisex,SmartWatch,Credit Card
+A-24011,52,14,2,Male,Vintage Watch,COD
+A-24012,147,44,3,Male,Skeleton Watch,COD
+A-24013,190,68,8,Male,Pocket Watch,Credit Card
+A-24014,80,-56,4,Female,Sports Watch,UPI
+A-24015,147,48,3,Male,Skeleton Watch,COD
+A-24016,66,12,3,Male,Vintage Watch,COD
+A-24017,86,8,2,Male,Skeleton Watch,Debit Card
+A-24018,88,19,2,Male,Fashion Watch,Debit Card
+A-24019,188,-193,2,Female,Sports Watch,Credit Card
+A-24020,89,29,2,Male,Vintage Watch,UPI
+A-23997,146,19,5,Male,Vintage Watch,COD
+A-23998,143,32,1,Unisex,Digital Watch,COD
+A-23999,25,-1,4,Male,Diving Watch,COD
+A-24000,30,12,3,Male,Automatic Watch,UPI
+A-24001,140,-58,4,Unisex,SmartWatch,COD
+A-24002,83,-48,1,Unisex,Digital Watch,UPI
+A-24003,140,6,5,Male,Skeleton Watch,COD
+A-24004,28,14,4,Male,Dress Watch,COD
+A-24005,139,14,3,Male,Vintage Watch,COD
+A-24006,30,14,3,Male,Dress Watch,UPI
+A-24007,89,36,3,Male,Fashion Watch,UPI
+A-24008,187,30,4,Female,Analog Watch,Credit Card
+A-24009,139,21,3,Female,Analog Watch,COD
+A-24010,437,-14,2,Male,Skeleton Watch,UPI
+A-24011,138,-3,5,Male,Skeleton Watch,COD
+A-24012,85,13,2,Male,Fashion Watch,UPI
+A-24013,83,12,3,Male,Vintage Watch,UPI
+A-24014,91,22,2,Male,Vintage Watch,UPI
+A-24015,137,5,5,Male,Fashion Watch,COD
+A-24016,33,-12,7,Male,Skeleton Watch,UPI
+A-24017,134,-34,2,Unisex,Luxury Watch,COD
+A-24018,134,42,2,Unisex,Luxury Watch,COD
+A-24019,133,-56,2,Unisex,Luxury Watch,COD
+A-24020,93,-84,3,Male,Skeleton Watch,UPI
+A-23997,86,-21,1,Female,Sports Watch,UPI
+A-23998,132,54,5,Male,Vintage Watch,COD
+A-23999,132,-10,3,Male,Skeleton Watch,COD
+A-24000,132,-79,5,Unisex,SmartWatch,COD
+A-23997,93,-65,4,Male,Vintage Watch,UPI
+A-23998,95,5,2,Male,Vintage Watch,UPI
+A-23999,97,12,2,Male,Dress Watch,UPI
+A-24000,131,-154,8,Unisex,SmartWatch,COD
+A-24001,97,29,2,Male,Dress Watch,UPI
+A-24002,128,4,3,Male,Skeleton Watch,COD
+A-24003,186,241,9,Male,Fashion Watch,Credit Card
+A-24004,128,47,4,Male,Dress Watch,COD
+A-24005,185,48,4,Male,Vintage Watch,Credit Card
+A-24006,29,10,2,Male,Vintage Watch,COD
+A-24007,127,29,3,Unisex,SmartWatch,COD
+A-24008,97,36,7,Male,Dress Watch,UPI
+A-24009,125,0,3,Female,Analog Watch,COD
+A-24010,299,-8,2,Male,Skeleton Watch,COD
+A-24011,124,54,5,Male,Pocket Watch,COD
+A-24012,90,17,3,Male,Fashion Watch,COD
+A-24013,122,11,4,Male,Dress Watch,COD
+A-24014,122,-66,9,Female,Analog Watch,COD
+A-24015,90,30,2,Unisex,Luxury Watch,UPI
+A-24016,182,-11,3,Unisex,Digital Watch,Credit Card
+A-24017,122,59,7,Unisex,SmartWatch,COD
+A-24018,121,19,4,Male,Vintage Watch,COD
+A-24019,120,1,1,Unisex,Luxury Watch,COD
+A-24020,120,23,5,Male,Vintage Watch,COD
+A-23997,34,-11,5,Male,Pocket Watch,COD
+A-23998,117,17,6,Male,Diving Watch,COD
+A-23999,38,9,2,Male,Vintage Watch,COD
+A-24000,117,-6,3,Female,Pilot Watch,COD
+A-24001,180,54,4,Male,Pocket Watch,Credit Card
+A-24002,99,-5,1,Male,Skeleton Watch,UPI
+A-24003,172,-103,3,Unisex,Luxury Watch,EMI
+A-24004,116,16,4,Male,Vintage Watch,COD
+A-24005,116,-4,1,Male,Skeleton Watch,COD
+A-24006,171,68,7,Male,Vintage Watch,EMI
+A-24007,46,14,5,Male,Automatic Watch,COD
+A-24008,115,-39,3,Male,Quartz Watch,COD
+A-24009,100,7,2,Male,Pocket Watch,UPI
+A-24010,44,8,2,Male,Vintage Watch,COD
+A-24011,139,14,3,Male,Diving Watch,COD
+A-24012,171,-140,2,Unisex,Digital Watch,EMI
+A-24013,100,12,2,Male,Pocket Watch,UPI
+A-24014,115,25,6,Male,Vintage Watch,COD
+A-24015,168,-9,3,Male,Skeleton Watch,COD
+A-24016,115,47,2,Female,Analog Watch,COD
+A-24017,168,-111,2,Female,Pilot Watch,EMI
+A-24018,31,-7,5,Male,Automatic Watch,UPI
+A-24019,114,41,6,Unisex,SmartWatch,COD
+A-24020,111,9,4,Male,Vintage Watch,COD
+A-23997,11,-8,2,Male,Automatic Watch,UPI
+A-23998,110,35,1,Unisex,SmartWatch,COD
+A-23999,59,15,2,Male,Pocket Watch,UPI
+A-24000,166,27,2,Female,Analog Watch,EMI
+A-23997,109,-6,6,Male,Skeleton Watch,COD
+A-23998,34,-6,4,Male,Chronograph Watch,COD
+A-23999,109,40,1,Unisex,SmartWatch,COD
+A-24000,108,22,3,Female,Analog Watch,COD
+A-24001,103,50,2,Unisex,SmartWatch,UPI
+A-24002,10,-8,2,Male,Automatic Watch,COD
+A-24003,90,17,3,Male,Dress Watch,COD
+A-24004,105,46,2,Male,Vintage Watch,UPI
+A-24005,105,20,2,Male,Vintage Watch,Debit Card
+A-24006,22,-6,1,Unisex,SmartWatch,COD
+A-24007,105,-33,5,Male,Diving Watch,COD
+A-24008,105,25,2,Male,Dress Watch,EMI
+A-24009,25,-7,5,Male,Skeleton Watch,UPI
+A-24010,104,2,2,Unisex,SmartWatch,COD
+A-24011,16,5,1,Male,Vintage Watch,UPI
+A-24012,64,-7,3,Male,Skeleton Watch,COD
+A-24013,38,-6,2,Unisex,SmartWatch,UPI
+A-24014,83,12,2,Unisex,Luxury Watch,COD
+A-24015,103,36,2,Male,Dress Watch,COD
+A-24016,37,-6,1,Male,Skeleton Watch,UPI
+A-24017,105,33,6,Male,Skeleton Watch,EMI
+A-24018,78,-6,2,Unisex,SmartWatch,UPI
+A-24019,102,-90,1,Male,Skeleton Watch,COD
+A-24020,102,11,6,Male,Pocket Watch,COD
+A-23997,10,-8,1,Male,Diving Watch,UPI
+A-23998,101,18,9,Male,Automatic Watch,COD
+A-23999,42,-6,4,Male,Skeleton Watch,UPI
+A-24000,56,18,2,Male,Dress Watch,UPI
+A-24001,95,5,2,Male,Vintage Watch,COD
+A-24002,159,2,3,Unisex,SmartWatch,EMI
+A-24003,158,69,3,Male,Vintage Watch,EMI
+A-24004,106,0,2,Female,Pilot Watch,EMI
+A-24005,101,16,4,Male,Pocket Watch,COD
+A-24006,107,37,3,Male,Fashion Watch,COD
+A-24007,156,36,5,Male,Pocket Watch,EMI
+A-24008,108,-19,3,Female,Sports Watch,UPI
+A-24009,107,-54,4,Male,Vintage Watch,EMI
+A-24010,100,-58,4,Male,Dress Watch,COD
+A-24011,108,26,4,Male,Fashion Watch,UPI
+A-24012,100,6,4,Male,Vintage Watch,COD
+A-24013,100,-23,1,Female,Pilot Watch,COD
+A-24014,43,17,2,Male,Pocket Watch,UPI
+A-24015,155,26,3,Male,Vintage Watch,EMI
+A-24016,151,9,3,Male,Dress Watch,EMI
+A-24017,151,29,5,Male,Dress Watch,EMI
+A-24018,110,-68,4,Male,Skeleton Watch,EMI
+A-24019,98,9,2,Unisex,SmartWatch,COD
+A-24020,97,-62,2,Male,Quartz Watch,COD
+A-23997,111,35,5,Male,Fashion Watch,COD
+A-23998,45,17,1,Female,Analog Watch,COD
+A-23999,112,15,2,Unisex,Luxury Watch,COD
+A-24000,110,20,5,Male,Vintage Watch,Debit Card
+A-23997,98,-5,2,Male,Skeleton Watch,UPI
+A-23998,110,12,7,Male,Vintage Watch,Debit Card
+A-23999,95,11,4,Unisex,SmartWatch,COD
+A-24000,1228,14,3,Unisex,Luxury Watch,UPI
+A-24001,29,0,3,Unisex,SmartWatch,COD
+A-24002,94,27,2,Male,Pocket Watch,COD
+A-24003,115,25,1,Female,Analog Watch,COD
+A-24004,149,15,3,Male,Skeleton Watch,EMI
+A-24005,148,23,4,Male,Diving Watch,EMI
+A-24006,93,15,2,Female,Analog Watch,COD
+A-24007,113,24,4,Male,Dress Watch,Debit Card
+A-24008,48,2,3,Male,Vintage Watch,COD
+A-24009,148,9,1,Female,Sports Watch,UPI
+A-24010,114,11,4,Male,Pocket Watch,Debit Card
+A-24011,92,42,2,Male,Vintage Watch,COD
+A-24012,117,14,3,Male,Fashion Watch,UPI
+A-24013,21,-10,4,Male,Chronograph Watch,COD
+A-24014,33,-10,6,Male,Chronograph Watch,UPI
+A-24015,114,8,3,Female,Analog Watch,Debit Card
+A-24016,115,0,1,Female,Analog Watch,Debit Card
+A-24017,90,29,5,Male,Pocket Watch,COD
+A-24018,61,1,2,Unisex,SmartWatch,COD
+A-24019,119,1,1,Unisex,Luxury Watch,COD
+A-24020,117,36,2,Male,Quartz Watch,Debit Card
+A-23997,148,54,2,Unisex,Luxury Watch,UPI
+A-23998,249,-5,4,Male,Skeleton Watch,COD
+A-23999,147,73,3,Male,Vintage Watch,UPI
+A-24000,118,35,7,Male,Pocket Watch,EMI
+A-24001,119,56,7,Male,Skeleton Watch,EMI
+A-24002,90,27,2,Male,Pocket Watch,COD
+A-24003,32,1,2,Male,Vintage Watch,COD
+A-24004,89,-89,2,Unisex,SmartWatch,COD
+A-24005,146,66,1,Female,Pilot Watch,UPI
+A-24006,89,-37,4,Male,Fashion Watch,COD
+A-24007,88,11,3,Female,Analog Watch,COD
+A-24008,121,41,4,Male,Vintage Watch,EMI
+A-24009,88,20,2,Male,Skeleton Watch,COD
+A-24010,87,-83,5,Male,Diving Watch,COD
+A-24011,87,4,2,Male,Fashion Watch,COD
+A-24012,122,15,3,Female,Analog Watch,EMI
+A-24013,87,10,3,Male,Vintage Watch,COD
+A-24014,53,8,3,Unisex,SmartWatch,UPI
+A-24015,87,-32,9,Male,Automatic Watch,COD
+A-24016,86,-55,6,Male,Skeleton Watch,COD
+A-24017,125,22,3,Male,Vintage Watch,EMI
+A-24018,128,-3,3,Male,Skeleton Watch,Debit Card
+A-24019,143,-124,5,Male,Skeleton Watch,UPI
+A-24020,86,22,2,Male,Skeleton Watch,COD
+A-23997,86,9,3,Male,Skeleton Watch,COD
+A-23998,85,-9,4,Male,Skeleton Watch,COD
+A-23999,129,-75,5,Male,Fashion Watch,Debit Card
+A-24000,84,-42,2,Female,Analog Watch,COD
+A-23997,83,-81,3,Unisex,Luxury Watch,COD
+A-23998,143,6,2,Female,Analog Watch,UPI
+A-23999,336,123,3,Female,Pilot Watch,UPI
+A-24000,323,122,5,Female,Pilot Watch,UPI
+A-24001,130,61,3,Male,Fashion Watch,Debit Card
+A-24002,152,-3,5,Male,Skeleton Watch,COD
+A-24003,25,10,1,Unisex,SmartWatch,UPI
+A-24004,140,15,5,Male,Vintage Watch,UPI
+A-24005,45,0,2,Male,Vintage Watch,UPI
+A-24006,132,49,3,Male,Fashion Watch,COD
+A-24007,133,12,5,Male,Vintage Watch,Debit Card
+A-24008,82,13,2,Male,Fashion Watch,COD
+A-24009,140,56,4,Male,Fashion Watch,UPI
+A-24010,81,19,7,Male,Dress Watch,COD
+A-24011,137,38,5,Male,Dress Watch,Debit Card
+A-24012,137,-41,3,Female,Pilot Watch,Debit Card
+A-24013,140,57,2,Male,Quartz Watch,Debit Card
+A-24014,139,30,3,Male,Fashion Watch,UPI
+A-24015,138,11,5,Male,Vintage Watch,UPI
+A-24016,79,-124,9,Male,Automatic Watch,COD
+A-24017,136,41,3,Female,Analog Watch,UPI
+A-24018,145,16,3,Male,Pocket Watch,Debit Card
+A-24019,44,20,2,Male,Pocket Watch,UPI
+A-24020,79,6,7,Male,Skeleton Watch,COD
+A-23997,79,36,4,Male,Fashion Watch,COD
+A-23998,134,-13,3,Female,Sports Watch,UPI
+A-23999,133,5,5,Male,Vintage Watch,UPI
+A-24000,47,20,7,Male,Dress Watch,UPI
+A-24001,133,-42,1,Female,Military Watch,UPI
+A-24002,78,27,3,Male,Vintage Watch,COD
+A-24003,78,7,1,Unisex,Luxury Watch,COD
+A-24004,76,-92,8,Unisex,SmartWatch,COD
+A-24005,76,-50,1,Male,Skeleton Watch,COD
+A-24006,76,19,3,Male,Dress Watch,COD
+A-24007,74,29,3,Male,Vintage Watch,COD
+A-24008,74,-25,3,Male,Vintage Watch,COD
+A-24009,146,-63,3,Female,Sports Watch,Debit Card
+A-24010,73,-31,1,Unisex,Digital Watch,COD
+A-24011,80,22,3,Male,Vintage Watch,UPI
+A-24012,133,46,5,Male,Fashion Watch,EMI
+A-24013,146,7,2,Female,Pilot Watch,Debit Card
+A-24014,130,-41,4,Male,Skeleton Watch,EMI
+A-24015,141,41,3,Male,Fashion Watch,UPI
+A-24016,147,21,3,Unisex,SmartWatch,Debit Card
+A-24017,73,-7,1,Female,Pilot Watch,COD
+A-24018,148,72,7,Male,Pocket Watch,Debit Card
+A-24019,58,0,4,Male,Skeleton Watch,UPI
+A-24020,21,-13,3,Male,Chronograph Watch,UPI
+A-23997,148,25,3,Male,Skeleton Watch,Debit Card
+A-23998,144,-7,4,Female,Sports Watch,COD
+A-23999,145,-104,5,Unisex,Luxury Watch,UPI
+A-24000,72,-49,1,Female,Pilot Watch,COD
+A-23997,125,15,5,Male,Fashion Watch,EMI
+A-23998,149,15,3,Male,Skeleton Watch,Debit Card
+A-23999,72,16,2,Male,Fashion Watch,COD
+A-24000,71,0,8,Male,Automatic Watch,COD
+A-24001,71,-14,4,Unisex,SmartWatch,COD
+A-24002,154,-85,3,Unisex,Luxury Watch,EMI
+A-24003,191,13,8,Unisex,SmartWatch,COD
+A-24004,170,19,5,Male,Pocket Watch,UPI
+A-24005,47,-3,2,Male,Vintage Watch,UPI
+A-24006,122,-47,4,Male,Skeleton Watch,EMI
+A-24007,70,26,5,Male,Dress Watch,COD
+A-24008,155,5,3,Male,Vintage Watch,EMI
+A-24009,67,-86,9,Unisex,SmartWatch,COD
+A-24010,67,-42,3,Male,Vintage Watch,COD
+A-24011,148,-101,2,Unisex,Digital Watch,UPI
+A-24012,122,38,6,Male,Pocket Watch,Credit Card
+A-24013,16,-5,2,Male,Vintage Watch,UPI
+A-24014,121,-17,3,Unisex,SmartWatch,Credit Card
+A-24015,42,-15,12,Male,Automatic Watch,UPI
+A-24016,65,-4,6,Male,Dress Watch,COD
+A-24017,119,-43,7,Male,Diving Watch,Credit Card
+A-24018,155,56,3,Unisex,SmartWatch,EMI
+A-24019,119,-5,8,Male,Skeleton Watch,Credit Card
+A-24020,118,25,4,Male,Dress Watch,Credit Card
+A-23997,116,22,1,Female,Analog Watch,Credit Card
+A-23998,158,-29,10,Male,Dress Watch,EMI
+A-23999,158,69,3,Male,Vintage Watch,EMI
+A-24000,65,-52,3,Female,Analog Watch,COD
+A-24001,160,-59,2,Male,Skeleton Watch,EMI
+A-24002,162,20,3,Unisex,Luxury Watch,EMI
+A-24003,63,1,4,Male,Pocket Watch,COD
+A-24004,64,27,5,Male,Dress Watch,UPI
+A-24005,166,-113,4,Female,Analog Watch,EMI
+A-24006,167,43,7,Male,Pocket Watch,EMI
+A-24007,123,17,3,Unisex,SmartWatch,COD
+A-24008,63,14,2,Male,Fashion Watch,COD
+A-24009,891,0,5,Male,Skeleton Watch,COD
+A-24010,75,28,9,Male,Dress Watch,UPI
+A-24011,62,6,5,Male,Dress Watch,COD
+A-24012,29,-18,7,Male,Automatic Watch,UPI
+A-24013,168,18,6,Male,Vintage Watch,Debit Card
+A-24014,70,24,3,Male,Vintage Watch,UPI
+A-24015,169,55,4,Male,Skeleton Watch,Debit Card
+A-24016,32,-8,2,Male,Vintage Watch,COD
+A-24017,44,-8,3,Male,Vintage Watch,UPI
+A-24018,116,-56,5,Male,Vintage Watch,Credit Card
+A-24019,156,21,3,Unisex,Luxury Watch,COD
+A-24020,62,6,6,Male,Automatic Watch,COD
+A-23997,54,1,2,Male,Skeleton Watch,UPI
+A-23998,111,11,9,Male,Dress Watch,Credit Card
+A-23999,158,-63,4,Unisex,Luxury Watch,UPI
+A-24000,7,-3,2,Male,Automatic Watch,UPI
+A-23997,61,28,2,Male,Dress Watch,UPI
+A-23998,61,-50,4,Male,Dress Watch,COD
+A-23999,154,26,4,Female,Analog Watch,COD
+A-24000,62,1,3,Male,Skeleton Watch,COD
+A-24001,169,38,3,Male,Skeleton Watch,Debit Card
+A-24002,61,18,2,Female,Analog Watch,COD
+A-24003,61,-23,2,Male,Skeleton Watch,COD
+A-24004,171,14,9,Male,Fashion Watch,Debit Card
+A-24005,60,-49,8,Male,Dress Watch,COD
+A-24006,25,-11,1,Male,Vintage Watch,UPI
+A-24007,163,26,4,Male,Fashion Watch,COD
+A-24008,173,86,1,Female,Military Watch,Debit Card
+A-24009,257,-3,2,Unisex,Digital Watch,UPI
+A-24010,108,37,2,Male,Vintage Watch,Credit Card
+A-24011,177,41,4,Male,Fashion Watch,Debit Card
+A-24012,106,15,7,Male,Dress Watch,Credit Card
+A-24013,41,-14,5,Male,Chronograph Watch,UPI
+A-24014,168,-10,3,Female,Analog Watch,UPI
+A-24015,60,21,4,Male,Vintage Watch,COD
+A-24016,31,-11,4,Male,Vintage Watch,COD
+A-24017,179,0,2,Male,Skeleton Watch,Debit Card
+A-24018,106,12,3,Male,Quartz Watch,Credit Card
+A-24019,60,13,2,Male,Pocket Watch,COD
+A-24020,180,5,3,Male,Quartz Watch,Debit Card
+A-23997,60,-10,2,Unisex,SmartWatch,COD
+A-23998,59,25,3,Male,Vintage Watch,COD
+A-23999,170,73,2,Female,Analog Watch,UPI
+A-24000,59,10,2,Male,Dress Watch,COD
+A-24001,24,-21,7,Male,Automatic Watch,COD
+A-24002,105,-26,8,Male,Chronograph Watch,Credit Card
+A-24003,103,46,2,Male,Skeleton Watch,Credit Card
+A-24004,171,17,6,Male,Pocket Watch,UPI
+A-24005,102,13,2,Male,Vintage Watch,Credit Card
+A-24006,98,12,2,Male,Dress Watch,Credit Card
+A-24007,59,10,4,Male,Chronograph Watch,COD
+A-24008,189,60,4,Unisex,SmartWatch,Debit Card
+A-24009,58,-52,3,Unisex,Luxury Watch,COD
+A-24010,60,3,3,Male,Skeleton Watch,UPI
+A-24011,58,-8,2,Male,Skeleton Watch,COD
+A-24012,94,20,2,Unisex,SmartWatch,UPI
+A-24013,193,-166,3,Male,Skeleton Watch,EMI
+A-24014,199,0,4,Male,Vintage Watch,EMI
+A-24015,202,89,9,Male,Pocket Watch,EMI
+A-24016,58,17,2,Male,Dress Watch,COD
+A-24017,57,-28,2,Male,Diving Watch,COD
+A-24018,204,-94,4,Male,Dress Watch,EMI
+A-24019,98,-12,2,Female,Sports Watch,Credit Card
+A-24020,22,-12,3,Male,Vintage Watch,COD
+A-23997,97,17,2,Male,Vintage Watch,Credit Card
+A-23998,57,24,5,Male,Chronograph Watch,COD
+A-23999,97,14,2,Male,Pocket Watch,Credit Card
+A-24000,97,17,2,Male,Vintage Watch,Credit Card
+A-23997,96,22,5,Male,Vintage Watch,Credit Card
+A-23998,94,27,2,Male,Fashion Watch,Credit Card
+A-23999,26,-17,1,Male,Vintage Watch,COD
+A-24000,93,44,2,Male,Vintage Watch,Credit Card
+A-24001,93,-65,4,Male,Vintage Watch,Credit Card
+A-24002,92,5,6,Male,Dress Watch,Credit Card
+A-24003,57,27,2,Male,Pocket Watch,COD
+A-24004,57,7,3,Unisex,SmartWatch,COD
+A-24005,57,21,4,Male,Chronograph Watch,COD
+A-24006,128,4,3,Male,Skeleton Watch,COD
+A-24007,89,-4,5,Male,Skeleton Watch,Credit Card
+A-24008,221,26,7,Unisex,SmartWatch,COD
+A-24009,205,-119,3,Male,Skeleton Watch,Debit Card
+A-24010,191,51,5,Male,Fashion Watch,UPI
+A-24011,206,18,4,Male,Dress Watch,Debit Card
+A-24012,56,0,4,Male,Dress Watch,COD
+A-24013,88,16,4,Male,Vintage Watch,Credit Card
+A-24014,224,58,3,Female,Pilot Watch,UPI
+A-24015,193,8,4,Male,Pocket Watch,UPI
+A-24016,87,36,5,Male,Vintage Watch,Credit Card
+A-24017,189,4,1,Male,Skeleton Watch,UPI
+A-24018,55,-33,2,Unisex,Luxury Watch,COD
+A-24019,85,-1,3,Male,Skeleton Watch,Credit Card
+A-24020,252,56,2,Female,Pilot Watch,UPI
+A-23997,197,73,1,Unisex,Digital Watch,COD
+A-23998,17,-3,2,Male,Vintage Watch,UPI
+A-23999,100,28,2,Male,Dress Watch,UPI
+A-24000,80,-19,5,Male,Vintage Watch,UPI
+A-24001,75,29,1,Male,Quartz Watch,UPI
+A-24002,26,4,2,Male,Skeleton Watch,UPI
+A-24003,55,12,5,Male,Automatic Watch,COD
+A-24004,157,5,9,Male,Skeleton Watch,UPI
+A-24005,200,-60,4,Unisex,Digital Watch,UPI
+A-24006,230,5,2,Male,Skeleton Watch,UPI
+A-24007,213,-145,3,Unisex,Digital Watch,Debit Card
+A-24008,55,4,2,Male,Vintage Watch,COD
+A-24009,220,-19,2,Male,Skeleton Watch,Debit Card
+A-24010,150,32,3,Male,Dress Watch,COD
+A-24011,203,84,2,Female,Military Watch,UPI
+A-24012,93,31,3,Female,Analog Watch,UPI
+A-24013,290,35,6,Male,Dress Watch,COD
+A-24014,48,6,1,Male,Skeleton Watch,COD
+A-24015,221,35,4,Female,Analog Watch,Debit Card
+A-24016,55,18,2,Male,Diving Watch,COD
+A-24017,227,102,8,Female,Analog Watch,Debit Card
+A-24018,55,-39,4,Male,Vintage Watch,COD
+A-24019,207,33,2,Female,Analog Watch,UPI
+A-24020,64,6,4,Male,Skeleton Watch,COD
+A-23997,89,6,5,Male,Skeleton Watch,COD
+A-23998,54,27,2,Male,Vintage Watch,COD
+A-23999,84,41,3,Male,Pocket Watch,Credit Card
+A-24000,209,-21,2,Female,Sports Watch,UPI
+A-23997,79,33,4,Male,Vintage Watch,UPI
+A-23998,54,8,4,Male,Pocket Watch,COD
+A-23999,229,59,9,Male,Skeleton Watch,Debit Card
+A-24000,158,38,3,Male,Dress Watch,UPI
+A-24001,248,105,2,Female,Pilot Watch,Debit Card
+A-24002,199,6,2,Male,Skeleton Watch,UPI
+A-24003,253,-11,1,Male,Quartz Watch,Debit Card
+A-24004,257,-252,4,Male,Skeleton Watch,Debit Card
+A-24005,193,33,5,Female,Analog Watch,COD
+A-24006,109,35,6,Male,Pocket Watch,COD
+A-24007,214,30,3,Female,Analog Watch,COD
+A-24008,141,7,7,Male,Skeleton Watch,COD
+A-24009,201,32,4,Unisex,SmartWatch,UPI
+A-24010,54,12,4,Male,Fashion Watch,COD
+A-24011,83,6,6,Male,Fashion Watch,EMI
+A-24012,54,-3,3,Male,Skeleton Watch,COD
+A-24013,53,5,3,Male,Pocket Watch,COD
+A-24014,258,-27,2,Female,Pilot Watch,Debit Card
+A-24015,199,8,2,Male,Skeleton Watch,COD
+A-24016,82,-27,3,Male,Diving Watch,EMI
+A-24017,139,36,3,Male,Vintage Watch,COD
+A-24018,53,15,2,Male,Vintage Watch,COD
+A-24019,53,1,4,Male,Vintage Watch,COD
+A-24020,101,38,2,Unisex,SmartWatch,COD
+A-23997,262,215,2,Female,Military Watch,Debit Card
+A-23998,82,-39,5,Male,Pocket Watch,EMI
+A-23999,154,39,3,Male,Dress Watch,COD
+A-24000,52,18,2,Male,Vintage Watch,COD
+A-24001,1599,37,6,Female,Sports Watch,UPI
+A-24002,338,41,7,Male,Dress Watch,UPI
+A-24003,51,-49,2,Female,Sports Watch,COD
+A-24004,224,-81,3,Unisex,Luxury Watch,COD
+A-24005,207,37,4,Male,Dress Watch,COD
+A-24006,51,14,2,Male,Vintage Watch,COD
+A-24007,82,8,3,Female,Analog Watch,EMI
+A-24008,50,-17,2,Male,Vintage Watch,COD
+A-24009,263,-31,9,Female,Sports Watch,Debit Card
+A-24010,50,7,6,Male,Automatic Watch,COD
+A-24011,245,-3,4,Female,Pilot Watch,UPI
+A-24012,82,24,6,Male,Dress Watch,EMI
+A-24013,229,-41,8,Female,Analog Watch,COD
+A-24014,50,14,1,Female,Sports Watch,COD
+A-24015,220,40,2,Female,Analog Watch,COD
+A-24016,263,-63,2,Female,Sports Watch,Debit Card
+A-24017,81,-41,5,Male,Chronograph Watch,EMI
+A-24018,50,-17,2,Male,Vintage Watch,COD
+A-24019,49,5,4,Male,Dress Watch,COD
+A-24020,237,47,9,Male,Pocket Watch,UPI
+A-23997,264,-30,3,Unisex,SmartWatch,Debit Card
+A-23998,49,3,1,Male,Fashion Watch,COD
+A-23999,63,-24,6,Male,Diving Watch,COD
+A-24000,81,-51,7,Male,Vintage Watch,EMI
+A-23997,264,71,10,Unisex,SmartWatch,Debit Card
+A-23998,48,11,2,Male,Fashion Watch,COD
+A-23999,48,15,1,Male,Dress Watch,COD
+A-24000,245,-78,2,Female,Military Watch,UPI
+A-24001,146,42,5,Male,Dress Watch,UPI
+A-24002,245,10,2,Unisex,Digital Watch,COD
+A-24003,245,91,2,Unisex,Digital Watch,UPI
+A-24004,80,3,3,Male,Vintage Watch,EMI
+A-24005,269,33,5,Unisex,Luxury Watch,Debit Card
+A-24006,80,22,3,Male,Vintage Watch,EMI
+A-24007,284,44,6,Male,Dress Watch,COD
+A-24008,313,44,3,Female,Sports Watch,COD
+A-24009,80,-26,9,Male,Automatic Watch,EMI
+A-24010,48,-8,8,Male,Vintage Watch,COD
+A-24011,87,16,2,Male,Skeleton Watch,UPI
+A-24012,47,-114,5,Unisex,SmartWatch,COD
+A-24013,140,28,2,Female,Pilot Watch,COD
+A-24014,47,1,2,Male,Vintage Watch,COD
+A-24015,79,-2,2,Unisex,SmartWatch,EMI
+A-24016,78,-64,7,Male,Vintage Watch,EMI
+A-24017,47,-3,2,Male,Vintage Watch,COD
+A-24018,185,48,4,Male,Vintage Watch,UPI
+A-24019,77,36,2,Male,Fashion Watch,EMI
+A-24020,259,47,5,Male,Dress Watch,UPI
+A-23997,75,0,7,Male,Skeleton Watch,EMI
+A-23998,75,0,3,Male,Fashion Watch,EMI
+A-23999,46,0,4,Male,Chronograph Watch,COD
+A-24000,46,13,3,Male,Dress Watch,COD
+A-24001,200,13,5,Female,Pilot Watch,COD
+A-24002,46,-14,1,Female,Pilot Watch,COD
+A-24003,126,52,4,Male,Dress Watch,UPI
+A-24004,74,29,3,Male,Vintage Watch,EMI
+A-24005,45,13,4,Male,Automatic Watch,COD
+A-24006,74,9,3,Male,Fashion Watch,UPI
+A-24007,129,11,2,Female,Pilot Watch,UPI
+A-24008,122,50,7,Male,Vintage Watch,UPI
+A-24009,74,-51,3,Male,Vintage Watch,UPI
+A-24010,278,39,5,Unisex,Luxury Watch,Debit Card
+A-24011,282,14,4,Male,Quartz Watch,Debit Card
+A-24012,45,0,2,Male,Pocket Watch,COD
+A-24013,45,6,3,Male,Fashion Watch,COD
+A-24014,45,16,3,Male,Vintage Watch,COD
+A-24015,73,-36,3,Unisex,Luxury Watch,UPI
+A-24016,45,12,4,Male,Dress Watch,COD
+A-24017,72,-6,3,Male,Skeleton Watch,UPI
+A-24018,71,-44,5,Female,Analog Watch,UPI
+A-24019,45,-2,4,Male,Fashion Watch,COD
+A-24020,286,140,6,Male,Fashion Watch,Debit Card
+A-23997,294,138,2,Female,Military Watch,Debit Card
+A-23998,223,4,3,Female,Pilot Watch,COD
+A-23999,20,-2,1,Female,Analog Watch,UPI
+A-24000,302,75,6,Unisex,SmartWatch,Debit Card
+A-23997,113,28,2,Male,Skeleton Watch,UPI
+A-23998,44,2,3,Male,Dress Watch,COD
+A-23999,305,-270,5,Female,Sports Watch,Debit Card
+A-24000,306,-147,3,Male,Skeleton Watch,Debit Card
+A-24001,70,-64,5,Male,Vintage Watch,UPI
+A-24002,44,11,4,Male,Vintage Watch,COD
+A-24003,44,14,3,Male,Dress Watch,COD
+A-24004,319,312,5,Male,Skeleton Watch,Debit Card
+A-24005,287,-280,12,Unisex,Luxury Watch,UPI
+A-24006,44,10,3,Male,Vintage Watch,COD
+A-24007,288,-180,4,Unisex,Luxury Watch,COD
+A-24008,49,-31,2,Male,Vintage Watch,COD
+A-24009,43,-10,4,Male,Automatic Watch,COD
+A-24010,43,5,3,Male,Vintage Watch,COD
+A-24011,68,-27,3,Female,Analog Watch,UPI
+A-24012,320,144,1,Female,Military Watch,Debit Card
+A-24013,67,2,4,Male,Pocket Watch,UPI
+A-24014,66,-12,5,Male,Vintage Watch,UPI
+A-24015,321,26,3,Female,Military Watch,Debit Card
+A-24016,43,-5,2,Male,Skeleton Watch,COD
+A-24017,114,-39,5,Male,Diving Watch,COD
+A-24018,43,17,1,Male,Skeleton Watch,COD
+A-24019,43,21,3,Male,Fashion Watch,COD
+A-24020,637,50,5,Male,Skeleton Watch,COD
+A-23997,300,42,2,Female,Military Watch,COD
+A-23998,341,44,7,Unisex,SmartWatch,UPI
+A-23999,102,0,3,Female,Pilot Watch,COD
+A-24000,328,-15,3,Female,Sports Watch,Debit Card
+A-24001,341,160,7,Male,Vintage Watch,Debit Card
+A-24002,62,11,7,Male,Dress Watch,UPI
+A-24003,42,13,3,Male,Chronograph Watch,COD
+A-24004,62,28,5,Male,Dress Watch,UPI
+A-24005,42,7,2,Male,Diving Watch,COD
+A-24006,42,-3,1,Female,Sports Watch,COD
+A-24007,313,-13,5,Unisex,Digital Watch,UPI
+A-24008,109,52,2,Male,Vintage Watch,UPI
+A-24009,226,58,3,Female,Analog Watch,COD
+A-24010,62,-1,1,Female,Pilot Watch,UPI
+A-24011,61,-25,4,Female,Analog Watch,UPI
+A-24012,222,74,5,Male,Dress Watch,COD
+A-24013,342,-154,7,Unisex,SmartWatch,Debit Card
+A-24014,344,-34,3,Male,Skeleton Watch,Debit Card
+A-24015,345,38,7,Male,Dress Watch,Debit Card
+A-24016,46,0,2,Female,Sports Watch,COD
+A-24017,255,74,5,Male,Dress Watch,COD
+A-24018,360,32,3,Male,Skeleton Watch,UPI
+A-24019,372,59,3,Female,Military Watch,UPI
+A-24020,61,30,2,Male,Dress Watch,UPI
+A-23997,42,12,5,Male,Dress Watch,COD
+A-23998,42,-26,2,Male,Diving Watch,COD
+A-23999,61,25,4,Male,Skeleton Watch,UPI
+A-24000,41,11,6,Male,Dress Watch,COD
+A-23997,40,13,3,Male,Pocket Watch,COD
+A-23998,59,21,2,Male,Vintage Watch,UPI
+A-23999,57,27,2,Male,Fashion Watch,UPI
+A-24000,17,6,1,Male,Vintage Watch,UPI
+A-24001,40,10,2,Male,Vintage Watch,COD
+A-24002,349,-24,2,Male,Skeleton Watch,Debit Card
+A-24003,335,-22,7,Unisex,Luxury Watch,UPI
+A-24004,40,16,3,Male,Dress Watch,COD
+A-24005,40,17,2,Male,Vintage Watch,COD
+A-24006,40,-7,3,Male,Vintage Watch,COD
+A-24007,352,74,8,Male,Vintage Watch,Debit Card
+A-24008,55,-26,4,Male,Skeleton Watch,UPI
+A-24009,352,18,5,Male,Quartz Watch,Debit Card
+A-24010,53,-18,4,Male,Pocket Watch,UPI
+A-24011,51,7,2,Unisex,SmartWatch,UPI
+A-24012,40,-37,3,Male,Vintage Watch,COD
+A-24013,39,14,5,Male,Chronograph Watch,COD
+A-24014,355,-4,2,Male,Skeleton Watch,Debit Card
+A-24015,357,139,2,Male,Skeleton Watch,Debit Card
+A-24016,38,18,1,Male,Diving Watch,COD
+A-24017,38,9,2,Male,Vintage Watch,COD
+A-24018,141,10,4,Male,Fashion Watch,UPI
+A-24019,36,4,9,Male,Dress Watch,COD
+A-24020,351,-94,5,Female,Sports Watch,COD
+A-23997,369,15,3,Female,Sports Watch,Debit Card
+A-23998,53,24,6,Male,Dress Watch,EMI
+A-23999,371,115,1,Unisex,Digital Watch,Debit Card
+A-24000,499,33,4,Male,Skeleton Watch,COD
+A-24001,223,62,7,Male,Fashion Watch,COD
+A-24002,50,-4,6,Male,Pocket Watch,EMI
+A-24003,391,90,6,Female,Pilot Watch,Debit Card
+A-24004,416,137,3,Female,Pilot Watch,Debit Card
+A-24005,424,-17,9,Unisex,Luxury Watch,Debit Card
+A-24006,362,127,1,Unisex,Digital Watch,COD
+A-24007,36,-7,1,Female,Sports Watch,COD
+A-24008,34,-10,3,Male,Automatic Watch,COD
+A-24009,367,73,3,Female,Sports Watch,UPI
+A-24010,425,208,7,Male,Skeleton Watch,Debit Card
+A-24011,433,26,3,Female,Military Watch,Debit Card
+A-24012,460,31,3,Unisex,Digital Watch,Debit Card
+A-24013,62,-56,5,Male,Diving Watch,COD
+A-24014,50,16,1,Male,Vintage Watch,EMI
+A-24015,460,-143,3,Unisex,Luxury Watch,Debit Card
+A-24016,34,3,3,Male,Skeleton Watch,COD
+A-24017,227,59,2,Unisex,SmartWatch,UPI
+A-24018,469,33,4,Female,Sports Watch,Debit Card
+A-24019,103,46,2,Male,Skeleton Watch,UPI
+A-24020,34,-13,5,Male,Chronograph Watch,COD
+A-23997,137,63,3,Male,Vintage Watch,COD
+A-23998,34,12,2,Male,Vintage Watch,COD
+A-23999,474,56,4,Female,Pilot Watch,Debit Card
+A-24000,50,3,2,Male,Vintage Watch,EMI
+A-23997,69,-67,4,Male,Diving Watch,UPI
+A-23998,389,-83,3,Unisex,Luxury Watch,UPI
+A-23999,77,-43,8,Male,Vintage Watch,COD
+A-24000,51,21,3,Male,Pocket Watch,COD
+A-24001,394,146,2,Unisex,Digital Watch,UPI
+A-24002,48,-22,2,Male,Skeleton Watch,EMI
+A-24003,34,-12,5,Male,Chronograph Watch,COD
+A-24004,484,28,3,Female,Military Watch,Debit Card
+A-24005,47,-27,4,Male,Skeleton Watch,EMI
+A-24006,45,8,4,Male,Automatic Watch,EMI
+A-24007,128,55,1,Male,Skeleton Watch,COD
+A-24008,669,74,5,Unisex,Digital Watch,COD
+A-24009,34,13,2,Male,Skeleton Watch,COD
+A-24010,44,14,3,Male,Dress Watch,Credit Card
+A-24011,33,1,2,Male,Fashion Watch,COD
+A-24012,33,10,3,Male,Dress Watch,COD
+A-24013,487,-23,3,Female,Military Watch,Debit Card
+A-24014,497,179,3,Unisex,Luxury Watch,Debit Card
+A-24015,508,203,2,Female,Analog Watch,Debit Card
+A-24016,524,-25,2,Female,Sports Watch,Debit Card
+A-24017,425,183,5,Female,Analog Watch,UPI
+A-24018,168,56,3,Male,Skeleton Watch,COD
+A-24019,141,28,7,Unisex,SmartWatch,UPI
+A-24020,429,17,3,Unisex,Luxury Watch,UPI
+A-23997,44,-8,3,Male,Vintage Watch,Credit Card
+A-23998,149,136,3,Male,Vintage Watch,UPI
+A-23999,44,-34,3,Male,Vintage Watch,Credit Card
+A-24000,33,10,3,Male,Dress Watch,COD
+A-24001,33,9,2,Male,Dress Watch,COD
+A-24002,442,31,2,Female,Sports Watch,UPI
+A-24003,41,6,5,Male,Automatic Watch,Credit Card
+A-24004,33,-12,5,Male,Dress Watch,COD
+A-24005,32,3,8,Male,Dress Watch,COD
+A-24006,32,6,3,Male,Fashion Watch,COD
+A-24007,179,77,1,Male,Skeleton Watch,UPI
+A-24008,31,10,1,Male,Diving Watch,COD
+A-24009,140,68,5,Male,Pocket Watch,COD
+A-24010,529,137,3,Female,Pilot Watch,Debit Card
+A-24011,534,0,3,Male,Skeleton Watch,Debit Card
+A-24012,41,-6,1,Unisex,Luxury Watch,Credit Card
+A-24013,379,63,2,Male,Skeleton Watch,COD
+A-24014,81,-44,3,Male,Vintage Watch,COD
+A-24015,40,-33,5,Male,Dress Watch,Credit Card
+A-24016,40,18,1,Female,Analog Watch,Credit Card
+A-24017,534,0,3,Male,Skeleton Watch,Debit Card
+A-24018,31,9,2,Male,Dress Watch,COD
+A-24019,473,-113,9,Male,Dress Watch,UPI
+A-24020,31,-10,3,Male,Automatic Watch,COD
+A-23997,31,-3,4,Male,Skeleton Watch,COD
+A-23998,91,15,6,Male,Pocket Watch,UPI
+A-23999,30,-25,2,Male,Pocket Watch,COD
+A-24000,30,6,1,Male,Pocket Watch,COD
+A-23997,40,0,3,Male,Skeleton Watch,Credit Card
+A-23998,534,5,2,Female,Sports Watch,Debit Card
+A-23999,539,-146,7,Unisex,SmartWatch,Debit Card
+A-24000,490,-128,8,Unisex,Digital Watch,UPI
+A-24001,163,81,2,Female,Analog Watch,COD
+A-24002,184,85,6,Male,Pocket Watch,UPI
+A-24003,494,54,4,Unisex,Digital Watch,COD
+A-24004,30,11,5,Male,Dress Watch,COD
+A-24005,30,0,1,Male,Diving Watch,COD
+A-24006,39,-18,2,Male,Chronograph Watch,Credit Card
+A-24007,1700,85,3,Male,Quartz Watch,COD
+A-24008,332,-43,6,Female,Pilot Watch,UPI
+A-24009,436,131,9,Male,Dress Watch,UPI
+A-24010,30,-5,2,Unisex,SmartWatch,COD
+A-24011,30,-10,2,Male,Vintage Watch,COD
+A-24012,38,-13,3,Male,Vintage Watch,Credit Card
+A-24013,511,194,3,Unisex,Luxury Watch,UPI
+A-24014,37,-53,3,Male,Skeleton Watch,Credit Card
+A-24015,513,215,2,Female,Analog Watch,COD
+A-24016,516,69,4,Unisex,Digital Watch,UPI
+A-24017,559,-19,2,Male,Quartz Watch,Debit Card
+A-24018,29,-10,3,Male,Automatic Watch,COD
+A-24019,148,52,5,Male,Vintage Watch,UPI
+A-24020,559,-174,2,Female,Sports Watch,Debit Card
+A-23997,527,26,3,Female,Sports Watch,COD
+A-23998,560,44,3,Male,Skeleton Watch,Debit Card
+A-23999,571,108,12,Male,Vintage Watch,Debit Card
+A-24000,29,2,3,Male,Automatic Watch,COD
+A-24001,29,3,2,Male,Vintage Watch,COD
+A-24002,29,-3,3,Male,Skeleton Watch,COD
+A-24003,35,14,2,Male,Vintage Watch,Credit Card
+A-24004,579,139,3,Female,Military Watch,Debit Card
+A-24005,29,-24,4,Male,Chronograph Watch,COD
+A-24006,593,213,4,Unisex,Digital Watch,Debit Card
+A-24007,217,72,2,Unisex,SmartWatch,COD
+A-24008,353,90,8,Male,Skeleton Watch,COD
+A-24009,382,92,2,Female,Military Watch,COD
+A-24010,597,93,4,Unisex,Luxury Watch,Debit Card
+A-24011,212,97,7,Male,Dress Watch,COD
+A-24012,689,90,5,Male,Skeleton Watch,COD
+A-24013,28,-10,3,Male,Automatic Watch,COD
+A-24014,34,12,3,Male,Dress Watch,Credit Card
+A-24015,600,-102,5,Female,Sports Watch,Debit Card
+A-24016,637,113,5,Male,Skeleton Watch,UPI
+A-24017,616,-69,7,Unisex,SmartWatch,Debit Card
+A-24018,624,37,2,Female,Sports Watch,Debit Card
+A-24019,28,4,1,Male,Pocket Watch,COD
+A-24020,584,-444,7,Female,Military Watch,UPI
+A-23997,28,6,4,Male,Automatic Watch,COD
+A-23998,33,-1,1,Male,Skeleton Watch,Credit Card
+A-23999,27,-20,2,Male,Dress Watch,COD
+A-24000,27,5,2,Male,Automatic Watch,COD
+A-23997,27,4,3,Male,Automatic Watch,COD
+A-23998,635,-349,5,Male,Skeleton Watch,Debit Card
+A-23999,598,166,4,Unisex,Digital Watch,UPI
+A-24000,636,-204,2,Female,Military Watch,Debit Card
+A-24001,27,9,2,Male,Dress Watch,COD
+A-24002,27,-6,4,Male,Dress Watch,COD
+A-24003,637,212,8,Female,Pilot Watch,Debit Card
+A-24004,290,110,9,Male,Vintage Watch,UPI
+A-24005,27,-25,2,Male,Vintage Watch,COD
+A-24006,632,-114,4,Unisex,Fitness Trackers,UPI
+A-24007,643,-45,2,Female,Military Watch,Debit Card
+A-24008,652,13,6,Unisex,SmartWatch,Debit Card
+A-24009,33,-27,1,Unisex,Luxury Watch,Credit Card
+A-24010,26,2,2,Male,Dress Watch,COD
+A-24011,633,-633,11,Female,Analog Watch,UPI
+A-24012,26,9,2,Male,Chronograph Watch,COD
+A-24013,191,93,4,Male,Fashion Watch,UPI
+A-24014,887,80,3,Female,Military Watch,UPI
+A-24015,637,261,2,Female,Military Watch,COD
+A-24016,670,15,5,Unisex,Digital Watch,Debit Card
+A-24017,26,7,4,Male,Dress Watch,COD
+A-24018,676,195,5,Unisex,Digital Watch,Debit Card
+A-24019,26,12,3,Male,Dress Watch,COD
+A-24020,26,-24,1,Male,Vintage Watch,COD
+A-23997,25,7,2,Male,Vintage Watch,COD
+A-23998,24,-30,1,Unisex,Luxury Watch,COD
+A-23999,32,-12,1,Unisex,Luxury Watch,Credit Card
+A-24000,31,-2,2,Male,Skeleton Watch,Credit Card
+A-24001,651,169,5,Female,Military Watch,COD
+A-24002,326,107,3,Unisex,SmartWatch,UPI
+A-24003,30,-6,2,Male,Dress Watch,UPI
+A-24004,30,5,2,Male,Diving Watch,UPI
+A-24005,662,240,2,Unisex,Digital Watch,COD
+A-24006,30,-23,2,Male,Skeleton Watch,UPI
+A-24007,29,9,3,Male,Skeleton Watch,UPI
+A-24008,28,1,1,Female,Analog Watch,UPI
+A-24009,28,-3,2,Male,Skeleton Watch,UPI
+A-24010,24,2,4,Male,Dress Watch,COD
+A-24011,28,-26,2,Male,Vintage Watch,UPI
+A-24012,27,5,1,Male,Vintage Watch,UPI
+A-24013,27,-15,1,Male,Vintage Watch,UPI
+A-24014,24,11,3,Male,Dress Watch,COD
+A-24015,23,-6,4,Male,Dress Watch,COD
+A-24016,322,193,5,Female,Military Watch,COD
+A-24017,688,-103,6,Female,Analog Watch,Debit Card
+A-24018,23,-3,1,Male,Fashion Watch,COD
+A-24019,26,3,3,Male,Automatic Watch,UPI
+A-24020,68,-56,2,Female,Pilot Watch,COD
+A-23997,462,169,4,Male,Skeleton Watch,COD
+A-23998,941,203,3,Unisex,Fitness Trackers,UPI
+A-23999,23,4,2,Male,Automatic Watch,COD
+A-24000,720,43,2,Female,Military Watch,UPI
+A-23997,724,-447,4,Female,Sports Watch,UPI
+A-23998,724,253,2,Unisex,Digital Watch,UPI
+A-23999,26,10,4,Male,Dress Watch,UPI
+A-24000,22,-2,3,Male,Dress Watch,COD
+A-24001,711,-8,4,Male,Skeleton Watch,Debit Card
+A-24002,107,31,5,Male,Pocket Watch,COD
+A-24003,765,-153,2,Female,Pilot Watch,Debit Card
+A-24004,22,8,2,Male,Chronograph Watch,COD
+A-24005,26,-5,2,Male,Vintage Watch,UPI
+A-24006,22,8,3,Male,Dress Watch,COD
+A-24007,743,89,5,Female,Military Watch,UPI
+A-24008,22,-15,4,Male,Diving Watch,COD
+A-24009,781,594,6,Female,Military Watch,Debit Card
+A-24010,25,-2,5,Male,Dress Watch,UPI
+A-24011,25,2,2,Male,Dress Watch,UPI
+A-24012,119,43,5,Male,Pocket Watch,COD
+A-24013,785,52,2,Female,Pilot Watch,Debit Card
+A-24014,183,-66,5,Female,Pilot Watch,UPI
+A-24015,22,4,1,Male,Vintage Watch,COD
+A-24016,642,180,5,Male,Skeleton Watch,COD
+A-24017,767,-353,5,Male,Quartz Watch,COD
+A-24018,770,323,3,Female,Analog Watch,COD
+A-24019,21,-17,3,Male,Fashion Watch,COD
+A-24020,21,-6,3,Male,Chronograph Watch,COD
+A-23997,492,187,2,Female,Analog Watch,UPI
+A-23998,816,-96,3,Female,Military Watch,Debit Card
+A-23999,25,2,3,Male,Diving Watch,Credit Card
+A-24000,802,120,7,Female,Analog Watch,COD
+A-24001,811,154,7,Female,Analog Watch,UPI
+A-24002,835,267,5,Female,Pilot Watch,Debit Card
+A-24003,21,-5,1,Female,Analog Watch,COD
+A-24004,450,-190,4,Unisex,Digital Watch,COD
+A-24005,24,-1,4,Male,Automatic Watch,Credit Card
+A-24006,832,0,3,Male,Quartz Watch,UPI
+A-24007,833,93,3,Male,Quartz Watch,UPI
+A-24008,20,6,1,Male,Pocket Watch,COD
+A-24009,23,-5,7,Male,Dress Watch,Credit Card
+A-24010,550,-242,5,Unisex,SmartWatch,UPI
+A-24011,148,-91,2,Female,Pilot Watch,COD
+A-24012,846,9,2,Unisex,Luxury Watch,Debit Card
+A-24013,856,385,6,Female,Military Watch,COD
+A-24014,871,131,2,Unisex,Digital Watch,UPI
+A-24015,19,-18,4,Male,Diving Watch,COD
+A-24016,610,-66,2,Unisex,Fitness Trackers,COD
+A-24017,880,97,8,Unisex,SmartWatch,Debit Card
+A-24018,22,-8,4,Male,Dress Watch,Credit Card
+A-24019,22,11,2,Male,Automatic Watch,Credit Card
+A-24020,21,4,3,Male,Dress Watch,Credit Card
+A-23997,18,1,3,Male,Dress Watch,COD
+A-23998,911,202,7,Unisex,Luxury Watch,COD
+A-23999,18,2,3,Male,Dress Watch,COD
+A-24000,911,355,5,Female,Pilot Watch,Debit Card
+A-23997,143,-129,2,Female,Pilot Watch,COD
+A-23998,918,22,9,Female,Sports Watch,COD
+A-23999,925,-447,5,Female,Sports Watch,COD
+A-24000,17,8,2,Male,Automatic Watch,COD
+A-24001,465,207,9,Male,Skeleton Watch,COD
+A-24002,17,-9,3,Male,Vintage Watch,COD
+A-24003,935,114,4,Female,Sports Watch,UPI
+A-24004,16,-10,2,Male,Pocket Watch,COD
+A-24005,954,95,3,Female,Military Watch,UPI
+A-24006,915,-99,3,Unisex,Fitness Trackers,Debit Card
+A-24007,955,305,3,Female,Military Watch,Debit Card
+A-24008,976,293,4,Female,Analog Watch,COD
+A-24009,1069,0,6,Male,Skeleton Watch,EMI
+A-24010,19,-15,3,Male,Dress Watch,Credit Card
+A-24011,16,6,3,Male,Dress Watch,COD
+A-24012,1030,206,8,Female,Military Watch,UPI
+A-24013,620,82,6,Female,Analog Watch,COD
+A-24014,16,8,2,Male,Dress Watch,COD
+A-24015,19,8,2,Male,Dress Watch,Credit Card
+A-24016,249,-130,4,Female,Pilot Watch,UPI
+A-24017,16,6,1,Male,Vintage Watch,COD
+A-24018,1361,197,9,Unisex,Digital Watch,COD
+A-24019,15,1,1,Male,Fashion Watch,COD
+A-24020,1076,-38,4,Female,Military Watch,COD
+A-23997,18,2,3,Male,Dress Watch,Credit Card
+A-23998,1101,352,3,Unisex,Digital Watch,UPI
+A-23999,15,2,1,Male,Chronograph Watch,COD
+A-24000,1104,209,4,Male,Quartz Watch,UPI
+A-24001,14,2,1,Male,Dress Watch,COD
+A-24002,14,5,1,Male,Dress Watch,COD
+A-24003,14,-3,2,Male,Chronograph Watch,COD
+A-24004,14,-1,4,Male,Diving Watch,COD
+A-24005,13,-8,1,Male,Pocket Watch,COD
+A-24006,13,-1,3,Male,Dress Watch,COD
+A-24007,1275,1148,7,Unisex,Digital Watch,EMI
+A-24008,17,1,2,Male,Automatic Watch,Credit Card
+A-24009,13,0,2,Male,Dress Watch,COD
+A-24010,1270,546,11,Female,Sports Watch,EMI
+A-24011,13,-2,1,Male,Vintage Watch,COD
+A-24012,13,3,1,Male,Chronograph Watch,COD
+A-24013,17,5,1,Male,Dress Watch,UPI
+A-24014,13,-13,2,Male,Automatic Watch,COD
+A-24015,13,-9,2,Male,Automatic Watch,COD
+A-24016,1263,-56,5,Male,Quartz Watch,EMI
+A-24017,1629,-153,3,Female,Pilot Watch,COD
+A-24018,17,7,3,Male,Dress Watch,UPI
+A-24019,17,2,2,Male,Automatic Watch,UPI
+A-24020,1250,-12,2,Female,Military Watch,EMI
+A-23997,17,-11,3,Male,Automatic Watch,UPI
+A-23998,977,-244,7,Female,Pilot Watch,COD
+A-23999,1246,62,3,Unisex,Digital Watch,EMI
+A-24000,12,1,2,Male,Dress Watch,COD
+A-23997,11,-4,2,Male,Automatic Watch,COD
+A-23998,1327,318,8,Unisex,Luxury Watch,EMI
+A-23999,1319,567,5,Female,Military Watch,COD
+A-24000,1402,109,11,Male,Skeleton Watch,EMI
+A-24001,1514,742,4,Female,Military Watch,EMI
+A-24002,1351,111,6,Female,Sports Watch,COD
+A-24003,1355,-60,5,Male,Quartz Watch,COD
+A-24004,10,2,2,Male,Dress Watch,COD
+A-24005,10,-2,2,Male,Chronograph Watch,COD
+A-24006,1582,-443,6,Male,Quartz Watch,EMI
+A-24007,1218,352,9,Unisex,Digital Watch,EMI
+A-24008,321,315,5,Male,Skeleton Watch,UPI
+A-24009,736,346,5,Female,Military Watch,COD
+A-24010,1218,-420,8,Unisex,Digital Watch,COD
+A-24011,1027,441,8,Male,Skeleton Watch,COD
+A-24012,10,5,1,Male,Vintage Watch,COD
+A-24013,2366,552,5,Male,Quartz Watch,UPI
+A-24014,9,-6,2,Male,Dress Watch,COD
+A-24015,16,-12,2,Male,Vintage Watch,UPI
+A-24016,9,3,1,Male,Automatic Watch,COD
+A-24017,1560,421,3,Male,Quartz Watch,COD
+A-24018,1137,568,2,Male,Quartz Watch,EMI
+A-24019,9,-9,2,Male,Diving Watch,COD
+A-24020,15,-7,1,Male,Dress Watch,UPI
+A-23997,14,5,1,Male,Dress Watch,UPI
+A-23998,14,7,2,Male,Dress Watch,UPI
+A-23999,8,-2,2,Male,Dress Watch,COD
+A-24000,1389,680,7,Male,Skeleton Watch,COD
+A-24001,8,-1,2,Male,Chronograph Watch,COD
+A-24002,8,-2,1,Male,Vintage Watch,COD
+A-24003,13,4,1,Male,Chronograph Watch,UPI
+A-24004,8,-6,1,Male,Vintage Watch,COD
+A-24005,12,2,2,Male,Automatic Watch,Credit Card
+A-24006,1716,309,7,Female,Analog Watch,COD
+A-24007,1117,447,10,Unisex,Digital Watch,EMI
+A-24008,9,-6,2,Male,Automatic Watch,Credit Card
+A-24009,332,503,3,Female,Military Watch,COD
+A-24010,7,-4,3,Male,Dress Watch,COD
+A-24011,8,-2,3,Male,Dress Watch,Credit Card
+A-24012,2061,701,5,Unisex,Digital Watch,UPI
+A-24013,1103,276,3,Unisex,Luxury Watch,EMI
+A-24014,2103,322,8,Female,Sports Watch,UPI
+A-24015,2115,23,5,Unisex,Luxury Watch,COD
+A-24016,850,-289,5,Female,Sports Watch,COD
+A-24017,1063,64,7,Female,Pilot Watch,EMI
+A-24018,1063,-175,4,Female,Sports Watch,EMI
+A-24019,2292,127,7,Unisex,Digital Watch,COD
+A-24020,7,-1,2,Male,Dress Watch,Credit Card
+A-23997,2452,191,7,Unisex,Digital Watch,UPI
+A-23998,2457,665,11,Female,Sports Watch,EMI
+A-23999,4,-3,1,Male,Automatic Watch,Credit Card
+A-24000,2830,-1981,13,Unisex,Digital Watch,EMI
+A-23997,7,1,1,Male,Dress Watch,COD
+A-23998,7,0,2,Male,Automatic Watch,COD
+A-23999,7,-3,2,Male,Dress Watch,COD
+A-24000,3151,-35,7,Male,Quartz Watch,EMI
+A-24001,4141,1698,13,Female,Military Watch,COD
+A-24002,7,-2,1,Male,Dress Watch,COD
+A-24003,4363,305,5,Unisex,Fitness Trackers,EMI
+A-24004,14,-1,4,Male,Diving Watch,COD
+A-24005,13,-8,1,Male,Pocket Watch,COD
+A-24006,13,-1,3,Male,Dress Watch,COD
+A-24007,1275,1148,7,Unisex,Digital Watch,EMI
+A-24008,17,1,2,Male,Automatic Watch,Credit Card
+A-24009,13,0,2,Male,Dress Watch,COD
+A-24010,1270,546,11,Female,Sports Watch,EMI
+A-24011,13,-2,1,Male,Vintage Watch,COD
+A-24012,13,3,1,Male,Chronograph Watch,COD
+A-24013,17,5,1,Male,Dress Watch,UPI
+A-24014,13,-13,2,Male,Automatic Watch,COD
+A-24015,13,-9,2,Male,Automatic Watch,COD
+A-24016,1263,-56,5,Male,Quartz Watch,EMI
+A-24017,1629,-153,3,Female,Pilot Watch,COD
+A-24018,17,7,3,Male,Dress Watch,UPI
+A-24019,17,2,2,Male,Automatic Watch,UPI
+A-24020,1250,-12,2,Female,Military Watch,EMI
+A-23997,17,-11,3,Male,Automatic Watch,UPI
+A-23998,977,-244,7,Female,Pilot Watch,COD
+A-23999,1246,62,3,Unisex,Digital Watch,EMI
+A-24000,12,1,2,Male,Dress Watch,COD
+A-24001,11,-4,2,Male,Automatic Watch,COD
+A-24002,1327,318,8,Unisex,Luxury Watch,EMI
+A-24003,1319,567,5,Female,Military Watch,COD
+A-24004,1402,109,11,Male,Skeleton Watch,EMI
+A-24005,1514,742,4,Female,Military Watch,EMI
+A-24006,1351,111,6,Female,Sports Watch,COD
+A-24007,1355,-60,5,Male,Quartz Watch,COD
+A-24008,10,2,2,Male,Dress Watch,COD
+A-24009,10,-2,2,Male,Chronograph Watch,COD
+A-24010,1582,-443,6,Male,Quartz Watch,EMI
+A-24011,1218,352,9,Unisex,Digital Watch,EMI
+A-24012,321,315,5,Male,Skeleton Watch,UPI
+A-24013,736,346,5,Female,Military Watch,COD
+A-24014,1218,-420,8,Unisex,Digital Watch,COD
+A-24015,1027,441,8,Male,Skeleton Watch,COD
+A-24016,10,5,1,Male,Vintage Watch,COD
+A-24017,2366,552,5,Male,Quartz Watch,UPI
+A-24018,9,-6,2,Male,Dress Watch,COD
+A-24019,16,-12,2,Male,Vintage Watch,UPI
+A-24020,9,3,1,Male,Automatic Watch,COD
+A-23997,1560,421,3,Male,Quartz Watch,COD
+A-23998,1137,568,2,Male,Quartz Watch,EMI
+A-23999,9,-9,2,Male,Diving Watch,COD
+A-24000,15,-7,1,Male,Dress Watch,UPI
+A-23997,14,5,1,Male,Dress Watch,UPI
+A-23998,14,7,2,Male,Dress Watch,UPI
+A-23999,8,-2,2,Male,Dress Watch,COD
+A-24000,1389,680,7,Male,Skeleton Watch,COD
+A-24001,8,-1,2,Male,Chronograph Watch,COD
+A-24002,8,-2,1,Male,Vintage Watch,COD
+A-24003,13,4,1,Male,Chronograph Watch,UPI
+A-24004,8,-6,1,Male,Vintage Watch,COD
+A-24005,12,2,2,Male,Automatic Watch,Credit Card
+A-24006,1716,309,7,Female,Analog Watch,COD
+A-24007,1117,447,10,Unisex,Digital Watch,EMI
+A-24008,9,-6,2,Male,Automatic Watch,Credit Card
+A-24009,332,503,3,Female,Military Watch,COD
+A-24010,7,-4,3,Male,Dress Watch,COD
+A-24011,8,-2,3,Male,Dress Watch,Credit Card
+A-24012,2061,701,5,Unisex,Digital Watch,UPI
+A-24013,1103,276,3,Unisex,Luxury Watch,EMI
+A-24014,2103,322,8,Female,Sports Watch,UPI
+A-24015,2115,23,5,Unisex,Luxury Watch,COD
+A-24016,850,-289,5,Female,Sports Watch,COD
+A-24017,1063,64,7,Female,Pilot Watch,EMI
+A-24018,1063,-175,4,Female,Sports Watch,EMI
+A-24019,2292,127,7,Unisex,Digital Watch,COD
+A-24020,7,-1,2,Male,Dress Watch,Credit Card
+A-23997,2452,191,7,Unisex,Digital Watch,UPI
+A-23998,2457,665,11,Female,Sports Watch,EMI
+A-23999,4,-3,1,Male,Automatic Watch,Credit Card
+A-24000,2830,-1981,13,Unisex,Digital Watch,EMI
+A-24001,7,1,1,Male,Dress Watch,COD
+A-24002,7,0,2,Male,Automatic Watch,COD
+A-24003,7,-3,2,Male,Dress Watch,COD
+A-24004,3151,-35,7,Male,Quartz Watch,EMI
+A-24005,4141,1698,13,Female,Military Watch,COD
+A-24006,7,-2,1,Male,Dress Watch,COD
+A-24007,4363,305,5,Unisex,Fitness Trackers,EMI

@@ -1,0 +1,581 @@
+Order ID,Order Date,CustomerName,State,City
+B-26055,10/03/2023,Harivansh,Uttar Pradesh,Mathura
+B-25993,03/02/2023,Madhav,Delhi,Delhi
+B-25973,24/01/2023,Madan Mohan,Uttar Pradesh,Mathura
+B-25923,27/12/2022,Gopal,Maharashtra,Mumbai
+B-25757,21/08/2022,Vishakha,Madhya Pradesh,Indore
+B-25967,21/01/2022,Sudevi,Uttar Pradesh,Prayagraj
+B-25955,16/01/2022,Shiva,Maharashtra,Pune
+B-26093,27/03/2022,Sarita,Maharashtra,Pune
+B-25798,01/10/2022,Shishu,Andhra Pradesh,Hyderabad
+B-25602,01/04/2022,Vrinda,Maharashtra,Pune
+B-25858,13/11/2022,Uudhav,Maharashtra,Mumbai
+B-25969,21/01/2022,Shreyshi,Gujarat,Surat
+B-26056,30/03/2022,Bhishm,Maharashtra,Mumbai
+B-25997,04/02/2022,Yogesh,Maharashtra,Pune
+B-25881,25/11/2022,Lalita,Uttar Pradesh,Mathura
+B-25761,25/08/2022,Madhav,Uttar Pradesh,Mathura
+B-25887,01/12/2022,Vishakha,Uttar Pradesh,Prayagraj
+B-25823,18/10/2022,Rohan,Maharashtra,Mumbai
+B-25853,08/11/2022,Gaurav,Gujarat,Ahmedabad
+B-25862,15/11/2022,Amol,Bihar,Patna
+B-25830,26/10/2022,Aastha,Himachal Pradesh,Simla
+B-25786,19/09/2022,Madan Mohan,Uttar Pradesh,Mathura
+B-25686,11/06/2022,Pooja,Himachal Pradesh,Simla
+B-26022,18/02/2022,Shrichand,Punjab,Chandigarh
+B-26888,08/02/2022,Hitesh,Madhya Pradesh,Bhopal
+B-25755,19/08/2022,Shourya,Kerala ,Thiruvananthapuram
+B-25902,10/12/2022,Ishpreet,Maharashtra,Mumbai
+B-25935,04/01/2022,Sudhir,Nagaland,Kohima
+B-25797,30/09/2022,Sauptik,Madhya Pradesh,Indore
+B-25639,27/04/2022,Lisha,Madhya Pradesh,Bhopal
+B-25681,04/06/2022,Bhawna,Madhya Pradesh,Indore
+B-25909,13/12/2022,Sujay,Maharashtra,Pune
+B-25910,14/12/2022,Jay,Delhi,Delhi
+B-25950,13/01/2022,Shruti,Madhya Pradesh,Indore
+B-25613,12/04/2022,Mohan,Haryana,Chandigarh
+B-25919,23/12/2022,Neha,Rajasthan,Udaipur
+B-25768,01/09/2022,Shreyoshe,Karnataka,Bangalore
+B-25629,24/04/2022,Hemant,Kerala ,Thiruvananthapuram
+B-25729,22/07/2022,Madhulika,Madhya Pradesh,Bhopal
+B-25943,09/01/2022,Shardul,Gujarat,Ahmedabad
+B-25842,02/11/2022,Sheetal,Maharashtra,Pune
+B-26073,21/03/2022,Pournamasi,Madhya Pradesh,Indore
+B-25778,11/09/2022,Surabhi,Maharashtra,Mumbai
+B-25717,12/07/2022,Manshul,Uttar Pradesh,Lucknow
+B-26085,26/03/2022,Shrichand,Punjab,Chandigarh
+B-26048,04/03/2022,Parth,Maharashtra,Pune
+B-25793,24/09/2022,Siddharth,Madhya Pradesh,Indore
+B-25656,11/05/2022,Priyanka,Maharashtra,Pune
+B-25608,08/04/2022,Aarushi,Tamil Nadu,Chennai
+B-25752,14/08/2022,Vaibhav,Madhya Pradesh,Indore
+B-25779,12/09/2022,Savi,Maharashtra,Pune
+B-25603,03/04/2022,Jahan,Madhya Pradesh,Bhopal
+B-26051,07/03/2022,Parishi,West Bengal,Kolkata
+B-25653,08/05/2022,Farah,Nagaland,Kohima
+B-25855,08/11/2022,Abhijeet,Madhya Pradesh,Bhopal
+B-25762,26/08/2022,Anudeep,Madhya Pradesh,Indore
+B-25995,04/02/2022,Yohann,Delhi,Delhi
+B-25929,02/01/2022,Girase,Kerala ,Thiruvananthapuram
+B-26006,09/02/2022,Arpita,Karnataka,Bangalore
+B-25697,22/06/2022,Vijay,Jammu and Kashmir,Kashmir
+B-25836,29/10/2022,Arti,Maharashtra,Pune
+B-25601,01/04/2022,Bharat,Gujarat,Ahmedabad
+B-25873,23/11/2022,Divyeta,Madhya Pradesh,Indore
+B-26028,20/02/2022,Manju,Andhra Pradesh,Hyderabad
+B-25964,20/01/2022,Oshin,Maharashtra,Pune
+B-25676,01/06/2022,Chandni,Rajasthan,Jaipur
+B-25839,30/10/2022,Pranjali,West Bengal,Kolkata
+B-25894,04/12/2022,Monu,Punjab,Amritsar
+B-25925,29/12/2022,Shruti,Maharashtra,Mumbai
+B-25953,14/01/2022,Krutika,Andhra Pradesh,Hyderabad
+B-25772,02/09/2022,Sanjana,Bihar,Patna
+B-25957,18/01/2022,Mahima,Madhya Pradesh,Indore
+B-25730,22/07/2022,Rishabh,Rajasthan,Jaipur
+B-25877,24/11/2022,Dashyam,Gujarat,Surat
+B-26067,16/03/2022,Tulika,Madhya Pradesh,Bhopal
+B-25810,10/10/2022,Nripraj,Punjab,Chandigarh
+B-25868,18/11/2022,Vikash,Goa,Goa
+B-26023,19/02/2022,Mukesh,Haryana,Chandigarh
+B-25626,23/04/2022,Bhishm,Maharashtra,Mumbai
+B-25937,05/01/2022,Ankit,Haryana,Chandigarh
+B-25610,09/04/2022,Yogesh,Bihar,Patna
+B-25777,10/09/2022,Aditi,Madhya Pradesh,Indore
+B-25738,02/08/2022,Ayush,Punjab,Chandigarh
+B-25978,27/01/2022,Parin,Maharashtra,Mumbai
+B-25643,29/04/2022,Kirti,Jammu and Kashmir,Kashmir
+B-25728,22/07/2022,Ameesha,Maharashtra,Pune
+B-25749,13/08/2022,Ayush,Maharashtra,Mumbai
+B-25667,23/05/2022,Anjali,Haryana,Chandigarh
+B-25657,13/05/2022,Tulika,Madhya Pradesh,Bhopal
+B-25753,17/08/2022,Shivam,Uttar Pradesh,Lucknow
+B-26061,14/03/2022,Anurag,Madhya Pradesh,Indore
+B-25838,29/10/2022,Sanjana,Madhya Pradesh,Indore
+B-25702,27/06/2022,Shaily,Maharashtra,Mumbai
+B-25952,13/01/2022,Priyanka,Madhya Pradesh,Indore
+B-25666,22/05/2022,Tanvi,Punjab,Chandigarh
+B-25675,31/05/2022,Shreya,Madhya Pradesh,Bhopal
+B-25650,06/05/2022,Chirag,Maharashtra,Mumbai
+B-25986,31/01/2022,Shweta,Rajasthan,Udaipur
+B-25850,05/11/2022,Abhishek,Goa,Goa
+B-25898,07/12/2022,Abhishek,Rajasthan,Udaipur
+B-25813,10/10/2022,Hrisheekesh,Maharashtra,Mumbai
+B-25825,21/10/2022,Kartik,Madhya Pradesh,Indore
+B-25954,14/01/2022,Trupti,Gujarat,Ahmedabad
+B-25696,21/06/2022,Noopur,Karnataka,Bangalore
+B-25638,26/04/2022,Parth,Maharashtra,Pune
+B-25747,11/08/2022,Harsh,Madhya Pradesh,Bhopal
+B-25904,10/12/2022,Swapnil,Delhi,Delhi
+B-25852,07/11/2022,Soumyabrata,Andhra Pradesh,Hyderabad
+B-25981,28/01/2022,Amruta,Delhi,Delhi
+B-25899,08/12/2022,Aishwarya,Uttar Pradesh,Prayagraj
+B-25870,20/11/2022,Pranav,Andhra Pradesh,Hyderabad
+B-26040,26/02/2022,Sahil,Punjab,Chandigarh
+B-25671,27/05/2022,Mitali,Nagaland,Kohima
+B-26100,31/03/2022,Hitika,Madhya Pradesh,Indore
+B-25651,07/05/2022,Anurag,Madhya Pradesh,Indore
+B-25968,21/01/2022,Paromita,Punjab,Amritsar
+B-26019,15/02/2022,Jitesh,Uttar Pradesh,Lucknow
+B-25664,20/05/2022,Pratyusmita,Bihar,Patna
+B-26033,22/02/2022,Atharv,West Bengal,Kolkata
+B-26052,08/03/2022,Ajay,Karnataka,Bangalore
+B-25999,05/02/2022,Diwakar,Delhi,Delhi
+B-25781,14/09/2022,Rutuja,Gujarat,Ahmedabad
+B-25764,28/08/2022,Sanjova,Maharashtra,Pune
+B-25803,05/10/2022,Shivanshu,Madhya Pradesh,Indore
+B-25945,11/01/2022,Mhatre,Madhya Pradesh,Indore
+B-26086,26/03/2022,Mukesh,Haryana,Chandigarh
+B-25845,03/11/2022,Snel,Kerala ,Thiruvananthapuram
+B-25817,13/10/2022,Praneet,Maharashtra,Mumbai
+B-25951,13/01/2022,Jesal,West Bengal,Kolkata
+B-25970,22/01/2022,Rhea,Maharashtra,Mumbai
+B-25878,24/11/2022,Mrinal,Maharashtra,Mumbai
+B-26057,10/03/2022,Sharda,Kerala ,Thiruvananthapuram
+B-25885,28/11/2022,Shatayu,Madhya Pradesh,Indore
+B-25897,06/12/2022,Rohan,Madhya Pradesh,Indore
+B-25756,20/08/2022,Mohan,Maharashtra,Mumbai
+B-25859,14/11/2022,Chikku,Madhya Pradesh,Indore
+B-25691,16/06/2022,Akancha,Maharashtra,Mumbai
+B-25633,26/04/2022,Amit,Sikkim,Gangtok
+B-25708,01/07/2022,Kishwar,Madhya Pradesh,Indore
+B-25831,27/10/2022,Mahima,Sikkim,Gangtok
+B-25856,10/11/2022,Abhijeet,Maharashtra,Mumbai
+B-25893,04/12/2022,Vrinda,Uttar Pradesh,Mathura
+B-25959,18/01/2022,Muskan,Madhya Pradesh,Indore
+B-26000,06/02/2022,Shubham,Delhi,Delhi
+B-26097,28/03/2022,Vini,Karnataka,Bangalore
+B-25745,09/08/2022,Kartik,Gujarat,Ahmedabad
+B-25974,25/01/2022,Manisha,Rajasthan,Udaipur
+B-25670,25/05/2022,Charika,Goa,Goa
+B-25848,03/11/2022,Rohan,Himachal Pradesh,Simla
+B-25888,02/12/2022,Rohan,Punjab,Amritsar
+B-25942,08/01/2022,Ankur,Andhra Pradesh,Hyderabad
+B-25847,03/11/2022,Aniket,Haryana,Chandigarh
+B-25636,26/04/2022,Nishi,Maharashtra,Mumbai
+B-25826,22/10/2022,Tanushree,Maharashtra,Mumbai
+B-26081,22/03/2022,Aarushi,Tamil Nadu,Chennai
+B-25625,23/04/2022,Pinky,Jammu and Kashmir,Kashmir
+B-25802,05/10/2022,Yash,Maharashtra,Mumbai
+B-25693,18/06/2022,Parna,Madhya Pradesh,Bhopal
+B-25796,24/09/2022,Sukrith,Maharashtra,Mumbai
+B-25806,06/10/2022,Dhanraj,Madhya Pradesh,Indore
+B-25710,05/07/2022,Megha,Maharashtra,Pune
+B-25669,25/05/2022,Piyali,Sikkim,Gangtok
+B-25857,10/11/2022,Anand,Madhya Pradesh,Indore
+B-25785,15/09/2022,Ayush,West Bengal,Kolkata
+B-25930,03/01/2022,Monica,Punjab,Chandigarh
+B-26053,09/03/2022,Kirti,Jammu and Kashmir,Kashmir
+B-26070,18/03/2022,Shruti,Karnataka,Bangalore
+B-25791,24/09/2022,Avish,Kerala ,Thiruvananthapuram
+B-25983,30/01/2022,Atul,Delhi,Delhi
+B-25979,27/01/2022,Shivangi,Madhya Pradesh,Indore
+B-26054,10/03/2022,Mayank,Maharashtra,Mumbai
+B-26078,22/03/2022,Kasheen,West Bengal,Kolkata
+B-25787,20/09/2022,Asish,Jammu and Kashmir,Kashmir
+B-25682,07/06/2022,Krutika,Bihar,Patna
+B-25962,19/01/2022,Tejeswini,Maharashtra,Pune
+B-25750,14/08/2022,Priyanshu,Madhya Pradesh,Indore
+B-25828,24/10/2022,Nikita,Punjab,Chandigarh
+B-25622,22/04/2022,Monisha,Rajasthan,Jaipur
+B-25751,14/08/2022,Nishant,Maharashtra,Mumbai
+B-25685,10/06/2022,Sheetal,Madhya Pradesh,Indore
+B-26010,11/02/2022,Kartikay,Bihar,Patna
+B-26035,23/02/2022,Pinky,Jammu and Kashmir,Kashmir
+B-25698,23/06/2022,Amisha,Tamil Nadu,Chennai
+B-25966,21/01/2022,Soumya,Rajasthan,Udaipur
+B-25832,28/10/2022,Harshita,Maharashtra,Mumbai
+B-25743,07/08/2022,Aman,Nagaland,Kohima
+B-25886,28/11/2022,Brijesh,Rajasthan,Udaipur
+B-25975,25/01/2022,Priyanka,Uttar Pradesh,Prayagraj
+B-26098,29/03/2022,Pinky,Jammu and Kashmir,Kashmir
+B-25614,13/04/2022,Vandana,Himachal Pradesh,Simla
+B-25726,21/07/2022,Kiran,Maharashtra,Mumbai
+B-26050,06/03/2022,Paridhi,Rajasthan,Jaipur
+B-25609,09/04/2022,Jitesh,Uttar Pradesh,Lucknow
+B-25741,03/08/2022,Navdeep,Madhya Pradesh,Indore
+B-25956,17/01/2022,Shreya,Maharashtra,Mumbai
+B-25689,14/06/2022,Bhaggyasree,Maharashtra,Mumbai
+B-25939,05/01/2022,Vineet,Sikkim,Gangtok
+B-25890,04/12/2022,Divyansha,Maharashtra,Mumbai
+B-25814,10/10/2022,Swapnil,Madhya Pradesh,Indore
+B-25718,12/07/2022,Anjali,Maharashtra,Mumbai
+B-25914,18/12/2022,Kajal,Delhi,Delhi
+B-25903,10/12/2022,Amlan,Madhya Pradesh,Indore
+B-26096,28/03/2022,Atharv,West Bengal,Kolkata
+B-25654,10/05/2022,Sabah,Maharashtra,Mumbai
+B-26076,21/03/2022,Jahan,Madhya Pradesh,Bhopal
+B-25961,18/01/2022,Surbhi,Gujarat,Ahmedabad
+B-25854,08/11/2022,Shubham,Maharashtra,Pune
+B-25642,28/04/2022,Ajay,Karnataka,Bangalore
+B-25683,08/06/2022,Shreya,Kerala ,Thiruvananthapuram
+B-26016,14/02/2022,Hazel,Karnataka,Bangalore
+B-26034,23/02/2022,Vini,Karnataka,Bangalore
+B-25819,10/03/2022,Sonal,Bihar,Patna
+B-25715,15/10/2022,Ankur,Madhya Pradesh,Bhopal
+B-25933,10/07/2022,Srishti,Jammu and Kashmir,Kashmir
+B-26014,04/01/2022,Shikhar,Maharashtra,Mumbai
+B-25655,13/02/2022,Divsha,Rajasthan,Jaipur
+B-25816,11/05/2022,Nida,Madhya Pradesh,Indore
+B-25634,12/10/2022,Mane,Andhra Pradesh,Hyderabad
+B-25895,26/04/2022,Sanjay,Goa,Goa
+B-25687,04/12/2022,Sathya,Gujarat,Surat
+B-25662,11/06/2022,Sanjna,Maharashtra,Mumbai
+B-25635,17/05/2022,Sweta,Maharashtra,Mumbai
+B-26060,26/04/2022,Nidhi,Nagaland,Kohima
+B-26045,13/03/2022,Chirag,Maharashtra,Mumbai
+B-25770,03/03/2022,Nidhi,Nagaland,Kohima
+B-25744,02/09/2022,Sakshi,Madhya Pradesh,Indore
+B-25618,08/08/2022,Devendra,Andhra Pradesh,Hyderabad
+B-25958,18/04/2022,Manju,Andhra Pradesh,Hyderabad
+B-25769,18/01/2022,Aparajita,West Bengal,Kolkata
+B-25619,02/09/2022,Surbhi,Maharashtra,Mumbai
+B-25688,18/04/2022,Ramesh,Gujarat,Ahmedabad
+B-25829,11/06/2022,Swetha,Madhya Pradesh,Indore
+B-26036,25/10/2022,Apoorva,Haryana,Chandigarh
+B-25714,23/02/2022,Bhishm,Maharashtra,Mumbai
+B-25989,09/07/2022,Stuti,Karnataka,Bangalore
+B-25849,01/02/2022,Anjali,Delhi,Delhi
+B-25851,04/11/2022,K,Sikkim,Gangtok
+B-25782,06/11/2022,Kushal,Nagaland,Kohima
+B-25621,15/09/2022,Aayushi,Maharashtra,Mumbai
+B-25996,20/04/2022,Deepak,Madhya Pradesh,Bhopal
+B-25678,04/02/2022,Prashant,Delhi,Delhi
+B-25727,03/06/2022,Bathina,Karnataka,Bangalore
+B-26018,22/07/2022,Turumella,Madhya Pradesh,Indore
+B-25760,14/02/2022,Aarushi,Tamil Nadu,Chennai
+B-25804,24/08/2022,Pooja,Goa,Goa
+B-25754,05/10/2022,Sudheer,Karnataka,Bangalore
+B-26020,18/08/2022,Akshay,Bihar,Patna
+B-25640,16/02/2022,Yogesh,Bihar,Patna
+B-25789,27/04/2022,Paridhi,Rajasthan,Jaipur
+B-26072,22/09/2022,Akshay,Uttar Pradesh,Lucknow
+B-26007,20/03/2022,Sweta,Maharashtra,Mumbai
+B-26087,09/02/2022,Shubham,Jammu and Kashmir,Kashmir
+B-25617,26/03/2022,Vandana,Himachal Pradesh,Simla
+B-25984,17/04/2022,Sagar,Nagaland,Kohima
+B-25767,30/01/2022,Kajal,Delhi,Delhi
+B-25987,31/08/2022,Ashmeet,West Bengal,Kolkata
+B-25840,31/01/2022,Manjiri,Delhi,Delhi
+B-25663,31/10/2022,Sneha,Karnataka,Bangalore
+B-26030,19/05/2022,Pournamasi,Madhya Pradesh,Indore
+B-25947,21/02/2022,Sarita,Maharashtra,Pune
+B-25896,13/01/2022,Chetan,Gujarat,Ahmedabad
+B-26009,05/12/2022,Aman,Maharashtra,Mumbai
+B-25876,10/02/2022,Komal,Uttar Pradesh,Lucknow
+B-25915,24/11/2022,Bhosale,Punjab,Amritsar
+B-25795,19/12/2022,Sukruta,Punjab,Amritsar
+B-26002,24/09/2022,Sukant,Sikkim,Gangtok
+B-25645,08/02/2022,Harsh,Delhi,Delhi
+B-25837,01/05/2022,Yaanvi,Madhya Pradesh,Indore
+B-25612,29/10/2022,Palak,Maharashtra,Mumbai
+B-25812,12/04/2022,Shrichand,Punjab,Chandigarh
+B-25843,10/10/2022,Kshitij,Madhya Pradesh,Indore
+B-26026,03/11/2022,Mrunal,Maharashtra,Mumbai
+B-25773,19/02/2022,Kanak,Goa,Goa
+B-25875,06/09/2022,Shreya,Kerala ,Thiruvananthapuram
+B-25660,24/11/2022,Divyeshkumar,Uttar Pradesh,Prayagraj
+B-25918,16/05/2022,Shruti,Karnataka,Bangalore
+B-25971,22/12/2022,Karandeep,Madhya Pradesh,Indore
+B-26063,22/01/2022,Mitali,Madhya Pradesh,Indore
+B-25867,15/03/2022,Farah,Nagaland,Kohima
+B-25703,17/11/2022,Ankit,Sikkim,Gangtok
+B-25661,28/06/2022,Ekta,Madhya Pradesh,Indore
+B-25748,17/05/2022,Subhashree,Jammu and Kashmir,Kashmir
+B-25766,12/08/2022,Nitant,Rajasthan,Jaipur
+B-25861,30/08/2022,Surabhi,Rajasthan,Jaipur
+B-26058,15/11/2022,Aayush,Uttar Pradesh,Lucknow
+B-25808,11/03/2022,Aditya,Punjab,Chandigarh
+B-25900,08/10/2022,Apsingekar,Bihar,Patna
+B-26084,09/12/2022,Anand,Punjab,Amritsar
+B-25652,25/03/2022,Anita,Kerala ,Thiruvananthapuram
+B-26008,08/05/2022,Tushina,Goa,Goa
+B-25799,09/02/2022,Kalyani,Tamil Nadu,Chennai
+B-25927,01/10/2022,Divyansh,Gujarat,Ahmedabad
+B-25985,31/12/2022,Shreya,Uttar Pradesh,Lucknow
+B-25994,31/01/2022,Ginny,Madhya Pradesh,Indore
+B-25620,03/02/2022,Omkar,Delhi,Delhi
+B-25712,20/04/2022,Sarita,Maharashtra,Pune
+B-25976,07/07/2022,Adhvaita,Rajasthan,Jaipur
+B-26068,25/01/2022,Piyam,Punjab,Amritsar
+B-25721,16/03/2022,Shefali,Rajasthan,Jaipur
+B-25863,16/07/2022,Anchal,Haryana,Chandigarh
+B-25991,15/11/2022,Manibalan,Kerala ,Thiruvananthapuram
+B-25737,03/02/2022,Mansi,Madhya Pradesh,Indore
+B-26043,01/08/2022,Shubham,Madhya Pradesh,Indore
+B-25977,01/03/2022,Amit,Sikkim,Gangtok
+B-25908,27/01/2022,Aayushi,Gujarat,Surat
+B-25941,12/12/2022,Pradeep,Delhi,Delhi
+B-25794,07/01/2022,Jaideep,Nagaland,Kohima
+B-26041,24/09/2022,Aditya,Himachal Pradesh,Simla
+B-25695,27/02/2022,Ritu,Haryana,Chandigarh
+B-25960,18/06/2022,Suhani,West Bengal,Kolkata
+B-26037,18/01/2022,Shreya,Andhra Pradesh,Hyderabad
+B-25921,23/02/2022,Hitika,Madhya Pradesh,Indore
+B-25944,25/12/2022,Sandra,Punjab,Amritsar
+B-25723,10/01/2022,Syed,Maharashtra,Pune
+B-25694,19/07/2022,Sheetal,Madhya Pradesh,Indore
+B-25665,19/02/2022,Vandana,Himachal Pradesh,Simla
+B-26004,18/06/2022,Subhasmita,Rajasthan,Jaipur
+B-25611,21/05/2022,Chayanika,Kerala ,Thiruvananthapuram
+B-25901,08/02/2022,Nandita,Rajasthan,Jaipur
+B-25623,11/04/2022,Anita,Kerala ,Thiruvananthapuram
+B-25713,10/12/2022,Suraj,Gujarat,Surat
+B-26091,22/04/2022,Atharv,West Bengal,Kolkata
+B-25604,08/07/2022,Raksha,West Bengal,Kolkata
+B-25827,27/03/2022,Manju,Andhra Pradesh,Hyderabad
+B-25835,03/04/2022,Divsha,Rajasthan,Jaipur
+B-26025,23/10/2022,Sheetal,Madhya Pradesh,Indore
+B-25809,29/10/2022,Moumita,Gujarat,Ahmedabad
+B-25905,19/02/2022,Bhavna,Sikkim,Gangtok
+B-25948,09/10/2022,Suman,Kerala ,Thiruvananthapuram
+B-26094,11/12/2022,Bhargav,Delhi,Delhi
+B-25949,13/01/2022,Mukund,Maharashtra,Pune
+B-26001,27/03/2022,Deepak,Madhya Pradesh,Bhopal
+B-25771,13/01/2022,Shantanu,Maharashtra,Mumbai
+B-25659,07/02/2022,Patil,Delhi,Delhi
+B-25883,02/09/2022,Vaibhavi,Uttar Pradesh,Lucknow
+B-25946,15/05/2022,Sanskriti,West Bengal,Kolkata
+B-26065,28/12/2022,Prajakta,Karnataka,Bangalore
+B-26083,27/11/2022,Saptadeep,Gujarat,Surat
+B-25725,12/01/2022,Saurabh,Andhra Pradesh,Hyderabad
+B-25630,16/03/2022,Nida,Madhya Pradesh,Indore
+B-25673,24/03/2022,Yogesh,Bihar,Patna
+B-25692,20/07/2022,Anisha,Nagaland,Kohima
+B-25992,24/04/2022,Sahil,Punjab,Chandigarh
+B-25765,28/05/2022,Arsheen,Gujarat,Ahmedabad
+B-25892,17/06/2022,Rashmi,Madhya Pradesh,Indore
+B-26089,03/02/2022,Gaurav,Rajasthan,Udaipur
+B-25780,29/08/2022,Meghana,Madhya Pradesh,Bhopal
+B-25684,04/12/2022,Aditi,Rajasthan,Udaipur
+B-25739,26/03/2022,Kanak,Goa,Goa
+B-25731,13/09/2022,Teena,Andhra Pradesh,Hyderabad
+B-25648,09/06/2022,Samiksha,Maharashtra,Mumbai
+B-26038,03/08/2022,Daksh,Haryana,Chandigarh
+B-25700,26/07/2022,Akash,West Bengal,Kolkata
+B-26015,04/05/2022,Aditya,Punjab,Chandigarh
+B-25704,24/02/2022,Pooja,Bihar,Patna
+B-25811,25/06/2022,Shubhi,Maharashtra,Mumbai
+B-25821,14/02/2022,Kasheen,West Bengal,Kolkata
+B-25874,29/06/2022,Riya,Maharashtra,Mumbai
+B-25668,10/10/2022,Utsav,Maharashtra,Mumbai
+B-25800,16/10/2022,Ajay,West Bengal,Kolkata
+B-25928,24/11/2022,Megha,Rajasthan,Udaipur
+B-26021,24/05/2022,Rhea,Himachal Pradesh,Simla
+B-26064,01/10/2022,Ishit,Maharashtra,Pune
+B-25882,01/01/2022,Smriti,Bihar,Patna
+B-25891,17/02/2022,Anita,Kerala ,Thiruvananthapuram
+B-25820,16/03/2022,Ankita,Maharashtra,Mumbai
+B-25889,26/11/2022,Masurkar,Punjab,Amritsar
+B-25871,04/12/2022,Shivani,Madhya Pradesh,Indore
+B-25637,16/10/2022,Dheeraj,Rajasthan,Jaipur
+B-25616,03/12/2022,Abhishek,Gujarat,Surat
+B-25972,21/11/2022,Gunjal,Gujarat,Surat
+B-25805,26/04/2022,Ashmi,Madhya Pradesh,Indore
+B-25860,15/04/2022,Kanak,Goa,Goa
+B-26080,23/01/2022,Jesslyn,Rajasthan,Udaipur
+B-25807,05/10/2022,Ankit,Maharashtra,Mumbai
+B-25734,15/11/2022,Akshay,Tamil Nadu,Chennai
+B-25880,22/03/2022,Sonakshi,Jammu and Kashmir,Kashmir
+B-25934,07/10/2022,Vipul,Uttar Pradesh,Lucknow
+B-25913,29/07/2022,Pranav,Madhya Pradesh,Indore
+B-25912,24/11/2022,Apoorv,Rajasthan,Udaipur
+B-25711,04/01/2022,Rahul,Madhya Pradesh,Indore
+B-25864,17/12/2022,Geetanjali,Delhi,Delhi
+B-25917,16/12/2022,Preksha,Delhi,Delhi
+B-26049,20/10/2022,Shyam,Madhya Pradesh,Indore
+B-25920,06/07/2022,Sakshi,Madhya Pradesh,Bhopal
+B-25699,15/11/2022,Aromal,Maharashtra,Mumbai
+B-25735,21/12/2022,Sanjay,Maharashtra,Mumbai
+B-25701,05/03/2022,Lisha,Madhya Pradesh,Bhopal
+B-26092,24/12/2022,Jayanti,Uttar Pradesh,Prayagraj
+B-26082,24/06/2022,Kritika,Uttar Pradesh,Lucknow
+B-25818,30/07/2022,Arindam,Uttar Pradesh,Lucknow
+B-25846,26/06/2022,Maithilee,Madhya Pradesh,Indore
+B-26011,27/03/2022,Ramesh,Gujarat,Ahmedabad
+B-25631,23/03/2022,Jitesh,Uttar Pradesh,Lucknow
+B-25606,14/10/2022,Sandeep,Madhya Pradesh,Indore
+B-25746,03/11/2022,Soodesh,Punjab,Chandigarh
+B-26005,12/02/2022,Bharat,Gujarat,Ahmedabad
+B-25844,24/04/2022,Ritu,Haryana,Chandigarh
+B-25869,06/04/2022,Hazel,Karnataka,Bangalore
+B-26066,10/08/2022,Shivam,Maharashtra,Pune
+B-25865,08/02/2022,Parnavi,West Bengal,Kolkata
+B-26039,03/11/2022,Swati,Madhya Pradesh,Indore
+B-25916,19/11/2022,Parakh,Nagaland,Kohima
+B-26090,16/03/2022,Priyanka,Maharashtra,Pune
+B-25988,15/11/2022,Arun,Madhya Pradesh,Indore
+B-25906,25/02/2022,Hemant,Kerala ,Thiruvananthapuram
+B-26017,20/12/2022,Utkarsh,Gujarat,Surat
+B-25644,27/03/2022,Sagar,Nagaland,Kohima
+B-25679,31/01/2022,Nirja,Delhi,Delhi
+B-25605,11/12/2022,Abhijit,Delhi,Delhi
+B-25792,14/02/2022,Sonakshi,Jammu and Kashmir,Kashmir
+B-25680,30/04/2022,Mayank,Maharashtra,Mumbai
+B-25931,04/06/2022,Avni,Maharashtra,Mumbai
+B-25932,18/07/2022,Wale,Maharashtra,Mumbai
+B-25990,05/04/2022,Kasheen,West Bengal,Kolkata
+B-25615,24/09/2022,Abhishek,Maharashtra,Mumbai
+B-26031,04/06/2022,Aayushi,Madhya Pradesh,Indore
+B-25801,04/01/2022,Sidharth,Maharashtra,Mumbai
+B-25833,04/01/2022,Bhutekar,Madhya Pradesh,Indore
+B-26077,02/02/2022,Mugdha,Delhi,Delhi
+B-25936,15/04/2022,Bhavna,Sikkim,Gangtok
+B-25938,22/02/2022,Deepak,Madhya Pradesh,Bhopal
+B-25716,01/10/2022,Aryan,Madhya Pradesh,Bhopal
+B-25740,29/10/2022,Krishna,Madhya Pradesh,Indore
+B-25763,22/03/2022,Divsha,Rajasthan,Jaipur
+B-25872,05/01/2022,Nikhil,Punjab,Chandigarh
+B-25879,05/01/2022,Shikhar,Himachal Pradesh,Simla
+B-25926,11/07/2022,Surabhi,Tamil Nadu,Chennai
+B-26074,03/08/2022,Rane,Maharashtra,Mumbai
+B-25627,27/08/2022,Noshiba,Gujarat,Ahmedabad
+B-25940,22/11/2022,Saurabh,Maharashtra,Mumbai
+B-26047,24/11/2022,Siddharth,Madhya Pradesh,Indore
+B-26069,30/12/2022,Dipali,Madhya Pradesh,Indore
+B-26027,21/03/2022,Bharat,Gujarat,Ahmedabad
+B-25963,23/04/2022,Hitika,Madhya Pradesh,Indore
+B-25922,06/01/2022,Vivek,Goa,Goa
+B-25866,04/03/2022,Ashmi,Madhya Pradesh,Indore
+B-25607,17/03/2022,Sanskriti,West Bengal,Kolkata
+B-25775,20/02/2022,Sagar,Nagaland,Kohima
+B-25998,19/01/2022,Pratiksha,Maharashtra,Mumbai
+B-26062,26/12/2022,Akshata,Gujarat,Surat
+B-25722,16/11/2022,Komal,Himachal Pradesh,Simla
+B-25776,06/04/2022,Sonakshi,Jammu and Kashmir,Kashmir
+B-26032,08/09/2022,Duhita,Haryana,Chandigarh
+B-25705,04/02/2022,Anmol,Rajasthan,Udaipur
+B-25628,15/03/2022,Tushina,Goa,Goa
+B-25733,17/07/2022,Inderpreet,Himachal Pradesh,Simla
+B-25647,09/09/2022,Mousam,Maharashtra,Mumbai
+B-25790,22/02/2022,Monisha,Rajasthan,Jaipur
+B-25709,30/06/2022,Shweta,Madhya Pradesh,Indore
+B-25911,24/04/2022,Pooja,Bihar,Patna
+B-25774,28/07/2022,Dhirajendu,Maharashtra,Mumbai
+B-26042,03/05/2022,Sharda,Kerala ,Thiruvananthapuram
+B-25815,23/09/2022,Sajal,Bihar,Patna
+B-25822,01/07/2022,Aakanksha,Madhya Pradesh,Indore
+B-26075,15/12/2022,Phalguni,Madhya Pradesh,Bhopal
+B-25783,07/09/2022,Snehal,Punjab,Chandigarh
+B-26046,28/02/2022,Manish,Himachal Pradesh,Simla
+B-25690,10/10/2022,Harsh,Nagaland,Kohima
+B-25706,18/10/2022,Tejas,Karnataka,Bangalore
+B-25736,21/03/2022,Pearl,Maharashtra,Pune
+B-25720,15/09/2022,Shivangi,Madhya Pradesh,Indore
+B-25907,04/03/2022,Nishi,Maharashtra,Mumbai
+B-25719,15/06/2022,Gunjan,Madhya Pradesh,Indore
+B-26013,01/07/2022,Swetlana,Goa,Goa
+B-26044,31/07/2022,Akshat,Maharashtra,Mumbai
+B-25649,15/07/2022,Namrata,Punjab,Chandigarh
+B-25658,11/12/2022,Jaydeep,Madhya Pradesh,Bhopal
+B-25672,12/07/2022,Rashmi,Madhya Pradesh,Indore
+B-25884,13/02/2022,Jahan,Madhya Pradesh,Bhopal
+B-25641,02/03/2022,Sanjay,Goa,Goa
+B-25841,05/05/2022,Rachna,Haryana,Chandigarh
+B-25980,14/05/2022,Shefali,Rajasthan,Jaipur
+B-26012,28/05/2022,Akanksha,Andhra Pradesh,Hyderabad
+B-26029,22/04/2022,Vini,Karnataka,Bangalore
+B-26071,28/11/2022,Sumeet,Maharashtra,Mumbai
+B-25646,27/04/2022,Parishi,West Bengal,Kolkata
+B-25677,01/11/2022,Ashvini,Maharashtra,Mumbai
+B-25759,27/01/2022,Shweta,Rajasthan,Udaipur
+B-26059,13/02/2022,Pearl,Maharashtra,Pune
+B-25632,20/02/2022,Ramesh,Gujarat,Ahmedabad
+B-26079,19/03/2022,Subhashree,Jammu and Kashmir,Kashmir
+B-25674,01/05/2022,Sonal,Bihar,Patna
+B-25965,02/06/2022,Ekta,West Bengal,Kolkata
+B-25732,23/08/2022,Soumya,Sikkim,Gangtok
+B-25834,12/03/2022,Rachna,Haryana,Chandigarh
+B-25784,25/04/2022,Manish,Himachal Pradesh,Simla
+B-25982,22/03/2022,Hazel,Karnataka,Bangalore
+B-25788,28/05/2022,Mahima,Maharashtra,Pune
+B-25742,21/01/2022,Saloni,West Bengal,Kolkata
+B-26088,27/07/2022,Anubhaw,Karnataka,Bangalore
+B-25707,29/10/2022,Ananya,Andhra Pradesh,Hyderabad
+B-25758,15/09/2022,Rohit,Rajasthan,Jaipur
+B-26095,29/01/2022,Hemangi,Delhi,Delhi
+B-23687,21/09/2022,Dinesh,Tamil Nadu,Chennai
+B-23710,03/08/2022,Ashwin,Goa,Goa
+B-23656,26/03/2022,Bhavna,Sikkim,Gangtok
+B-23601,01/07/2022,Shivani,Maharashtra,Mumbai
+B-23964,22/08/2022,Shubham,Himachal Pradesh,Simla
+B-23982,28/03/2022,Monisha,Rajasthan,Jaipur
+B-23864,02/02/2022,Smriti,Bihar,Patna
+B-23693,15/04/2022,Anita,Kerala ,Thiruvananthapuram
+B-23802,22/02/2022,Ankita,Maharashtra,Mumbai
+B-23676,01/10/2022,Masurkar,Punjab,Amritsar
+B-23639,29/10/2022,Shivani,Madhya Pradesh,Indore
+B-23757,22/03/2022,Dheeraj,Rajasthan,Jaipur
+B-26889,05/01/2022,Abhishek,Gujarat,Surat
+B-23786,05/01/2022,Gunjal,Gujarat,Surat
+B-23919,11/07/2022,Ashmi,Madhya Pradesh,Indore
+B-23894,03/08/2022,Kanak,Goa,Goa
+B-23979,27/08/2022,Jesslyn,Rajasthan,Udaipur
+B-23651,22/11/2022,Ankit,Maharashtra,Mumbai
+B-23653,24/11/2022,Akshay,Tamil Nadu,Chennai
+B-23855,30/12/2022,Sonakshi,Jammu and Kashmir,Kashmir
+B-23793,21/03/2022,Vipul,Uttar Pradesh,Lucknow
+B-23881,23/04/2022,Pranav,Madhya Pradesh,Indore
+B-23603,06/01/2022,Apoorv,Rajasthan,Udaipur
+B-23851,04/03/2022,Rahul,Madhya Pradesh,Indore
+B-23883,17/03/2022,Geetanjali,Delhi,Delhi
+B-23768,20/02/2022,Preksha,Delhi,Delhi
+B-23953,19/01/2022,Shyam,Madhya Pradesh,Indore
+B-23755,26/12/2022,Sakshi,Madhya Pradesh,Bhopal
+B-23989,16/11/2022,Aromal,Maharashtra,Mumbai
+B-23652,06/04/2022,Sanjay,Maharashtra,Mumbai
+B-23723,08/09/2022,Lisha,Madhya Pradesh,Bhopal
+B-23629,04/02/2022,Jayanti,Uttar Pradesh,Prayagraj
+B-23877,15/03/2022,Kritika,Uttar Pradesh,Lucknow
+B-23767,17/07/2022,Arindam,Uttar Pradesh,Lucknow
+B-23735,09/09/2022,Maithilee,Madhya Pradesh,Indore
+B-23752,22/02/2022,Ramesh,Gujarat,Ahmedabad
+B-23748,30/06/2022,Jitesh,Uttar Pradesh,Lucknow
+B-23758,24/04/2022,Sandeep,Madhya Pradesh,Indore
+B-23950,28/07/2022,Soodesh,Punjab,Chandigarh
+B-23707,03/05/2022,Bharat,Gujarat,Ahmedabad
+B-23909,23/09/2022,Ritu,Haryana,Chandigarh
+B-23955,01/07/2022,Hazel,Karnataka,Bangalore
+B-23655,15/12/2022,Shivam,Maharashtra,Pune
+B-23686,07/09/2022,Parnavi,West Bengal,Kolkata
+B-23862,28/02/2022,Swati,Madhya Pradesh,Indore
+B-23626,10/10/2022,Parakh,Nagaland,Kohima
+B-23823,18/10/2022,Priyanka,Maharashtra,Pune
+B-23910,21/03/2022,Arun,Madhya Pradesh,Indore
+B-23830,15/09/2022,Hemant,Kerala ,Thiruvananthapuram
+B-23978,04/03/2022,Utkarsh,Gujarat,Surat
+B-23997,15/06/2022,Sagar,Nagaland,Kohima
+B-23661,01/07/2022,Nirja,Delhi,Delhi
+B-23969,31/07/2022,Abhijit,Delhi,Delhi
+B-23858,15/07/2022,Sonakshi,Jammu and Kashmir,Kashmir
+B-23697,11/12/2022,Mayank,Maharashtra,Mumbai
+B-23798,12/07/2022,Avni,Maharashtra,Mumbai
+B-23873,13/02/2022,Wale,Maharashtra,Mumbai
+B-23740,02/03/2022,Kasheen,West Bengal,Kolkata
+B-23700,05/05/2022,Abhishek,Maharashtra,Mumbai
+B-23973,14/05/2022,Aayushi,Madhya Pradesh,Indore
+B-23698,28/05/2022,Sidharth,Maharashtra,Mumbai
+B-23993,22/04/2022,Bhutekar,Madhya Pradesh,Indore
+A-23997,28/11/2023,Mugdha,Delhi,Delhi
+A-23998,27/04/2023,Bhavna,Sikkim,Gangtok
+A-23999,01/11/2023,Deepak,Madhya Pradesh,Bhopal
+A-24000,27/01/2023,Aryan,Madhya Pradesh,Bhopal
+A-24001,13/02/2023,Krishna,Madhya Pradesh,Indore
+A-24002,20/02/2023,Divsha,Rajasthan,Jaipur
+A-24003,19/03/2023,Nikhil,Punjab,Chandigarh
+A-24004,01/05/2023,Shikhar,Himachal Pradesh,Simla
+A-24005,02/06/2023,Surabhi,Tamil Nadu,Chennai
+A-24006,23/08/2023,Rane,Maharashtra,Mumbai
+A-24007,12/03/2023,Noshiba,Gujarat,Ahmedabad
+A-24008,25/04/2023,Saurabh,Maharashtra,Mumbai
+A-24009,22/03/2023,Siddharth,Madhya Pradesh,Indore
+A-24010,28/05/2023,Dipali,Madhya Pradesh,Indore
+A-24011,21/01/2023,Bharat,Gujarat,Ahmedabad
+A-24012,27/07/2023,Hitika,Madhya Pradesh,Indore
+A-24013,29/10/2023,Vivek,Goa,Goa
+A-24014,15/09/2023,Ashmi,Madhya Pradesh,Indore
+A-24015,29/01/2023,Sanskriti,West Bengal,Kolkata
+A-24016,21/09/2023,Sagar,Nagaland,Kohima
+A-24017,03/08/2023,Pratiksha,Maharashtra,Mumbai
+A-24018,26/03/2023,Akshata,Gujarat,Surat
+A-24019,01/07/2023,Komal,Himachal Pradesh,Simla
+A-24020,22/08/2023,Sonakshi,Jammu and Kashmir,Kashmir

@@ -1,0 +1,1501 @@
+State,City,Category,Sub-Category,Amount,Year,Month
+Uttar Pradesh,Mathura,Electronics,Electronic Games,5729,2023,Jan
+Delhi,Delhi,Furniture,Chairs,4363,2023,Feb
+Uttar Pradesh,Mathura,Furniture,Bookcases,4141,2023,Mar
+Maharashtra,Mumbai,Electronics,Printers,3873,2023,Apr
+Madhya Pradesh,Indore,Electronics,Phones,3151,2023,May
+Uttar Pradesh,Prayagraj,Clothing,Trousers,2927,2023,Jun
+Maharashtra,Pune,Clothing,Saree,2847,2023,Jul
+Maharashtra,Pune,Clothing,Saree,2830,2023,Aug
+Andhra Pradesh,Hyderabad,Clothing,Hankerchief,2617,2023,Sep
+Maharashtra,Pune,Clothing,Kurti,2457,2023,Oct
+Maharashtra,Mumbai,Clothing,Hankerchief,2452,2023,Nov
+Gujarat,Surat,Electronics,Printers,2366,2023,Dec
+Maharashtra,Mumbai,Electronics,Phones,2292,2023,Jan
+Maharashtra,Pune,Furniture,Bookcases,2244,2023,Feb
+Uttar Pradesh,Mathura,Furniture,Bookcases,2188,2023,Mar
+Uttar Pradesh,Mathura,Clothing,Hankerchief,2125,2023,Apr
+Uttar Pradesh,Prayagraj,Furniture,Bookcases,2115,2023,May
+Maharashtra,Mumbai,Clothing,Kurti,2103,2023,Jun
+Gujarat,Ahmedabad,Furniture,Chairs,2093,2023,Jul
+Bihar,Patna,Clothing,Skirt,2061,2023,Aug
+Himachal Pradesh,Simla,Furniture,Tables,1954,2023,Sep
+Uttar Pradesh,Mathura,Electronics,Printers,1854,2023,Oct
+Himachal Pradesh,Simla,Electronics,Printers,1829,2023,Nov
+Punjab,Chandigarh,Clothing,Kurti,1824,2023,Dec
+Madhya Pradesh,Bhopal,Clothing,Skirt,1745,2023,Jan
+Kerala ,Thiruvananthapuram,Electronics,Phones,1716,2023,Feb
+Maharashtra,Mumbai,Electronics,Printers,1709,2023,Mar
+Nagaland,Kohima,Electronics,Printers,1700,2023,Apr
+Madhya Pradesh,Indore,Furniture,Tables,1657,2023,May
+Madhya Pradesh,Bhopal,Clothing,Skirt,1630,2023,Jun
+Madhya Pradesh,Indore,Furniture,Tables,1629,2023,Jul
+Maharashtra,Pune,Clothing,Stole,1625,2023,Aug
+Delhi,Delhi,Electronics,Phones,1622,2023,Sep
+Madhya Pradesh,Indore,Clothing,Hankerchief,1622,2023,Oct
+Haryana,Chandigarh,Furniture,Tables,1622,2023,Nov
+Rajasthan,Udaipur,Electronics,Printers,1603,2023,Dec
+Karnataka,Bangalore,Clothing,Leggings,1599,2023,Jan
+Kerala ,Thiruvananthapuram,Furniture,Tables,1582,2023,Feb
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,1560,2023,Mar
+Gujarat,Ahmedabad,Clothing,Leggings,1549,2023,Apr
+Maharashtra,Pune,Clothing,Trousers,1547,2023,May
+Madhya Pradesh,Indore,Clothing,Stole,1543,2023,Jun
+Maharashtra,Mumbai,Electronics,Phones,1514,2023,Jul
+Uttar Pradesh,Lucknow,Clothing,Hankerchief,1506,2023,Aug
+Punjab,Chandigarh,Furniture,Tables,1499,2023,Sep
+Maharashtra,Pune,Electronics,Phones,1487,2023,Oct
+Madhya Pradesh,Indore,Electronics,Accessories,1461,2023,Nov
+Maharashtra,Pune,Furniture,Chairs,1402,2023,Dec
+Tamil Nadu,Chennai,Clothing,Saree,1389,2023,Jan
+Madhya Pradesh,Indore,Electronics,Phones,1364,2023,Feb
+Maharashtra,Pune,Electronics,Printers,1361,2023,Mar
+Madhya Pradesh,Bhopal,Clothing,Skirt,1361,2023,Apr
+West Bengal,Kolkata,Clothing,Saree,1355,2023,May
+Nagaland,Kohima,Clothing,Saree,1351,2023,Jun
+Madhya Pradesh,Bhopal,Clothing,T-shirt,1337,2023,Jul
+Madhya Pradesh,Indore,Clothing,Trousers,1327,2023,Aug
+Delhi,Delhi,Furniture,Tables,1319,2023,Sep
+Kerala ,Thiruvananthapuram,Clothing,Hankerchief,1316,2023,Oct
+Karnataka,Bangalore,Clothing,Hankerchief,1314,2023,Nov
+Jammu and Kashmir,Kashmir,Furniture,Tables,1308,2023,Dec
+Maharashtra,Pune,Electronics,Printers,1301,2023,Jan
+Gujarat,Ahmedabad,Clothing,Leggings,1300,2023,Feb
+Madhya Pradesh,Indore,Electronics,Printers,1298,2023,Mar
+Andhra Pradesh,Hyderabad,Electronics,Electronic Games,1279,2023,Apr
+Maharashtra,Pune,Furniture,Bookcases,1275,2023,May
+Rajasthan,Jaipur,Clothing,Hankerchief,1275,2023,Jun
+West Bengal,Kolkata,Clothing,Skirt,1272,2023,Jul
+Punjab,Amritsar,Clothing,Skirt,1270,2023,Aug
+Maharashtra,Mumbai,Furniture,Bookcases,1263,2023,Sep
+Andhra Pradesh,Hyderabad,Electronics,Printers,1250,2023,Oct
+Bihar,Patna,Electronics,Accessories,1250,2023,Nov
+Madhya Pradesh,Indore,Electronics,Printers,1246,2023,Dec
+Rajasthan,Jaipur,Clothing,Hankerchief,1228,2023,Jan
+Gujarat,Surat,Electronics,Printers,1218,2023,Feb
+Madhya Pradesh,Bhopal,Clothing,Stole,1218,2023,Mar
+Punjab,Chandigarh,Electronics,Printers,1183,2023,Apr
+Goa,Goa,Clothing,Skirt,1157,2023,May
+Haryana,Chandigarh,Clothing,Stole,1145,2023,Jun
+Maharashtra,Mumbai,Electronics,Printers,1137,2023,Jul
+Haryana,Chandigarh,Clothing,Hankerchief,1137,2023,Aug
+Bihar,Patna,Clothing,Hankerchief,1120,2023,Sep
+Madhya Pradesh,Indore,Electronics,Electronic Games,1120,2023,Oct
+Punjab,Chandigarh,Clothing,Saree,1118,2023,Nov
+Maharashtra,Mumbai,Clothing,Hankerchief,1117,2023,Dec
+Jammu and Kashmir,Kashmir,Electronics,Phones,1104,2023,Jan
+Maharashtra,Pune,Clothing,Hankerchief,1103,2023,Feb
+Maharashtra,Mumbai,Furniture,Tables,1101,2023,Mar
+Haryana,Chandigarh,Clothing,Kurti,1096,2023,Apr
+Madhya Pradesh,Bhopal,Clothing,Skirt,1076,2023,May
+Uttar Pradesh,Lucknow,Furniture,Tables,1076,2023,Jun
+Madhya Pradesh,Indore,Furniture,Chairs,1069,2023,Jul
+Madhya Pradesh,Indore,Electronics,Printers,1063,2023,Aug
+Maharashtra,Mumbai,Clothing,Saree,1063,2023,Sep
+Madhya Pradesh,Indore,Furniture,Chairs,1061,2023,Oct
+Punjab,Chandigarh,Furniture,Bookcases,1055,2023,Nov
+Madhya Pradesh,Bhopal,Electronics,Accessories,1052,2023,Dec
+Maharashtra,Mumbai,Electronics,Phones,1030,2023,Jan
+Rajasthan,Udaipur,Electronics,Accessories,1027,2023,Feb
+Goa,Goa,Clothing,Hankerchief,1021,2023,Mar
+Rajasthan,Udaipur,Electronics,Accessories,977,2023,Apr
+Maharashtra,Mumbai,Clothing,Hankerchief,976,2023,May
+Madhya Pradesh,Indore,Electronics,Electronic Games,965,2023,Jun
+Gujarat,Ahmedabad,Electronics,Printers,955,2023,Jul
+Karnataka,Bangalore,Electronics,Electronic Games,954,2023,Aug
+Maharashtra,Pune,Clothing,Leggings,941,2023,Sep
+Madhya Pradesh,Bhopal,Electronics,Printers,935,2023,Oct
+Delhi,Delhi,Clothing,Hankerchief,934,2023,Nov
+Andhra Pradesh,Hyderabad,Furniture,Furnishings,933,2023,Dec
+Delhi,Delhi,Clothing,Saree,929,2023,Jan
+Uttar Pradesh,Prayagraj,Electronics,Printers,925,2023,Feb
+Andhra Pradesh,Hyderabad,Clothing,Hankerchief,918,2023,Mar
+Punjab,Chandigarh,Clothing,Hankerchief,916,2023,Apr
+Nagaland,Kohima,Clothing,Saree,915,2023,May
+Madhya Pradesh,Indore,Furniture,Bookcases,911,2023,Jun
+Madhya Pradesh,Indore,Clothing,Stole,911,2023,Jul
+Punjab,Amritsar,Furniture,Bookcases,891,2023,Aug
+Uttar Pradesh,Lucknow,Clothing,Leggings,887,2023,Sep
+Bihar,Patna,Clothing,Hankerchief,880,2023,Oct
+West Bengal,Kolkata,Furniture,Bookcases,877,2023,Nov
+Karnataka,Bangalore,Electronics,Printers,871,2023,Dec
+Delhi,Delhi,Clothing,Shirt,869,2023,Jan
+Gujarat,Ahmedabad,Electronics,Electronic Games,867,2023,Feb
+Maharashtra,Pune,Clothing,Saree,857,2023,Mar
+Madhya Pradesh,Indore,Clothing,Leggings,856,2023,Apr
+Madhya Pradesh,Indore,Furniture,Chairs,852,2023,May
+Haryana,Chandigarh,Clothing,Saree,850,2023,Jun
+Kerala ,Thiruvananthapuram,Clothing,Hankerchief,846,2023,Jul
+Maharashtra,Mumbai,Furniture,Bookcases,845,2023,Aug
+West Bengal,Kolkata,Furniture,Chairs,835,2023,Sep
+Maharashtra,Mumbai,Clothing,Hankerchief,833,2023,Oct
+Maharashtra,Mumbai,Clothing,Saree,832,2023,Nov
+Kerala ,Thiruvananthapuram,Clothing,Leggings,829,2023,Dec
+Madhya Pradesh,Indore,Electronics,Phones,828,2023,Jan
+Madhya Pradesh,Indore,Clothing,Hankerchief,823,2023,Feb
+Maharashtra,Mumbai,Clothing,Saree,816,2023,Mar
+Madhya Pradesh,Indore,Clothing,Hankerchief,811,2023,Apr
+Maharashtra,Mumbai,Clothing,Hankerchief,802,2023,May
+Sikkim,Gangtok,Clothing,Hankerchief,785,2023,Jun
+Madhya Pradesh,Indore,Clothing,T-shirt,781,2023,Jul
+Sikkim,Gangtok,Furniture,Chairs,774,2023,Aug
+Maharashtra,Mumbai,Furniture,Tables,774,2023,Sep
+Uttar Pradesh,Mathura,Electronics,Electronic Games,771,2023,Oct
+Madhya Pradesh,Indore,Electronics,Electronic Games,770,2023,Nov
+Delhi,Delhi,Clothing,Kurti,767,2023,Dec
+Karnataka,Bangalore,Clothing,T-shirt,765,2023,Jan
+Gujarat,Ahmedabad,Electronics,Printers,765,2023,Feb
+Rajasthan,Udaipur,Electronics,Printers,765,2023,Mar
+Goa,Goa,Clothing,Saree,762,2023,Apr
+Himachal Pradesh,Simla,Clothing,Saree,761,2023,May
+Punjab,Amritsar,Electronics,Printers,757,2023,Jun
+Andhra Pradesh,Hyderabad,Clothing,Kurti,757,2023,Jul
+Haryana,Chandigarh,Furniture,Bookcases,749,2023,Aug
+Maharashtra,Mumbai,Clothing,Saree,744,2023,Sep
+Maharashtra,Mumbai,Furniture,Bookcases,743,2023,Oct
+Tamil Nadu,Chennai,Furniture,Bookcases,742,2023,Nov
+Jammu and Kashmir,Kashmir,Clothing,T-shirt,742,2023,Dec
+Maharashtra,Mumbai,Furniture,Furnishings,741,2023,Jan
+Madhya Pradesh,Bhopal,Clothing,Saree,736,2023,Feb
+Maharashtra,Mumbai,Electronics,Printers,735,2023,Mar
+Madhya Pradesh,Indore,Clothing,Saree,734,2023,Apr
+Maharashtra,Pune,Electronics,Phones,734,2023,May
+Sikkim,Gangtok,Clothing,Saree,729,2023,Jun
+Madhya Pradesh,Indore,Clothing,Hankerchief,724,2023,Jul
+West Bengal,Kolkata,Electronics,Electronic Games,724,2023,Aug
+Punjab,Chandigarh,Electronics,Printers,720,2023,Sep
+Jammu and Kashmir,Kashmir,Electronics,Phones,719,2023,Oct
+Karnataka,Bangalore,Furniture,Bookcases,714,2023,Nov
+Kerala ,Thiruvananthapuram,Furniture,Bookcases,711,2023,Dec
+Delhi,Delhi,Clothing,Leggings,709,2023,Jan
+Madhya Pradesh,Indore,Electronics,Printers,693,2023,Feb
+Maharashtra,Mumbai,Furniture,Bookcases,689,2023,Mar
+West Bengal,Kolkata,Clothing,Saree,688,2023,Apr
+Jammu and Kashmir,Kashmir,Clothing,Trousers,685,2023,May
+Bihar,Patna,Clothing,Hankerchief,681,2023,Jun
+Maharashtra,Pune,Clothing,Trousers,676,2023,Jul
+Madhya Pradesh,Indore,Clothing,T-shirt,676,2023,Aug
+Punjab,Chandigarh,Furniture,Chairs,674,2023,Sep
+Rajasthan,Jaipur,Furniture,Bookcases,671,2023,Oct
+Maharashtra,Mumbai,Electronics,Phones,671,2023,Nov
+Madhya Pradesh,Indore,Electronics,Electronic Games,670,2023,Dec
+Bihar,Patna,Clothing,Kurti,669,2023,Jan
+Jammu and Kashmir,Kashmir,Clothing,Skirt,668,2023,Feb
+Tamil Nadu,Chennai,Clothing,Kurti,663,2023,Mar
+Rajasthan,Udaipur,Clothing,Trousers,662,2023,Apr
+Maharashtra,Mumbai,Electronics,Electronic Games,659,2023,May
+Nagaland,Kohima,Clothing,Skirt,656,2023,Jun
+Rajasthan,Udaipur,Electronics,Printers,652,2023,Jul
+Uttar Pradesh,Prayagraj,Clothing,Hankerchief,651,2023,Aug
+Jammu and Kashmir,Kashmir,Clothing,Hankerchief,648,2023,Sep
+Himachal Pradesh,Simla,Clothing,Stole,646,2023,Oct
+Maharashtra,Mumbai,Electronics,Phones,646,2023,Nov
+Rajasthan,Jaipur,Clothing,Kurti,644,2023,Dec
+Uttar Pradesh,Lucknow,Electronics,Printers,643,2023,Jan
+Madhya Pradesh,Indore,Clothing,Saree,643,2023,Feb
+Maharashtra,Mumbai,Clothing,Skirt,642,2023,Mar
+Maharashtra,Mumbai,Furniture,Chairs,637,2023,Apr
+Sikkim,Gangtok,Clothing,Hankerchief,637,2023,May
+Maharashtra,Mumbai,Clothing,Hankerchief,637,2023,Jun
+Madhya Pradesh,Indore,Clothing,Stole,637,2023,Jul
+Maharashtra,Mumbai,Clothing,Leggings,636,2023,Aug
+Delhi,Delhi,Clothing,Leggings,635,2023,Sep
+Madhya Pradesh,Indore,Clothing,Hankerchief,633,2023,Oct
+West Bengal,Kolkata,Furniture,Chairs,632,2023,Nov
+Maharashtra,Mumbai,Clothing,Stole,632,2023,Dec
+Madhya Pradesh,Bhopal,Clothing,Kurti,632,2023,Jan
+Gujarat,Ahmedabad,Electronics,Electronic Games,624,2023,Feb
+Maharashtra,Pune,Electronics,Phones,623,2023,Mar
+Karnataka,Bangalore,Electronics,Accessories,620,2023,Apr
+Kerala ,Thiruvananthapuram,Clothing,Leggings,618,2023,May
+Karnataka,Bangalore,Clothing,Saree,616,2023,Jun
+Karnataka,Bangalore,Electronics,Accessories,610,2023,Jul
+Bihar,Patna,Clothing,Hankerchief,610,2023,Aug
+Madhya Pradesh,Bhopal,Electronics,Printers,600,2023,Sep
+Jammu and Kashmir,Kashmir,Furniture,Chairs,598,2023,Oct
+Maharashtra,Mumbai,Furniture,Bookcases,597,2023,Nov
+Rajasthan,Jaipur,Electronics,Printers,595,2023,Dec
+Madhya Pradesh,Indore,Electronics,Printers,595,2023,Jan
+Andhra Pradesh,Hyderabad,Furniture,Chairs,594,2023,Feb
+Goa,Goa,Clothing,Saree,593,2023,Mar
+Gujarat,Surat,Electronics,Phones,585,2023,Apr
+Maharashtra,Mumbai,Furniture,Bookcases,584,2023,May
+Maharashtra,Mumbai,Clothing,Saree,582,2023,Jun
+Nagaland,Kohima,Clothing,T-shirt,579,2023,Jul
+Maharashtra,Mumbai,Electronics,Phones,571,2023,Aug
+Nagaland,Kohima,Clothing,Hankerchief,565,2023,Sep
+Madhya Pradesh,Indore,Electronics,Phones,561,2023,Oct
+Andhra Pradesh,Hyderabad,Electronics,Phones,561,2023,Nov
+Andhra Pradesh,Hyderabad,Electronics,Electronic Games,561,2023,Dec
+West Bengal,Kolkata,Clothing,Stole,560,2023,Jan
+Maharashtra,Mumbai,Furniture,Furnishings,559,2023,Feb
+Gujarat,Ahmedabad,Electronics,Phones,559,2023,Mar
+Madhya Pradesh,Indore,Clothing,Saree,557,2023,Apr
+Haryana,Chandigarh,Electronics,Electronic Games,556,2023,May
+Maharashtra,Mumbai,Clothing,Shirt,550,2023,Jun
+Karnataka,Bangalore,Clothing,Stole,545,2023,Jul
+Delhi,Delhi,Clothing,Stole,544,2023,Aug
+Sikkim,Gangtok,Furniture,Chairs,539,2023,Sep
+Nagaland,Kohima,Clothing,Hankerchief,537,2023,Oct
+Maharashtra,Mumbai,Clothing,Hankerchief,536,2023,Nov
+Madhya Pradesh,Bhopal,Clothing,T-shirt,534,2023,Dec
+Delhi,Delhi,Clothing,Saree,534,2023,Jan
+Karnataka,Bangalore,Electronics,Printers,534,2023,Feb
+Madhya Pradesh,Indore,Clothing,Stole,529,2023,Mar
+Tamil Nadu,Chennai,Furniture,Bookcases,527,2023,Apr
+Goa,Goa,Clothing,Saree,524,2023,May
+Karnataka,Bangalore,Clothing,Hankerchief,523,2023,Jun
+Bihar,Patna,Clothing,Saree,520,2023,Jul
+Bihar,Patna,Clothing,Saree,516,2023,Aug
+Rajasthan,Jaipur,Clothing,Saree,516,2023,Sep
+Uttar Pradesh,Lucknow,Clothing,Stole,513,2023,Oct
+Maharashtra,Mumbai,Furniture,Bookcases,512,2023,Nov
+Jammu and Kashmir,Kashmir,Clothing,Trousers,511,2023,Dec
+Himachal Pradesh,Simla,Clothing,Stole,510,2023,Jan
+Nagaland,Kohima,Clothing,Hankerchief,508,2023,Feb
+Delhi,Delhi,Furniture,Bookcases,504,2023,Mar
+West Bengal,Kolkata,Clothing,Saree,503,2023,Apr
+Delhi,Delhi,Clothing,Saree,502,2023,May
+Karnataka,Bangalore,Clothing,Hankerchief,499,2023,Jun
+Madhya Pradesh,Indore,Clothing,T-shirt,498,2023,Jul
+Maharashtra,Pune,Clothing,Shirt,497,2023,Aug
+Gujarat,Ahmedabad,Furniture,Tables,496,2023,Sep
+Maharashtra,Mumbai,Electronics,Phones,494,2023,Oct
+Uttar Pradesh,Lucknow,Clothing,Saree,492,2023,Nov
+Punjab,Amritsar,Clothing,Hankerchief,490,2023,Dec
+Punjab,Amritsar,Electronics,Electronic Games,490,2023,Jan
+Sikkim,Gangtok,Clothing,Saree,487,2023,Feb
+Delhi,Delhi,Clothing,Leggings,487,2023,Mar
+Madhya Pradesh,Indore,Clothing,Saree,485,2023,Apr
+Maharashtra,Mumbai,Electronics,Accessories,485,2023,May
+Punjab,Chandigarh,Clothing,Saree,484,2023,Jun
+Madhya Pradesh,Indore,Electronics,Phones,482,2023,Jul
+Maharashtra,Mumbai,Furniture,Bookcases,476,2023,Aug
+Goa,Goa,Clothing,Shirt,474,2023,Sep
+Kerala ,Thiruvananthapuram,Electronics,Phones,473,2023,Oct
+Uttar Pradesh,Prayagraj,Clothing,Saree,473,2023,Nov
+Karnataka,Bangalore,Furniture,Bookcases,469,2023,Dec
+Madhya Pradesh,Indore,Electronics,Phones,469,2023,Jan
+Madhya Pradesh,Indore,Clothing,Saree,465,2023,Feb
+Nagaland,Kohima,Clothing,Shirt,465,2023,Mar
+Sikkim,Gangtok,Clothing,T-shirt,462,2023,Apr
+Madhya Pradesh,Indore,Furniture,Chairs,460,2023,May
+Jammu and Kashmir,Kashmir,Electronics,Electronic Games,460,2023,Jun
+Rajasthan,Jaipur,Furniture,Furnishings,457,2023,Jul
+Rajasthan,Jaipur,Clothing,Stole,455,2023,Aug
+Uttar Pradesh,Lucknow,Electronics,Phones,451,2023,Sep
+Punjab,Chandigarh,Furniture,Bookcases,450,2023,Oct
+Bihar,Patna,Clothing,Hankerchief,450,2023,Nov
+Punjab,Amritsar,Electronics,Phones,448,2023,Dec
+Kerala ,Thiruvananthapuram,Clothing,Leggings,446,2023,Jan
+Goa,Goa,Electronics,Phones,444,2023,Feb
+Tamil Nadu,Chennai,Clothing,Trousers,443,2023,Mar
+Gujarat,Ahmedabad,Clothing,Hankerchief,442,2023,Apr
+Uttar Pradesh,Lucknow,Clothing,T-shirt,437,2023,May
+Madhya Pradesh,Indore,Electronics,Electronic Games,436,2023,Jun
+Delhi,Delhi,Electronics,Phones,434,2023,Jul
+Maharashtra,Pune,Clothing,Shirt,433,2023,Aug
+Rajasthan,Jaipur,Clothing,Stole,429,2023,Sep
+Punjab,Amritsar,Furniture,Chairs,429,2023,Oct
+Rajasthan,Jaipur,Electronics,Phones,427,2023,Nov
+Haryana,Chandigarh,Electronics,Electronic Games,425,2023,Dec
+Kerala ,Thiruvananthapuram,Furniture,Bookcases,425,2023,Jan
+Madhya Pradesh,Indore,Clothing,Hankerchief,424,2023,Feb
+Madhya Pradesh,Indore,Clothing,T-shirt,424,2023,Mar
+Sikkim,Gangtok,Electronics,Phones,424,2023,Apr
+Gujarat,Surat,Clothing,Shirt,418,2023,May
+Delhi,Delhi,Clothing,Stole,417,2023,Jun
+Nagaland,Kohima,Clothing,Hankerchief,416,2023,Jul
+Himachal Pradesh,Simla,Furniture,Bookcases,414,2023,Aug
+Haryana,Chandigarh,Furniture,Bookcases,413,2023,Sep
+West Bengal,Kolkata,Clothing,Leggings,412,2023,Oct
+Andhra Pradesh,Hyderabad,Clothing,Saree,409,2023,Nov
+Madhya Pradesh,Indore,Clothing,Hankerchief,406,2023,Dec
+Punjab,Amritsar,Electronics,Printers,406,2023,Jan
+Maharashtra,Pune,Electronics,Phones,401,2023,Feb
+Madhya Pradesh,Indore,Clothing,Saree,398,2023,Mar
+Himachal Pradesh,Simla,Clothing,Kurti,396,2023,Apr
+Rajasthan,Jaipur,Electronics,Accessories,394,2023,May
+Kerala ,Thiruvananthapuram,Electronics,Electronic Games,391,2023,Jun
+Rajasthan,Jaipur,Electronics,Printers,391,2023,Jul
+Kerala ,Thiruvananthapuram,Electronics,Electronic Games,389,2023,Aug
+Gujarat,Surat,Electronics,Phones,388,2023,Sep
+West Bengal,Kolkata,Electronics,Phones,387,2023,Oct
+West Bengal,Kolkata,Electronics,Electronic Games,385,2023,Nov
+Andhra Pradesh,Hyderabad,Clothing,Skirt,382,2023,Dec
+Rajasthan,Jaipur,Clothing,Saree,382,2023,Jan
+Madhya Pradesh,Indore,Clothing,Trousers,382,2023,Feb
+Gujarat,Ahmedabad,Clothing,Hankerchief,382,2023,Mar
+Sikkim,Gangtok,Clothing,T-shirt,381,2023,Apr
+Kerala ,Thiruvananthapuram,Clothing,Saree,381,2023,May
+Delhi,Delhi,Furniture,Chairs,379,2023,Jun
+Maharashtra,Pune,Clothing,Hankerchief,376,2023,Jul
+Madhya Pradesh,Bhopal,Electronics,Printers,375,2023,Aug
+Maharashtra,Mumbai,Clothing,Hankerchief,373,2023,Sep
+Delhi,Delhi,Furniture,Chairs,372,2023,Oct
+Uttar Pradesh,Lucknow,Clothing,Saree,371,2023,Nov
+West Bengal,Kolkata,Electronics,Phones,369,2023,Dec
+Karnataka,Bangalore,Clothing,Saree,367,2023,Jan
+Gujarat,Surat,Clothing,Stole,366,2023,Feb
+Andhra Pradesh,Hyderabad,Clothing,Stole,365,2023,Mar
+Madhya Pradesh,Indore,Clothing,Hankerchief,362,2023,Apr
+Bihar,Patna,Furniture,Chairs,360,2023,May
+Nagaland,Kohima,Clothing,Hankerchief,359,2023,Jun
+Punjab,Chandigarh,Clothing,Stole,357,2023,Jul
+Gujarat,Ahmedabad,Clothing,Stole,355,2023,Aug
+Madhya Pradesh,Indore,Clothing,Saree,355,2023,Sep
+Rajasthan,Udaipur,Clothing,Hankerchief,353,2023,Oct
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,352,2023,Nov
+Rajasthan,Udaipur,Clothing,Shirt,352,2023,Dec
+Goa,Goa,Clothing,Saree,352,2023,Jan
+Andhra Pradesh,Hyderabad,Clothing,Saree,351,2023,Feb
+Maharashtra,Mumbai,Clothing,Trousers,351,2023,Mar
+Haryana,Chandigarh,Furniture,Chairs,349,2023,Apr
+West Bengal,Kolkata,Furniture,Bookcases,349,2023,May
+Punjab,Chandigarh,Clothing,Stole,346,2023,Jun
+Bihar,Patna,Clothing,Hankerchief,345,2023,Jul
+Maharashtra,Mumbai,Clothing,Kurti,344,2023,Aug
+West Bengal,Kolkata,Clothing,Saree,342,2023,Sep
+Maharashtra,Mumbai,Clothing,Saree,342,2023,Oct
+Maharashtra,Mumbai,Clothing,Stole,341,2023,Nov
+West Bengal,Kolkata,Clothing,T-shirt,341,2023,Dec
+Rajasthan,Udaipur,Clothing,Stole,341,2023,Jan
+Himachal Pradesh,Simla,Furniture,Furnishings,340,2023,Feb
+Maharashtra,Pune,Furniture,Bookcases,338,2023,Mar
+Bihar,Patna,Clothing,Kurti,336,2023,Apr
+Kerala ,Thiruvananthapuram,Furniture,Bookcases,336,2023,May
+Maharashtra,Mumbai,Clothing,Skirt,336,2023,Jun
+Punjab,Amritsar,Clothing,Stole,335,2023,Jul
+Madhya Pradesh,Indore,Clothing,Kurti,333,2023,Aug
+Rajasthan,Jaipur,Clothing,Stole,333,2023,Sep
+Gujarat,Surat,Clothing,Hankerchief,332,2023,Oct
+Gujarat,Surat,Furniture,Chairs,332,2023,Nov
+Madhya Pradesh,Indore,Electronics,Electronic Games,330,2023,Dec
+Goa,Goa,Clothing,Saree,328,2023,Jan
+Rajasthan,Udaipur,Clothing,Skirt,327,2023,Feb
+Maharashtra,Mumbai,Clothing,Hankerchief,327,2023,Mar
+Tamil Nadu,Chennai,Clothing,Stole,326,2023,Apr
+Jammu and Kashmir,Kashmir,Electronics,Electronic Games,325,2023,May
+Uttar Pradesh,Lucknow,Electronics,Phones,324,2023,Jun
+Madhya Pradesh,Indore,Clothing,Leggings,323,2023,Jul
+Rajasthan,Udaipur,Furniture,Chairs,322,2023,Aug
+Madhya Pradesh,Indore,Clothing,Skirt,322,2023,Sep
+Delhi,Delhi,Clothing,Saree,322,2023,Oct
+Delhi,Delhi,Clothing,Shirt,321,2023,Nov
+Madhya Pradesh,Indore,Clothing,Stole,321,2023,Dec
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,320,2023,Jan
+Maharashtra,Mumbai,Electronics,Electronic Games,319,2023,Feb
+Maharashtra,Mumbai,Clothing,Saree,319,2023,Mar
+Madhya Pradesh,Bhopal,Clothing,T-shirt,315,2023,Apr
+Uttar Pradesh,Prayagraj,Clothing,Saree,314,2023,May
+Uttar Pradesh,Lucknow,Clothing,Stole,313,2023,Jun
+Uttar Pradesh,Lucknow,Clothing,Trousers,313,2023,Jul
+Madhya Pradesh,Indore,Clothing,Saree,312,2023,Aug
+Gujarat,Ahmedabad,Clothing,Shirt,312,2023,Sep
+Uttar Pradesh,Lucknow,Clothing,Shirt,311,2023,Oct
+Madhya Pradesh,Indore,Clothing,Stole,311,2023,Nov
+Punjab,Chandigarh,Furniture,Bookcases,307,2023,Dec
+Gujarat,Ahmedabad,Furniture,Furnishings,306,2023,Jan
+Haryana,Chandigarh,Furniture,Chairs,305,2023,Feb
+Karnataka,Bangalore,Furniture,Chairs,304,2023,Mar
+Maharashtra,Pune,Clothing,Stole,302,2023,Apr
+West Bengal,Kolkata,Clothing,Trousers,300,2023,May
+Madhya Pradesh,Indore,Furniture,Bookcases,299,2023,Jun
+Nagaland,Kohima,Electronics,Accessories,299,2023,Jul
+Maharashtra,Pune,Clothing,Hankerchief,299,2023,Aug
+Madhya Pradesh,Indore,Clothing,Shirt,299,2023,Sep
+Kerala ,Thiruvananthapuram,Clothing,Skirt,298,2023,Oct
+Gujarat,Surat,Clothing,Leggings,296,2023,Nov
+Nagaland,Kohima,Clothing,Saree,294,2023,Dec
+Delhi,Delhi,Clothing,Saree,294,2023,Jan
+Delhi,Delhi,Clothing,Stole,294,2023,Feb
+Jammu and Kashmir,Kashmir,Clothing,Saree,291,2023,Mar
+Maharashtra,Mumbai,Clothing,Saree,291,2023,Apr
+Maharashtra,Mumbai,Clothing,Leggings,290,2023,May
+Maharashtra,Mumbai,Electronics,Accessories,290,2023,Jun
+West Bengal,Kolkata,Furniture,Chairs,288,2023,Jul
+Maharashtra,Mumbai,Electronics,Electronic Games,287,2023,Aug
+Madhya Pradesh,Indore,Electronics,Electronic Games,287,2023,Sep
+Maharashtra,Mumbai,Electronics,Accessories,286,2023,Oct
+Madhya Pradesh,Indore,Electronics,Accessories,285,2023,Nov
+Delhi,Delhi,Electronics,Electronic Games,284,2023,Dec
+Sikkim,Gangtok,Furniture,Chairs,284,2023,Jan
+Madhya Pradesh,Bhopal,Clothing,Stole,282,2023,Feb
+Madhya Pradesh,Bhopal,Clothing,T-shirt,278,2023,Mar
+Madhya Pradesh,Indore,Clothing,Stole,277,2023,Apr
+Rajasthan,Jaipur,Clothing,Saree,276,2023,May
+Punjab,Chandigarh,Clothing,Leggings,276,2023,Jun
+Himachal Pradesh,Simla,Clothing,Saree,275,2023,Jul
+Tamil Nadu,Chennai,Clothing,Leggings,274,2023,Aug
+Maharashtra,Mumbai,Clothing,Shirt,273,2023,Sep
+Gujarat,Ahmedabad,Clothing,Stole,269,2023,Oct
+Maharashtra,Mumbai,Clothing,T-shirt,269,2023,Nov
+Madhya Pradesh,Indore,Clothing,T-shirt,269,2023,Dec
+Madhya Pradesh,Indore,Electronics,Phones,269,2023,Jan
+Gujarat,Ahmedabad,Clothing,Kurti,268,2023,Feb
+Madhya Pradesh,Indore,Clothing,Saree,268,2023,Mar
+Goa,Goa,Furniture,Bookcases,264,2023,Apr
+Madhya Pradesh,Indore,Clothing,Saree,264,2023,May
+West Bengal,Kolkata,Clothing,Skirt,264,2023,Jun
+Nagaland,Kohima,Electronics,Electronic Games,263,2023,Jul
+Maharashtra,Mumbai,Furniture,Furnishings,263,2023,Aug
+Gujarat,Surat,Clothing,Shirt,263,2023,Sep
+Himachal Pradesh,Simla,Electronics,Phones,262,2023,Oct
+Jammu and Kashmir,Kashmir,Furniture,Bookcases,262,2023,Nov
+Haryana,Chandigarh,Clothing,Trousers,261,2023,Dec
+Rajasthan,Udaipur,Clothing,Saree,260,2023,Jan
+Goa,Goa,Clothing,Hankerchief,259,2023,Feb
+Himachal Pradesh,Simla,Electronics,Electronic Games,259,2023,Mar
+Maharashtra,Mumbai,Clothing,Saree,259,2023,Apr
+Rajasthan,Jaipur,Clothing,Leggings,258,2023,May
+Madhya Pradesh,Indore,Clothing,Saree,257,2023,Jun
+Bihar,Patna,Clothing,Hankerchief,257,2023,Jul
+Maharashtra,Mumbai,Furniture,Chairs,257,2023,Aug
+Kerala ,Thiruvananthapuram,Clothing,Saree,257,2023,Sep
+Bihar,Patna,Furniture,Bookcases,255,2023,Oct
+Madhya Pradesh,Indore,Clothing,T-shirt,255,2023,Nov
+Madhya Pradesh,Bhopal,Clothing,Saree,253,2023,Dec
+Punjab,Chandigarh,Electronics,Accessories,253,2023,Jan
+Himachal Pradesh,Simla,Clothing,Leggings,252,2023,Feb
+Nagaland,Kohima,Clothing,Stole,250,2023,Mar
+Karnataka,Bangalore,Electronics,Phones,249,2023,Apr
+Maharashtra,Pune,Clothing,Skirt,249,2023,May
+Madhya Pradesh,Indore,Electronics,Phones,248,2023,Jun
+Maharashtra,Mumbai,Clothing,Shirt,248,2023,Jul
+Madhya Pradesh,Indore,Electronics,Phones,248,2023,Aug
+Goa,Goa,Clothing,Saree,246,2023,Sep
+Maharashtra,Mumbai,Clothing,Stole,246,2023,Oct
+Punjab,Chandigarh,Clothing,Kurti,246,2023,Nov
+Madhya Pradesh,Bhopal,Clothing,Shirt,245,2023,Dec
+Madhya Pradesh,Indore,Clothing,Saree,245,2023,Jan
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,245,2023,Feb
+Goa,Goa,Clothing,Trousers,245,2023,Mar
+Haryana,Chandigarh,Clothing,Hankerchief,245,2023,Apr
+Rajasthan,Jaipur,Furniture,Chairs,245,2023,May
+Andhra Pradesh,Hyderabad,Clothing,Saree,244,2023,Jun
+Karnataka,Bangalore,Clothing,Leggings,244,2023,Jul
+Maharashtra,Mumbai,Furniture,Chairs,243,2023,Aug
+West Bengal,Kolkata,Furniture,Bookcases,241,2023,Sep
+Maharashtra,Mumbai,Clothing,Kurti,240,2023,Oct
+Rajasthan,Udaipur,Furniture,Furnishings,239,2023,Nov
+Maharashtra,Pune,Furniture,Furnishings,238,2023,Dec
+Gujarat,Ahmedabad,Clothing,Trousers,237,2023,Jan
+Jammu and Kashmir,Kashmir,Electronics,Accessories,233,2023,Feb
+Bihar,Patna,Clothing,Hankerchief,231,2023,Mar
+West Bengal,Kolkata,Clothing,Hankerchief,231,2023,Apr
+Sikkim,Gangtok,Electronics,Electronic Games,230,2023,May
+Haryana,Chandigarh,Clothing,T-shirt,229,2023,Jun
+Himachal Pradesh,Simla,Clothing,Saree,229,2023,Jul
+Karnataka,Bangalore,Clothing,Leggings,229,2023,Aug
+Maharashtra,Pune,Electronics,Accessories,228,2023,Sep
+West Bengal,Kolkata,Furniture,Chairs,227,2023,Oct
+Karnataka,Bangalore,Electronics,Electronic Games,227,2023,Nov
+Andhra Pradesh,Hyderabad,Clothing,Saree,227,2023,Dec
+Rajasthan,Jaipur,Clothing,Saree,226,2023,Jan
+Delhi,Delhi,Clothing,Hankerchief,224,2023,Feb
+Tamil Nadu,Chennai,Clothing,T-shirt,224,2023,Mar
+Goa,Goa,Clothing,Kurti,224,2023,Apr
+Sikkim,Gangtok,Furniture,Bookcases,224,2023,May
+Maharashtra,Mumbai,Clothing,Stole,223,2023,Jun
+Himachal Pradesh,Simla,Electronics,Accessories,223,2023,Jul
+Rajasthan,Jaipur,Clothing,Stole,223,2023,Aug
+Uttar Pradesh,Mathura,Electronics,Electronic Games,223,2023,Sep
+Delhi,Delhi,Furniture,Furnishings,222,2023,Oct
+Uttar Pradesh,Mathura,Clothing,Stole,222,2023,Nov
+Maharashtra,Mumbai,Clothing,T-shirt,221,2023,Dec
+Madhya Pradesh,Indore,Clothing,Leggings,221,2023,Jan
+Uttar Pradesh,Prayagraj,Clothing,Saree,221,2023,Feb
+Maharashtra,Pune,Clothing,Saree,220,2023,Mar
+Maharashtra,Pune,Furniture,Furnishings,220,2023,Apr
+Andhra Pradesh,Hyderabad,Furniture,Chairs,219,2023,May
+Maharashtra,Pune,Electronics,Electronic Games,219,2023,Jun
+Maharashtra,Mumbai,Electronics,Accessories,219,2023,Jul
+Gujarat,Surat,Clothing,Shirt,217,2023,Aug
+Maharashtra,Mumbai,Furniture,Furnishings,216,2023,Sep
+Maharashtra,Pune,Clothing,Hankerchief,216,2023,Oct
+Uttar Pradesh,Mathura,Electronics,Electronic Games,216,2023,Nov
+Uttar Pradesh,Mathura,Furniture,Furnishings,216,2023,Dec
+Uttar Pradesh,Prayagraj,Clothing,Stole,215,2023,Jan
+Maharashtra,Mumbai,Clothing,Saree,214,2023,Feb
+Gujarat,Ahmedabad,Clothing,Leggings,213,2023,Mar
+Bihar,Patna,Clothing,Trousers,213,2023,Apr
+Himachal Pradesh,Simla,Clothing,Leggings,212,2023,May
+Uttar Pradesh,Mathura,Furniture,Furnishings,212,2023,Jun
+Himachal Pradesh,Simla,Clothing,T-shirt,211,2023,Jul
+Punjab,Chandigarh,Clothing,Saree,211,2023,Aug
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,210,2023,Sep
+Kerala ,Thiruvananthapuram,Clothing,Saree,210,2023,Oct
+Maharashtra,Mumbai,Clothing,Stole,209,2023,Nov
+Nagaland,Kohima,Clothing,Saree,209,2023,Dec
+Madhya Pradesh,Indore,Clothing,Hankerchief,209,2023,Jan
+Madhya Pradesh,Bhopal,Clothing,Shirt,208,2023,Feb
+Madhya Pradesh,Indore,Clothing,Saree,207,2023,Mar
+Maharashtra,Pune,Clothing,Kurti,207,2023,Apr
+Delhi,Delhi,Electronics,Printers,207,2023,May
+Madhya Pradesh,Indore,Clothing,Leggings,207,2023,Jun
+Haryana,Chandigarh,Clothing,Stole,206,2023,Jul
+Rajasthan,Udaipur,Clothing,Hankerchief,206,2023,Aug
+Karnataka,Bangalore,Clothing,Stole,206,2023,Sep
+Kerala ,Thiruvananthapuram,Clothing,Hankerchief,206,2023,Oct
+Madhya Pradesh,Bhopal,Electronics,Electronic Games,205,2023,Nov
+Gujarat,Ahmedabad,Clothing,Saree,204,2023,Dec
+Maharashtra,Pune,Clothing,T-shirt,204,2023,Jan
+Madhya Pradesh,Indore,Furniture,Furnishings,203,2023,Feb
+Maharashtra,Mumbai,Clothing,Stole,202,2023,Mar
+Uttar Pradesh,Lucknow,Furniture,Furnishings,202,2023,Apr
+Punjab,Chandigarh,Clothing,Stole,201,2023,May
+Maharashtra,Pune,Clothing,Saree,200,2023,Jun
+Madhya Pradesh,Indore,Clothing,Kurti,200,2023,Jul
+Maharashtra,Pune,Electronics,Electronic Games,200,2023,Aug
+Tamil Nadu,Chennai,Electronics,Electronic Games,199,2023,Sep
+Madhya Pradesh,Indore,Clothing,Saree,199,2023,Oct
+Maharashtra,Pune,Clothing,Hankerchief,199,2023,Nov
+Madhya Pradesh,Bhopal,Clothing,Saree,199,2023,Dec
+West Bengal,Kolkata,Clothing,Stole,199,2023,Jan
+Nagaland,Kohima,Clothing,Shirt,199,2023,Feb
+Madhya Pradesh,Bhopal,Clothing,Skirt,197,2023,Mar
+Madhya Pradesh,Indore,Clothing,Stole,197,2023,Apr
+Delhi,Delhi,Clothing,Shirt,196,2023,May
+Kerala ,Thiruvananthapuram,Furniture,Furnishings,195,2023,Jun
+Karnataka,Bangalore,Electronics,Printers,195,2023,Jul
+Jammu and Kashmir,Kashmir,Clothing,Hankerchief,193,2023,Aug
+Maharashtra,Pune,Clothing,Saree,193,2023,Sep
+Gujarat,Ahmedabad,Electronics,Phones,193,2023,Oct
+Madhya Pradesh,Indore,Clothing,Kurti,193,2023,Nov
+Andhra Pradesh,Hyderabad,Clothing,T-shirt,193,2023,Dec
+Maharashtra,Pune,Clothing,Saree,192,2023,Jan
+Rajasthan,Jaipur,Clothing,T-shirt,191,2023,Feb
+West Bengal,Kolkata,Electronics,Phones,191,2023,Mar
+Punjab,Amritsar,Clothing,Saree,191,2023,Apr
+Maharashtra,Mumbai,Furniture,Furnishings,190,2023,May
+Andhra Pradesh,Hyderabad,Clothing,Hankerchief,190,2023,Jun
+Bihar,Patna,Furniture,Furnishings,189,2023,Jul
+Madhya Pradesh,Indore,Clothing,Stole,189,2023,Aug
+Rajasthan,Jaipur,Clothing,Saree,189,2023,Sep
+Gujarat,Surat,Clothing,T-shirt,188,2023,Oct
+Madhya Pradesh,Bhopal,Electronics,Electronic Games,188,2023,Nov
+Punjab,Chandigarh,Clothing,Saree,187,2023,Dec
+Goa,Goa,Clothing,Stole,187,2023,Jan
+Haryana,Chandigarh,Clothing,Saree,186,2023,Feb
+Maharashtra,Mumbai,Clothing,Shirt,185,2023,Mar
+Haryana,Chandigarh,Electronics,Electronic Games,185,2023,Apr
+Bihar,Patna,Clothing,Stole,185,2023,May
+Madhya Pradesh,Indore,Clothing,Stole,184,2023,Jun
+Punjab,Chandigarh,Furniture,Bookcases,183,2023,Jul
+Maharashtra,Mumbai,Clothing,Kurti,182,2023,Aug
+Jammu and Kashmir,Kashmir,Clothing,Skirt,180,2023,Sep
+Maharashtra,Pune,Furniture,Furnishings,180,2023,Oct
+Maharashtra,Mumbai,Furniture,Bookcases,180,2023,Nov
+Haryana,Chandigarh,Clothing,Saree,179,2023,Dec
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,179,2023,Jan
+Uttar Pradesh,Lucknow,Clothing,Stole,179,2023,Feb
+Madhya Pradesh,Indore,Clothing,Hankerchief,177,2023,Mar
+Madhya Pradesh,Indore,Clothing,Shirt,176,2023,Apr
+Maharashtra,Mumbai,Electronics,Accessories,176,2023,May
+Madhya Pradesh,Indore,Electronics,Accessories,176,2023,Jun
+Punjab,Chandigarh,Clothing,Saree,175,2023,Jul
+Madhya Pradesh,Bhopal,Clothing,Saree,174,2023,Aug
+Maharashtra,Mumbai,Clothing,Shirt,173,2023,Sep
+Rajasthan,Udaipur,Clothing,Stole,173,2023,Oct
+Goa,Goa,Clothing,Stole,172,2023,Nov
+Rajasthan,Udaipur,Clothing,Shirt,171,2023,Dec
+Maharashtra,Mumbai,Clothing,Saree,171,2023,Jan
+Madhya Pradesh,Indore,Furniture,Chairs,171,2023,Feb
+Gujarat,Ahmedabad,Furniture,Chairs,171,2023,Mar
+Karnataka,Bangalore,Furniture,Chairs,171,2023,Apr
+Maharashtra,Pune,Clothing,Saree,170,2023,May
+Madhya Pradesh,Bhopal,Electronics,Electronic Games,170,2023,Jun
+Delhi,Delhi,Clothing,Stole,169,2023,Jul
+Andhra Pradesh,Hyderabad,Clothing,Saree,169,2023,Aug
+Delhi,Delhi,Furniture,Furnishings,169,2023,Sep
+Uttar Pradesh,Prayagraj,Clothing,Stole,168,2023,Oct
+Andhra Pradesh,Hyderabad,Clothing,Stole,168,2023,Nov
+Punjab,Chandigarh,Clothing,Hankerchief,168,2023,Dec
+Nagaland,Kohima,Furniture,Furnishings,168,2023,Jan
+Madhya Pradesh,Indore,Clothing,Hankerchief,168,2023,Feb
+Madhya Pradesh,Indore,Clothing,Saree,168,2023,Mar
+Punjab,Amritsar,Clothing,Shirt,167,2023,Apr
+Uttar Pradesh,Lucknow,Clothing,Hankerchief,166,2023,May
+Bihar,Patna,Clothing,Stole,166,2023,Jun
+West Bengal,Kolkata,Clothing,Stole,165,2023,Jul
+Karnataka,Bangalore,Furniture,Furnishings,165,2023,Aug
+Delhi,Delhi,Clothing,Hankerchief,163,2023,Sep
+Gujarat,Ahmedabad,Electronics,Accessories,163,2023,Oct
+Maharashtra,Pune,Clothing,Saree,162,2023,Nov
+Madhya Pradesh,Indore,Clothing,T-shirt,162,2023,Dec
+Madhya Pradesh,Indore,Clothing,Shirt,162,2023,Jan
+Haryana,Chandigarh,Clothing,Hankerchief,161,2023,Feb
+Kerala ,Thiruvananthapuram,Electronics,Accessories,161,2023,Mar
+Maharashtra,Mumbai,Furniture,Chairs,160,2023,Apr
+West Bengal,Kolkata,Furniture,Bookcases,159,2023,May
+Maharashtra,Mumbai,Furniture,Furnishings,159,2023,Jun
+Maharashtra,Mumbai,Clothing,Stole,158,2023,Jul
+Kerala ,Thiruvananthapuram,Furniture,Chairs,158,2023,Aug
+Madhya Pradesh,Indore,Clothing,Stole,158,2023,Sep
+Madhya Pradesh,Indore,Clothing,T-shirt,158,2023,Oct
+Maharashtra,Mumbai,Clothing,Kurti,158,2023,Nov
+Madhya Pradesh,Indore,Clothing,Stole,157,2023,Dec
+Maharashtra,Mumbai,Electronics,Phones,156,2023,Jan
+Sikkim,Gangtok,Clothing,T-shirt,156,2023,Feb
+Madhya Pradesh,Indore,Clothing,Saree,156,2023,Mar
+Sikkim,Gangtok,Furniture,Chairs,155,2023,Apr
+Maharashtra,Mumbai,Clothing,Stole,155,2023,May
+Uttar Pradesh,Mathura,Clothing,Saree,155,2023,Jun
+Madhya Pradesh,Indore,Clothing,Stole,154,2023,Jul
+Delhi,Delhi,Clothing,Skirt,154,2023,Aug
+Karnataka,Bangalore,Clothing,Trousers,154,2023,Sep
+Gujarat,Ahmedabad,Clothing,T-shirt,154,2023,Oct
+Rajasthan,Udaipur,Clothing,Stole,154,2023,Nov
+Goa,Goa,Clothing,Kurti,152,2023,Dec
+Himachal Pradesh,Simla,Furniture,Bookcases,152,2023,Jan
+Punjab,Amritsar,Clothing,T-shirt,152,2023,Feb
+Andhra Pradesh,Hyderabad,Clothing,Stole,152,2023,Mar
+Haryana,Chandigarh,Clothing,Saree,151,2023,Apr
+Maharashtra,Mumbai,Electronics,Accessories,151,2023,May
+Maharashtra,Mumbai,Electronics,Phones,150,2023,Jun
+Tamil Nadu,Chennai,Clothing,Skirt,149,2023,Jul
+Jammu and Kashmir,Kashmir,Furniture,Furnishings,149,2023,Aug
+Maharashtra,Mumbai,Clothing,Stole,149,2023,Sep
+Madhya Pradesh,Bhopal,Clothing,Skirt,149,2023,Oct
+Maharashtra,Mumbai,Furniture,Furnishings,149,2023,Nov
+Madhya Pradesh,Indore,Clothing,T-shirt,149,2023,Dec
+Maharashtra,Pune,Electronics,Accessories,149,2023,Jan
+Sikkim,Gangtok,Clothing,Saree,149,2023,Feb
+Madhya Pradesh,Indore,Clothing,Leggings,148,2023,Mar
+West Bengal,Kolkata,Furniture,Furnishings,148,2023,Apr
+Punjab,Chandigarh,Electronics,Accessories,148,2023,May
+Jammu and Kashmir,Kashmir,Furniture,Furnishings,148,2023,Jun
+Karnataka,Bangalore,Clothing,Skirt,148,2023,Jul
+Kerala ,Thiruvananthapuram,Clothing,Hankerchief,148,2023,Aug
+Delhi,Delhi,Clothing,Stole,148,2023,Sep
+Madhya Pradesh,Indore,Clothing,Stole,148,2023,Oct
+Maharashtra,Mumbai,Furniture,Furnishings,148,2023,Nov
+West Bengal,Kolkata,Clothing,Kurti,148,2023,Dec
+Jammu and Kashmir,Kashmir,Clothing,Hankerchief,148,2023,Jan
+Bihar,Patna,Clothing,Saree,147,2023,Feb
+Maharashtra,Pune,Furniture,Furnishings,147,2023,Mar
+Madhya Pradesh,Indore,Clothing,Stole,147,2023,Apr
+Punjab,Chandigarh,Clothing,Saree,147,2023,May
+Rajasthan,Jaipur,Furniture,Furnishings,147,2023,Jun
+Maharashtra,Mumbai,Furniture,Chairs,146,2023,Jul
+Madhya Pradesh,Indore,Clothing,Hankerchief,146,2023,Aug
+Bihar,Patna,Clothing,Saree,146,2023,Sep
+Jammu and Kashmir,Kashmir,Clothing,Saree,146,2023,Oct
+Tamil Nadu,Chennai,Furniture,Furnishings,146,2023,Nov
+Rajasthan,Udaipur,Clothing,Saree,145,2023,Dec
+Maharashtra,Mumbai,Clothing,T-shirt,145,2023,Jan
+Nagaland,Kohima,Clothing,Kurti,145,2023,Feb
+Rajasthan,Udaipur,Clothing,Skirt,144,2023,Mar
+Uttar Pradesh,Prayagraj,Clothing,Saree,143,2023,Apr
+Jammu and Kashmir,Kashmir,Clothing,Hankerchief,143,2023,May
+Himachal Pradesh,Simla,Clothing,Stole,143,2023,Jun
+Maharashtra,Mumbai,Furniture,Furnishings,143,2023,Jul
+Rajasthan,Jaipur,Clothing,Stole,143,2023,Aug
+Uttar Pradesh,Lucknow,Electronics,Phones,141,2023,Sep
+Madhya Pradesh,Indore,Clothing,T-shirt,141,2023,Oct
+Maharashtra,Mumbai,Clothing,Shirt,141,2023,Nov
+Maharashtra,Mumbai,Clothing,T-shirt,141,2023,Dec
+Sikkim,Gangtok,Electronics,Electronic Games,140,2023,Jan
+Maharashtra,Mumbai,Clothing,Stole,140,2023,Feb
+Madhya Pradesh,Indore,Clothing,Hankerchief,140,2023,Mar
+Maharashtra,Mumbai,Clothing,Shirt,140,2023,Apr
+Delhi,Delhi,Clothing,Stole,140,2023,May
+Madhya Pradesh,Indore,Electronics,Phones,140,2023,Jun
+West Bengal,Kolkata,Clothing,T-shirt,140,2023,Jul
+Maharashtra,Mumbai,Clothing,Stole,139,2023,Aug
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,139,2023,Sep
+Gujarat,Ahmedabad,Clothing,Hankerchief,139,2023,Oct
+Maharashtra,Pune,Clothing,Saree,139,2023,Nov
+Karnataka,Bangalore,Furniture,Furnishings,139,2023,Dec
+Kerala ,Thiruvananthapuram,Clothing,Trousers,138,2023,Jan
+Karnataka,Bangalore,Clothing,Shirt,138,2023,Feb
+Karnataka,Bangalore,Electronics,Accessories,137,2023,Mar
+Bihar,Patna,Furniture,Chairs,137,2023,Apr
+Madhya Pradesh,Bhopal,Clothing,Stole,137,2023,May
+Jammu and Kashmir,Kashmir,Clothing,Saree,137,2023,Jun
+Maharashtra,Mumbai,Clothing,Stole,136,2023,Jul
+Rajasthan,Jaipur,Furniture,Furnishings,136,2023,Aug
+Madhya Pradesh,Indore,Furniture,Chairs,135,2023,Sep
+Andhra Pradesh,Hyderabad,Furniture,Furnishings,134,2023,Oct
+Goa,Goa,Clothing,T-shirt,134,2023,Nov
+Gujarat,Surat,Electronics,Accessories,134,2023,Dec
+Maharashtra,Mumbai,Clothing,Saree,133,2023,Jan
+Maharashtra,Mumbai,Clothing,Kurti,133,2023,Feb
+Nagaland,Kohima,Electronics,Accessories,133,2023,Mar
+Maharashtra,Mumbai,Clothing,Hankerchief,133,2023,Apr
+Nagaland,Kohima,Clothing,Stole,133,2023,May
+Madhya Pradesh,Indore,Electronics,Electronic Games,132,2023,Jun
+Andhra Pradesh,Hyderabad,Clothing,T-shirt,132,2023,Jul
+Andhra Pradesh,Hyderabad,Clothing,Stole,132,2023,Aug
+West Bengal,Kolkata,Clothing,Shirt,132,2023,Sep
+Maharashtra,Mumbai,Clothing,Leggings,131,2023,Oct
+Gujarat,Ahmedabad,Clothing,Leggings,130,2023,Nov
+Madhya Pradesh,Indore,Electronics,Accessories,130,2023,Dec
+Haryana,Chandigarh,Electronics,Accessories,129,2023,Jan
+Maharashtra,Mumbai,Clothing,T-shirt,129,2023,Feb
+Karnataka,Bangalore,Furniture,Furnishings,128,2023,Mar
+Delhi,Delhi,Furniture,Chairs,128,2023,Apr
+Sikkim,Gangtok,Clothing,Trousers,128,2023,May
+Nagaland,Kohima,Furniture,Chairs,128,2023,Jun
+Maharashtra,Mumbai,Clothing,Saree,128,2023,Jul
+Madhya Pradesh,Bhopal,Clothing,Stole,127,2023,Aug
+Delhi,Delhi,Clothing,T-shirt,126,2023,Sep
+Karnataka,Bangalore,Clothing,Saree,126,2023,Oct
+Madhya Pradesh,Indore,Clothing,T-shirt,125,2023,Nov
+Tamil Nadu,Chennai,Clothing,Stole,125,2023,Dec
+Goa,Goa,Furniture,Furnishings,125,2023,Jan
+Karnataka,Bangalore,Electronics,Phones,124,2023,Feb
+Bihar,Patna,Clothing,Shirt,123,2023,Mar
+Bihar,Patna,Electronics,Accessories,122,2023,Apr
+Rajasthan,Jaipur,Clothing,Stole,122,2023,May
+Uttar Pradesh,Lucknow,Clothing,Saree,122,2023,Jun
+Maharashtra,Mumbai,Clothing,Kurti,122,2023,Jul
+Jammu and Kashmir,Kashmir,Clothing,Shirt,122,2023,Aug
+Himachal Pradesh,Simla,Electronics,Accessories,122,2023,Sep
+Nagaland,Kohima,Clothing,Stole,122,2023,Oct
+Delhi,Delhi,Furniture,Furnishings,122,2023,Nov
+West Bengal,Kolkata,Clothing,Skirt,121,2023,Dec
+Delhi,Delhi,Clothing,Saree,121,2023,Jan
+Karnataka,Bangalore,Clothing,Stole,121,2023,Feb
+Madhya Pradesh,Indore,Clothing,Saree,121,2023,Mar
+Maharashtra,Pune,Clothing,Saree,120,2023,Apr
+Gujarat,Ahmedabad,Clothing,Saree,120,2023,May
+Maharashtra,Mumbai,Clothing,Saree,119,2023,Jun
+Uttar Pradesh,Lucknow,Clothing,Saree,119,2023,Jul
+Punjab,Amritsar,Clothing,Shirt,119,2023,Aug
+Punjab,Amritsar,Electronics,Accessories,119,2023,Sep
+Sikkim,Gangtok,Furniture,Chairs,119,2023,Oct
+Delhi,Delhi,Electronics,Accessories,119,2023,Nov
+Madhya Pradesh,Indore,Electronics,Phones,118,2023,Dec
+Maharashtra,Mumbai,Electronics,Phones,118,2023,Jan
+Punjab,Chandigarh,Clothing,Shirt,117,2023,Feb
+Madhya Pradesh,Indore,Clothing,Saree,117,2023,Mar
+Maharashtra,Mumbai,Furniture,Furnishings,117,2023,Apr
+Goa,Goa,Clothing,Stole,117,2023,May
+Kerala ,Thiruvananthapuram,Clothing,Stole,116,2023,Jun
+Uttar Pradesh,Prayagraj,Clothing,Shirt,116,2023,Jul
+Karnataka,Bangalore,Clothing,Stole,116,2023,Aug
+Madhya Pradesh,Indore,Clothing,Shirt,116,2023,Sep
+Madhya Pradesh,Indore,Clothing,Shirt,115,2023,Oct
+Nagaland,Kohima,Clothing,Hankerchief,115,2023,Nov
+Sikkim,Gangtok,Clothing,Hankerchief,115,2023,Dec
+Madhya Pradesh,Indore,Electronics,Phones,115,2023,Jan
+Jammu and Kashmir,Kashmir,Clothing,Trousers,115,2023,Feb
+Rajasthan,Jaipur,Clothing,Shirt,114,2023,Mar
+Rajasthan,Jaipur,Clothing,Stole,114,2023,Apr
+Uttar Pradesh,Lucknow,Clothing,Skirt,114,2023,May
+Punjab,Chandigarh,Electronics,Accessories,114,2023,Jun
+Bihar,Patna,Clothing,T-shirt,113,2023,Jul
+Punjab,Amritsar,Clothing,T-shirt,113,2023,Aug
+Kerala ,Thiruvananthapuram,Clothing,Saree,112,2023,Sep
+Goa,Goa,Clothing,Shirt,112,2023,Oct
+Tamil Nadu,Chennai,Electronics,Electronic Games,111,2023,Nov
+Gujarat,Ahmedabad,Clothing,Stole,111,2023,Dec
+Uttar Pradesh,Lucknow,Clothing,Hankerchief,111,2023,Jan
+Madhya Pradesh,Indore,Electronics,Printers,110,2023,Feb
+Delhi,Delhi,Clothing,Stole,110,2023,Mar
+Maharashtra,Pune,Furniture,Chairs,110,2023,Apr
+Rajasthan,Jaipur,Furniture,Furnishings,110,2023,May
+Punjab,Amritsar,Clothing,Saree,109,2023,Jun
+Rajasthan,Jaipur,Clothing,Hankerchief,109,2023,Jul
+Haryana,Chandigarh,Clothing,Stole,109,2023,Aug
+Kerala ,Thiruvananthapuram,Clothing,Stole,109,2023,Sep
+Madhya Pradesh,Indore,Electronics,Electronic Games,108,2023,Oct
+Madhya Pradesh,Indore,Furniture,Bookcases,108,2023,Nov
+Sikkim,Gangtok,Clothing,Stole,108,2023,Dec
+Gujarat,Surat,Clothing,Shirt,108,2023,Jan
+Delhi,Delhi,Electronics,Phones,107,2023,Feb
+Nagaland,Kohima,Clothing,Saree,107,2023,Mar
+Himachal Pradesh,Simla,Clothing,Shirt,107,2023,Apr
+Haryana,Chandigarh,Furniture,Furnishings,107,2023,May
+West Bengal,Kolkata,Electronics,Phones,106,2023,Jun
+Andhra Pradesh,Hyderabad,Clothing,T-shirt,106,2023,Jul
+Madhya Pradesh,Indore,Clothing,Saree,106,2023,Aug
+Punjab,Amritsar,Clothing,Leggings,105,2023,Sep
+Maharashtra,Pune,Clothing,Saree,105,2023,Oct
+Madhya Pradesh,Indore,Electronics,Electronic Games,105,2023,Nov
+Himachal Pradesh,Simla,Furniture,Chairs,105,2023,Dec
+Rajasthan,Jaipur,Electronics,Phones,105,2023,Jan
+Kerala ,Thiruvananthapuram,Clothing,Shirt,105,2023,Feb
+Rajasthan,Jaipur,Clothing,Saree,104,2023,Mar
+Kerala ,Thiruvananthapuram,Clothing,Shirt,103,2023,Apr
+Gujarat,Surat,Clothing,Skirt,103,2023,May
+West Bengal,Kolkata,Furniture,Furnishings,103,2023,Jun
+West Bengal,Kolkata,Furniture,Chairs,103,2023,Jul
+Andhra Pradesh,Hyderabad,Furniture,Furnishings,103,2023,Aug
+Rajasthan,Jaipur,Clothing,T-shirt,102,2023,Sep
+Madhya Pradesh,Indore,Clothing,Stole,102,2023,Oct
+Gujarat,Ahmedabad,Clothing,Saree,102,2023,Nov
+Sikkim,Gangtok,Clothing,Hankerchief,102,2023,Dec
+Kerala ,Thiruvananthapuram,Clothing,Stole,101,2023,Jan
+Delhi,Delhi,Furniture,Furnishings,101,2023,Feb
+Maharashtra,Pune,Clothing,Stole,101,2023,Mar
+Madhya Pradesh,Bhopal,Furniture,Bookcases,101,2023,Apr
+Maharashtra,Mumbai,Clothing,T-shirt,100,2023,May
+Delhi,Delhi,Clothing,Stole,100,2023,Jun
+Uttar Pradesh,Lucknow,Furniture,Furnishings,100,2023,Jul
+West Bengal,Kolkata,Clothing,Skirt,100,2023,Aug
+Karnataka,Bangalore,Clothing,Hankerchief,100,2023,Sep
+Gujarat,Surat,Clothing,Kurti,100,2023,Oct
+Andhra Pradesh,Hyderabad,Furniture,Furnishings,99,2023,Nov
+Madhya Pradesh,Indore,Clothing,Saree,98,2023,Dec
+Bihar,Patna,Clothing,Hankerchief,98,2023,Jan
+Nagaland,Kohima,Electronics,Accessories,98,2023,Feb
+Punjab,Chandigarh,Clothing,Hankerchief,98,2023,Mar
+Gujarat,Ahmedabad,Clothing,Stole,98,2023,Apr
+Madhya Pradesh,Indore,Electronics,Accessories,97,2023,May
+Rajasthan,Udaipur,Clothing,Saree,97,2023,Jun
+Madhya Pradesh,Bhopal,Furniture,Chairs,97,2023,Jul
+Rajasthan,Udaipur,Clothing,T-shirt,97,2023,Aug
+Goa,Goa,Clothing,Hankerchief,97,2023,Sep
+Andhra Pradesh,Hyderabad,Electronics,Accessories,97,2023,Oct
+Maharashtra,Mumbai,Clothing,T-shirt,97,2023,Nov
+Haryana,Chandigarh,Furniture,Furnishings,97,2023,Dec
+West Bengal,Kolkata,Clothing,Shirt,96,2023,Jan
+Punjab,Chandigarh,Clothing,Saree,96,2023,Feb
+Bihar,Patna,Clothing,Hankerchief,95,2023,Mar
+Maharashtra,Mumbai,Clothing,Hankerchief,95,2023,Apr
+West Bengal,Kolkata,Clothing,Skirt,95,2023,May
+Maharashtra,Mumbai,Clothing,Stole,94,2023,Jun
+Maharashtra,Mumbai,Clothing,Stole,94,2023,Jul
+West Bengal,Kolkata,Clothing,Saree,94,2023,Aug
+Rajasthan,Udaipur,Clothing,Stole,94,2023,Sep
+Himachal Pradesh,Simla,Clothing,Stole,93,2023,Oct
+Maharashtra,Pune,Clothing,Stole,93,2023,Nov
+Bihar,Patna,Furniture,Chairs,93,2023,Dec
+Kerala ,Thiruvananthapuram,Clothing,Skirt,93,2023,Jan
+Maharashtra,Mumbai,Clothing,Saree,93,2023,Feb
+Punjab,Amritsar,Clothing,Hankerchief,93,2023,Mar
+Madhya Pradesh,Indore,Furniture,Chairs,93,2023,Apr
+Rajasthan,Jaipur,Clothing,Skirt,92,2023,May
+Gujarat,Surat,Clothing,Hankerchief,92,2023,Jun
+Gujarat,Surat,Clothing,Hankerchief,91,2023,Jul
+Madhya Pradesh,Indore,Electronics,Accessories,91,2023,Aug
+Goa,Goa,Clothing,Saree,90,2023,Sep
+Rajasthan,Udaipur,Clothing,Saree,90,2023,Oct
+Maharashtra,Mumbai,Electronics,Accessories,90,2023,Nov
+Tamil Nadu,Chennai,Clothing,Saree,90,2023,Dec
+Jammu and Kashmir,Kashmir,Clothing,Shirt,90,2023,Jan
+Uttar Pradesh,Lucknow,Clothing,Hankerchief,89,2023,Feb
+Madhya Pradesh,Indore,Clothing,Stole,89,2023,Mar
+Rajasthan,Udaipur,Clothing,Shirt,89,2023,Apr
+Madhya Pradesh,Indore,Electronics,Printers,89,2023,May
+Delhi,Delhi,Furniture,Bookcases,89,2023,Jun
+Delhi,Delhi,Clothing,Stole,89,2023,Jul
+Madhya Pradesh,Indore,Clothing,Shirt,89,2023,Aug
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,88,2023,Sep
+Maharashtra,Mumbai,Clothing,Leggings,88,2023,Oct
+Maharashtra,Mumbai,Electronics,Accessories,88,2023,Nov
+Madhya Pradesh,Bhopal,Clothing,Stole,88,2023,Dec
+Uttar Pradesh,Prayagraj,Clothing,Stole,88,2023,Jan
+Uttar Pradesh,Lucknow,Clothing,Saree,87,2023,Feb
+Uttar Pradesh,Lucknow,Clothing,Trousers,87,2023,Mar
+Madhya Pradesh,Indore,Clothing,T-shirt,87,2023,Apr
+Gujarat,Ahmedabad,Clothing,Trousers,87,2023,May
+Uttar Pradesh,Lucknow,Furniture,Furnishings,87,2023,Jun
+Madhya Pradesh,Indore,Clothing,Stole,87,2023,Jul
+Punjab,Chandigarh,Electronics,Accessories,86,2023,Aug
+Gujarat,Ahmedabad,Clothing,Hankerchief,86,2023,Sep
+Haryana,Chandigarh,Clothing,Skirt,86,2023,Oct
+Karnataka,Bangalore,Clothing,Leggings,86,2023,Nov
+Maharashtra,Pune,Clothing,Saree,86,2023,Dec
+West Bengal,Kolkata,Clothing,T-shirt,86,2023,Jan
+Madhya Pradesh,Indore,Clothing,Stole,86,2023,Feb
+Nagaland,Kohima,Clothing,Hankerchief,85,2023,Mar
+Maharashtra,Pune,Clothing,Leggings,85,2023,Apr
+Madhya Pradesh,Indore,Furniture,Furnishings,85,2023,May
+Kerala ,Thiruvananthapuram,Furniture,Chairs,85,2023,Jun
+Gujarat,Surat,Clothing,Saree,85,2023,Jul
+Nagaland,Kohima,Clothing,Saree,84,2023,Aug
+Delhi,Delhi,Furniture,Furnishings,84,2023,Sep
+Delhi,Delhi,Clothing,Saree,83,2023,Oct
+Jammu and Kashmir,Kashmir,Clothing,Stole,83,2023,Nov
+Maharashtra,Mumbai,Clothing,T-shirt,83,2023,Dec
+Maharashtra,Mumbai,Clothing,Hankerchief,83,2023,Jan
+Maharashtra,Mumbai,Clothing,Kurti,83,2023,Feb
+West Bengal,Kolkata,Clothing,Hankerchief,83,2023,Mar
+Maharashtra,Mumbai,Electronics,Electronic Games,82,2023,Apr
+Madhya Pradesh,Indore,Clothing,Stole,82,2023,May
+Maharashtra,Mumbai,Clothing,Stole,82,2023,Jun
+Madhya Pradesh,Indore,Clothing,Leggings,82,2023,Jul
+Delhi,Delhi,Clothing,T-shirt,82,2023,Aug
+Sikkim,Gangtok,Clothing,Stole,82,2023,Sep
+Madhya Pradesh,Bhopal,Clothing,Stole,81,2023,Oct
+Madhya Pradesh,Bhopal,Clothing,Shirt,81,2023,Nov
+Madhya Pradesh,Indore,Clothing,Stole,81,2023,Dec
+Rajasthan,Jaipur,Clothing,Stole,81,2023,Jan
+Punjab,Chandigarh,Clothing,Stole,81,2023,Feb
+Himachal Pradesh,Simla,Clothing,Hankerchief,80,2023,Mar
+Tamil Nadu,Chennai,Clothing,T-shirt,80,2023,Apr
+Maharashtra,Mumbai,Furniture,Furnishings,80,2023,May
+Gujarat,Ahmedabad,Clothing,Leggings,80,2023,Jun
+Maharashtra,Mumbai,Clothing,Saree,80,2023,Jul
+Madhya Pradesh,Indore,Clothing,Saree,80,2023,Aug
+Madhya Pradesh,Indore,Furniture,Furnishings,80,2023,Sep
+Gujarat,Ahmedabad,Clothing,Saree,79,2023,Oct
+Madhya Pradesh,Indore,Clothing,Shirt,79,2023,Nov
+Goa,Goa,Clothing,Hankerchief,79,2023,Dec
+Madhya Pradesh,Indore,Clothing,Hankerchief,79,2023,Jan
+West Bengal,Kolkata,Clothing,Stole,79,2023,Feb
+Nagaland,Kohima,Electronics,Phones,79,2023,Mar
+Maharashtra,Mumbai,Clothing,T-shirt,79,2023,Apr
+Gujarat,Surat,Clothing,Stole,79,2023,May
+Himachal Pradesh,Simla,Clothing,Saree,79,2023,Jun
+Jammu and Kashmir,Kashmir,Furniture,Chairs,78,2023,Jul
+Haryana,Chandigarh,Clothing,Saree,78,2023,Aug
+Rajasthan,Udaipur,Electronics,Phones,78,2023,Sep
+Goa,Goa,Furniture,Bookcases,78,2023,Oct
+Himachal Pradesh,Simla,Clothing,Stole,78,2023,Nov
+Maharashtra,Mumbai,Clothing,Hankerchief,77,2023,Dec
+Rajasthan,Jaipur,Clothing,Stole,77,2023,Jan
+Madhya Pradesh,Indore,Clothing,Trousers,76,2023,Feb
+Bihar,Patna,Clothing,Saree,76,2023,Mar
+Maharashtra,Mumbai,Clothing,Skirt,76,2023,Apr
+Kerala ,Thiruvananthapuram,Clothing,Saree,76,2023,May
+Bihar,Patna,Furniture,Bookcases,76,2023,Jun
+Madhya Pradesh,Indore,Clothing,Saree,76,2023,Jul
+Madhya Pradesh,Bhopal,Furniture,Bookcases,75,2023,Aug
+Punjab,Chandigarh,Clothing,Stole,75,2023,Sep
+Himachal Pradesh,Simla,Clothing,Saree,75,2023,Oct
+Nagaland,Kohima,Clothing,Hankerchief,75,2023,Nov
+Karnataka,Bangalore,Electronics,Printers,75,2023,Dec
+Maharashtra,Pune,Electronics,Accessories,75,2023,Jan
+Madhya Pradesh,Indore,Clothing,Hankerchief,74,2023,Feb
+Maharashtra,Mumbai,Clothing,Saree,74,2023,Mar
+Madhya Pradesh,Indore,Electronics,Accessories,74,2023,Apr
+Goa,Goa,Clothing,Kurti,74,2023,May
+Maharashtra,Mumbai,Electronics,Accessories,74,2023,Jun
+Punjab,Chandigarh,Clothing,Stole,74,2023,Jul
+Madhya Pradesh,Bhopal,Electronics,Accessories,74,2023,Aug
+Madhya Pradesh,Indore,Clothing,Saree,74,2023,Sep
+Madhya Pradesh,Bhopal,Clothing,Saree,74,2023,Oct
+Goa,Goa,Clothing,Stole,73,2023,Nov
+Haryana,Chandigarh,Clothing,T-shirt,73,2023,Dec
+Rajasthan,Jaipur,Electronics,Electronic Games,73,2023,Jan
+Andhra Pradesh,Hyderabad,Clothing,Stole,73,2023,Feb
+Karnataka,Bangalore,Clothing,T-shirt,72,2023,Mar
+Maharashtra,Mumbai,Clothing,Saree,72,2023,Apr
+West Bengal,Kolkata,Clothing,Hankerchief,72,2023,May
+Maharashtra,Mumbai,Electronics,Phones,72,2023,Jun
+Rajasthan,Udaipur,Clothing,Saree,71,2023,Jul
+Maharashtra,Pune,Clothing,Trousers,71,2023,Aug
+Gujarat,Ahmedabad,Clothing,Saree,71,2023,Sep
+Jammu and Kashmir,Kashmir,Electronics,Accessories,71,2023,Oct
+Bihar,Patna,Clothing,T-shirt,71,2023,Nov
+West Bengal,Kolkata,Electronics,Accessories,71,2023,Dec
+Sikkim,Gangtok,Clothing,Saree,70,2023,Jan
+Haryana,Chandigarh,Furniture,Furnishings,70,2023,Feb
+Himachal Pradesh,Simla,Clothing,Shirt,70,2023,Mar
+Karnataka,Bangalore,Clothing,Shirt,70,2023,Apr
+Maharashtra,Pune,Clothing,Saree,69,2023,May
+West Bengal,Kolkata,Clothing,T-shirt,68,2023,Jun
+Karnataka,Bangalore,Electronics,Phones,68,2023,Jul
+Andhra Pradesh,Hyderabad,Clothing,Saree,68,2023,Aug
+Rajasthan,Jaipur,Clothing,Kurti,68,2023,Sep
+Delhi,Delhi,Clothing,Stole,68,2023,Oct
+Tamil Nadu,Chennai,Clothing,Stole,68,2023,Nov
+Goa,Goa,Clothing,Stole,67,2023,Dec
+Sikkim,Gangtok,Furniture,Furnishings,67,2023,Jan
+Maharashtra,Mumbai,Electronics,Printers,67,2023,Feb
+Himachal Pradesh,Simla,Clothing,T-shirt,67,2023,Mar
+Rajasthan,Jaipur,Clothing,Hankerchief,67,2023,Apr
+Uttar Pradesh,Mathura,Clothing,Stole,66,2023,May
+Delhi,Delhi,Electronics,Electronic Games,66,2023,Jun
+Uttar Pradesh,Mathura,Clothing,Hankerchief,66,2023,Jul
+Maharashtra,Mumbai,Electronics,Electronic Games,65,2023,Aug
+Madhya Pradesh,Indore,Furniture,Chairs,65,2023,Sep
+Uttar Pradesh,Prayagraj,Clothing,Hankerchief,65,2023,Oct
+Maharashtra,Pune,Clothing,Stole,65,2023,Nov
+Maharashtra,Pune,Electronics,Accessories,64,2023,Dec
+Andhra Pradesh,Hyderabad,Clothing,Stole,64,2023,Jan
+Maharashtra,Pune,Electronics,Electronic Games,64,2023,Feb
+Maharashtra,Mumbai,Clothing,Skirt,63,2023,Mar
+Gujarat,Surat,Electronics,Phones,63,2023,Apr
+Maharashtra,Mumbai,Clothing,Hankerchief,63,2023,May
+Maharashtra,Pune,Electronics,Accessories,63,2023,Jun
+Uttar Pradesh,Mathura,Electronics,Electronic Games,62,2023,Jul
+Uttar Pradesh,Mathura,Electronics,Accessories,62,2023,Aug
+Uttar Pradesh,Prayagraj,Electronics,Electronic Games,62,2023,Sep
+Maharashtra,Mumbai,Clothing,Leggings,62,2023,Oct
+Gujarat,Ahmedabad,Clothing,Stole,62,2023,Nov
+Bihar,Patna,Clothing,Hankerchief,62,2023,Dec
+Himachal Pradesh,Simla,Clothing,T-shirt,62,2023,Jan
+Uttar Pradesh,Mathura,Furniture,Furnishings,62,2023,Feb
+Himachal Pradesh,Simla,Clothing,Shirt,61,2023,Mar
+Punjab,Chandigarh,Clothing,Kurti,61,2023,Apr
+Madhya Pradesh,Bhopal,Clothing,Stole,61,2023,May
+Kerala ,Thiruvananthapuram,Furniture,Furnishings,61,2023,Jun
+Maharashtra,Mumbai,Clothing,Shirt,61,2023,Jul
+Nagaland,Kohima,Clothing,Hankerchief,61,2023,Aug
+Madhya Pradesh,Indore,Electronics,Printers,61,2023,Sep
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,61,2023,Oct
+Madhya Pradesh,Indore,Furniture,Bookcases,61,2023,Nov
+Maharashtra,Pune,Furniture,Bookcases,61,2023,Dec
+Delhi,Delhi,Clothing,Stole,61,2023,Jan
+Madhya Pradesh,Indore,Furniture,Chairs,60,2023,Feb
+Haryana,Chandigarh,Clothing,Stole,60,2023,Mar
+Rajasthan,Udaipur,Clothing,Hankerchief,60,2023,Apr
+Karnataka,Bangalore,Electronics,Electronic Games,60,2023,May
+Kerala ,Thiruvananthapuram,Clothing,Skirt,60,2023,Jun
+Madhya Pradesh,Bhopal,Clothing,Stole,60,2023,Jul
+Gujarat,Ahmedabad,Clothing,Saree,59,2023,Aug
+Maharashtra,Pune,Furniture,Furnishings,59,2023,Sep
+Madhya Pradesh,Indore,Electronics,Phones,59,2023,Oct
+Maharashtra,Mumbai,Clothing,Stole,59,2023,Nov
+Uttar Pradesh,Lucknow,Furniture,Furnishings,59,2023,Dec
+Punjab,Chandigarh,Clothing,Stole,59,2023,Jan
+Maharashtra,Pune,Clothing,Stole,59,2023,Feb
+Madhya Pradesh,Indore,Clothing,Stole,59,2023,Mar
+Maharashtra,Pune,Clothing,Shirt,59,2023,Apr
+Tamil Nadu,Chennai,Clothing,Hankerchief,59,2023,May
+Madhya Pradesh,Indore,Clothing,Saree,58,2023,Jun
+Maharashtra,Pune,Clothing,Shirt,58,2023,Jul
+Madhya Pradesh,Bhopal,Clothing,Leggings,58,2023,Aug
+West Bengal,Kolkata,Clothing,Hankerchief,58,2023,Sep
+Nagaland,Kohima,Electronics,Phones,58,2023,Oct
+Madhya Pradesh,Bhopal,Electronics,Phones,57,2023,Nov
+Madhya Pradesh,Indore,Clothing,Hankerchief,57,2023,Dec
+Delhi,Delhi,Clothing,Stole,57,2023,Jan
+Kerala ,Thiruvananthapuram,Clothing,Skirt,57,2023,Feb
+Karnataka,Bangalore,Clothing,Shirt,57,2023,Mar
+Jammu and Kashmir,Kashmir,Electronics,Phones,57,2023,Apr
+Maharashtra,Pune,Clothing,Stole,57,2023,May
+Gujarat,Ahmedabad,Clothing,Stole,57,2023,Jun
+Madhya Pradesh,Indore,Furniture,Chairs,57,2023,Jul
+Andhra Pradesh,Hyderabad,Clothing,Trousers,57,2023,Aug
+Maharashtra,Pune,Clothing,T-shirt,56,2023,Sep
+Rajasthan,Jaipur,Clothing,Shirt,56,2023,Oct
+West Bengal,Kolkata,Clothing,Stole,56,2023,Nov
+Punjab,Amritsar,Furniture,Chairs,55,2023,Dec
+Maharashtra,Mumbai,Clothing,Hankerchief,55,2023,Jan
+Andhra Pradesh,Hyderabad,Clothing,Saree,55,2023,Feb
+Bihar,Patna,Electronics,Accessories,55,2023,Mar
+Madhya Pradesh,Indore,Clothing,Shirt,55,2023,Apr
+Rajasthan,Jaipur,Clothing,Shirt,55,2023,May
+Gujarat,Surat,Electronics,Printers,55,2023,Jun
+Madhya Pradesh,Bhopal,Electronics,Phones,55,2023,Jul
+Punjab,Chandigarh,Electronics,Accessories,54,2023,Aug
+Goa,Goa,Furniture,Furnishings,54,2023,Sep
+Haryana,Chandigarh,Clothing,Saree,54,2023,Oct
+Maharashtra,Mumbai,Clothing,Hankerchief,54,2023,Nov
+Haryana,Chandigarh,Electronics,Electronic Games,54,2023,Dec
+Bihar,Patna,Clothing,Saree,54,2023,Jan
+Madhya Pradesh,Indore,Clothing,Stole,54,2023,Feb
+Punjab,Chandigarh,Clothing,Stole,54,2023,Mar
+Maharashtra,Mumbai,Clothing,Hankerchief,53,2023,Apr
+Jammu and Kashmir,Kashmir,Clothing,Saree,53,2023,May
+Maharashtra,Pune,Furniture,Chairs,53,2023,Jun
+Maharashtra,Mumbai,Clothing,Stole,53,2023,Jul
+Haryana,Chandigarh,Furniture,Chairs,53,2023,Aug
+Madhya Pradesh,Bhopal,Clothing,Stole,53,2023,Sep
+Uttar Pradesh,Lucknow,Clothing,Skirt,53,2023,Oct
+Madhya Pradesh,Indore,Clothing,Stole,53,2023,Nov
+Madhya Pradesh,Indore,Electronics,Accessories,53,2023,Dec
+Maharashtra,Mumbai,Electronics,Printers,52,2023,Jan
+Madhya Pradesh,Indore,Clothing,T-shirt,52,2023,Feb
+Punjab,Chandigarh,Clothing,Stole,52,2023,Mar
+Madhya Pradesh,Bhopal,Electronics,Printers,52,2023,Apr
+Maharashtra,Mumbai,Clothing,Saree,51,2023,May
+Rajasthan,Udaipur,Clothing,Kurti,51,2023,Jun
+Goa,Goa,Clothing,Saree,51,2023,Jul
+Rajasthan,Udaipur,Clothing,Shirt,51,2023,Aug
+Maharashtra,Mumbai,Clothing,Saree,50,2023,Sep
+Madhya Pradesh,Indore,Electronics,Printers,50,2023,Oct
+Gujarat,Ahmedabad,Furniture,Furnishings,50,2023,Nov
+Karnataka,Bangalore,Electronics,Phones,50,2023,Dec
+Maharashtra,Pune,Electronics,Electronic Games,50,2023,Jan
+Madhya Pradesh,Bhopal,Clothing,Stole,50,2023,Feb
+Delhi,Delhi,Clothing,Hankerchief,50,2023,Mar
+Andhra Pradesh,Hyderabad,Clothing,Leggings,50,2023,Apr
+Delhi,Delhi,Clothing,Hankerchief,50,2023,May
+Uttar Pradesh,Prayagraj,Clothing,Kurti,50,2023,Jun
+Andhra Pradesh,Hyderabad,Electronics,Electronic Games,50,2023,Jul
+Punjab,Chandigarh,Furniture,Bookcases,50,2023,Aug
+Nagaland,Kohima,Clothing,Stole,49,2023,Sep
+Madhya Pradesh,Indore,Electronics,Accessories,49,2023,Oct
+Madhya Pradesh,Indore,Electronics,Phones,49,2023,Nov
+Punjab,Amritsar,Electronics,Accessories,49,2023,Dec
+Uttar Pradesh,Lucknow,Clothing,Hankerchief,49,2023,Jan
+Bihar,Patna,Furniture,Furnishings,48,2023,Feb
+West Bengal,Kolkata,Clothing,Saree,48,2023,Mar
+Karnataka,Bangalore,Clothing,Hankerchief,48,2023,Apr
+Delhi,Delhi,Electronics,Electronic Games,48,2023,May
+Gujarat,Ahmedabad,Clothing,Hankerchief,48,2023,Jun
+Maharashtra,Pune,Clothing,Saree,48,2023,Jul
+Madhya Pradesh,Indore,Electronics,Printers,48,2023,Aug
+Madhya Pradesh,Indore,Clothing,Hankerchief,48,2023,Sep
+Haryana,Chandigarh,Clothing,Hankerchief,47,2023,Oct
+Kerala ,Thiruvananthapuram,Clothing,Kurti,47,2023,Nov
+Maharashtra,Mumbai,Clothing,Saree,47,2023,Dec
+West Bengal,Kolkata,Clothing,Hankerchief,47,2023,Jan
+Maharashtra,Mumbai,Clothing,T-shirt,47,2023,Feb
+Maharashtra,Mumbai,Clothing,Stole,47,2023,Mar
+Kerala ,Thiruvananthapuram,Clothing,Shirt,47,2023,Apr
+Madhya Pradesh,Indore,Clothing,Stole,47,2023,May
+Madhya Pradesh,Indore,Clothing,Stole,47,2023,Jun
+Maharashtra,Mumbai,Clothing,Saree,47,2023,Jul
+Madhya Pradesh,Indore,Furniture,Chairs,46,2023,Aug
+Maharashtra,Mumbai,Clothing,Hankerchief,46,2023,Sep
+Sikkim,Gangtok,Clothing,Stole,46,2023,Oct
+Madhya Pradesh,Indore,Clothing,Stole,46,2023,Nov
+Sikkim,Gangtok,Clothing,Stole,46,2023,Dec
+Maharashtra,Mumbai,Clothing,Saree,46,2023,Jan
+Uttar Pradesh,Mathura,Clothing,Trousers,46,2023,Feb
+Madhya Pradesh,Indore,Clothing,T-shirt,45,2023,Mar
+Delhi,Delhi,Furniture,Furnishings,45,2023,Apr
+Karnataka,Bangalore,Clothing,Stole,45,2023,May
+Gujarat,Ahmedabad,Clothing,Leggings,45,2023,Jun
+Rajasthan,Udaipur,Clothing,Saree,45,2023,Jul
+Goa,Goa,Clothing,Saree,45,2023,Aug
+Himachal Pradesh,Simla,Clothing,Kurti,45,2023,Sep
+Punjab,Amritsar,Clothing,Stole,45,2023,Oct
+Andhra Pradesh,Hyderabad,Clothing,Shirt,45,2023,Nov
+Haryana,Chandigarh,Clothing,Hankerchief,45,2023,Dec
+Maharashtra,Mumbai,Electronics,Electronic Games,45,2023,Jan
+Maharashtra,Mumbai,Electronics,Electronic Games,45,2023,Feb
+Tamil Nadu,Chennai,Clothing,Hankerchief,45,2023,Mar
+Jammu and Kashmir,Kashmir,Furniture,Bookcases,45,2023,Apr
+Maharashtra,Mumbai,Clothing,Saree,45,2023,May
+Madhya Pradesh,Bhopal,Clothing,Shirt,44,2023,Jun
+Maharashtra,Mumbai,Clothing,T-shirt,44,2023,Jul
+Madhya Pradesh,Indore,Electronics,Phones,44,2023,Aug
+Maharashtra,Pune,Electronics,Phones,44,2023,Sep
+Sikkim,Gangtok,Furniture,Chairs,44,2023,Oct
+Madhya Pradesh,Indore,Furniture,Bookcases,44,2023,Nov
+West Bengal,Kolkata,Electronics,Electronic Games,44,2023,Dec
+Punjab,Chandigarh,Clothing,Skirt,44,2023,Jan
+Jammu and Kashmir,Kashmir,Electronics,Electronic Games,44,2023,Feb
+Karnataka,Bangalore,Clothing,Saree,44,2023,Mar
+Kerala ,Thiruvananthapuram,Electronics,Printers,44,2023,Apr
+Delhi,Delhi,Furniture,Bookcases,44,2023,May
+Madhya Pradesh,Indore,Clothing,Kurti,44,2023,Jun
+Maharashtra,Mumbai,Clothing,Stole,44,2023,Jul
+West Bengal,Kolkata,Furniture,Chairs,44,2023,Aug
+Jammu and Kashmir,Kashmir,Clothing,Saree,44,2023,Sep
+Bihar,Patna,Furniture,Furnishings,44,2023,Oct
+Maharashtra,Pune,Electronics,Electronic Games,43,2023,Nov
+Madhya Pradesh,Indore,Clothing,Saree,43,2023,Dec
+Punjab,Chandigarh,Clothing,Leggings,43,2023,Jan
+Rajasthan,Jaipur,Clothing,Stole,43,2023,Feb
+Maharashtra,Mumbai,Clothing,Stole,43,2023,Mar
+Madhya Pradesh,Indore,Electronics,Phones,43,2023,Apr
+Bihar,Patna,Clothing,Stole,43,2023,May
+Jammu and Kashmir,Kashmir,Clothing,Kurti,43,2023,Jun
+Tamil Nadu,Chennai,Furniture,Chairs,43,2023,Jul
+Rajasthan,Udaipur,Clothing,Stole,42,2023,Aug
+Maharashtra,Mumbai,Clothing,T-shirt,42,2023,Sep
+Nagaland,Kohima,Furniture,Bookcases,42,2023,Oct
+Rajasthan,Udaipur,Clothing,Saree,42,2023,Nov
+Uttar Pradesh,Prayagraj,Clothing,Leggings,42,2023,Dec
+Jammu and Kashmir,Kashmir,Electronics,Printers,42,2023,Jan
+Himachal Pradesh,Simla,Clothing,Saree,42,2023,Feb
+Maharashtra,Mumbai,Clothing,Skirt,42,2023,Mar
+Rajasthan,Jaipur,Clothing,Saree,42,2023,Apr
+Uttar Pradesh,Lucknow,Furniture,Bookcases,42,2023,May
+Madhya Pradesh,Indore,Clothing,Saree,41,2023,Jun
+Maharashtra,Mumbai,Clothing,Hankerchief,41,2023,Jul
+Maharashtra,Mumbai,Clothing,Shirt,41,2023,Aug
+Sikkim,Gangtok,Clothing,Hankerchief,41,2023,Sep
+Maharashtra,Mumbai,Electronics,Printers,41,2023,Oct
+Madhya Pradesh,Indore,Furniture,Chairs,41,2023,Nov
+Maharashtra,Mumbai,Electronics,Accessories,40,2023,Dec
+Delhi,Delhi,Electronics,Electronic Games,40,2023,Jan
+Madhya Pradesh,Indore,Electronics,Accessories,40,2023,Feb
+West Bengal,Kolkata,Clothing,Saree,40,2023,Mar
+Maharashtra,Mumbai,Furniture,Furnishings,40,2023,Apr
+Madhya Pradesh,Bhopal,Furniture,Chairs,40,2023,May
+Gujarat,Ahmedabad,Clothing,Stole,40,2023,Jun
+Maharashtra,Pune,Clothing,Stole,40,2023,Jul
+Karnataka,Bangalore,Clothing,Stole,40,2023,Aug
+Kerala ,Thiruvananthapuram,Clothing,Hankerchief,40,2023,Sep
+Karnataka,Bangalore,Clothing,Hankerchief,40,2023,Oct
+Karnataka,Bangalore,Electronics,Electronic Games,40,2023,Nov
+Bihar,Patna,Clothing,Skirt,39,2023,Dec
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,39,2023,Jan
+Jammu and Kashmir,Kashmir,Clothing,Hankerchief,39,2023,Feb
+Maharashtra,Mumbai,Clothing,Shirt,39,2023,Mar
+Rajasthan,Jaipur,Clothing,Saree,38,2023,Apr
+Madhya Pradesh,Indore,Clothing,Kurti,38,2023,May
+Andhra Pradesh,Hyderabad,Clothing,T-shirt,38,2023,Jun
+Goa,Goa,Electronics,Phones,38,2023,Jul
+Gujarat,Surat,Clothing,Saree,38,2023,Aug
+Maharashtra,Mumbai,Furniture,Chairs,37,2023,Sep
+Maharashtra,Mumbai,Clothing,Saree,37,2023,Oct
+Nagaland,Kohima,Clothing,Stole,37,2023,Nov
+Maharashtra,Mumbai,Clothing,Hankerchief,37,2023,Dec
+Nagaland,Kohima,Electronics,Accessories,37,2023,Jan
+Madhya Pradesh,Indore,Clothing,Saree,37,2023,Feb
+Andhra Pradesh,Hyderabad,Clothing,Hankerchief,37,2023,Mar
+Andhra Pradesh,Hyderabad,Clothing,Hankerchief,36,2023,Apr
+West Bengal,Kolkata,Clothing,Skirt,36,2023,May
+Maharashtra,Mumbai,Clothing,Saree,36,2023,Jun
+Gujarat,Ahmedabad,Clothing,T-shirt,36,2023,Jul
+Madhya Pradesh,Indore,Clothing,T-shirt,36,2023,Aug
+Haryana,Chandigarh,Clothing,T-shirt,35,2023,Sep
+Maharashtra,Mumbai,Clothing,Saree,35,2023,Oct
+Karnataka,Bangalore,Electronics,Electronic Games,34,2023,Nov
+Delhi,Delhi,Furniture,Furnishings,34,2023,Dec
+Sikkim,Gangtok,Furniture,Bookcases,34,2023,Jan
+Nagaland,Kohima,Electronics,Accessories,34,2023,Feb
+Maharashtra,Mumbai,Clothing,T-shirt,34,2023,Mar
+Madhya Pradesh,Bhopal,Furniture,Bookcases,34,2023,Apr
+Delhi,Delhi,Clothing,Hankerchief,34,2023,May
+Karnataka,Bangalore,Clothing,Kurti,34,2023,Jun
+Madhya Pradesh,Indore,Clothing,Leggings,34,2023,Jul
+Tamil Nadu,Chennai,Clothing,Trousers,34,2023,Aug
+Goa,Goa,Electronics,Phones,34,2023,Sep
+Karnataka,Bangalore,Clothing,Hankerchief,33,2023,Oct
+Bihar,Patna,Furniture,Furnishings,33,2023,Nov
+Bihar,Patna,Clothing,Stole,33,2023,Dec
+Rajasthan,Jaipur,Clothing,Stole,33,2023,Jan
+Uttar Pradesh,Lucknow,Furniture,Chairs,33,2023,Feb
+Maharashtra,Mumbai,Clothing,Saree,33,2023,Mar
+Jammu and Kashmir,Kashmir,Electronics,Accessories,33,2023,Apr
+Himachal Pradesh,Simla,Furniture,Bookcases,33,2023,May
+Nagaland,Kohima,Clothing,Trousers,33,2023,Jun
+Delhi,Delhi,Clothing,Skirt,33,2023,Jul
+West Bengal,Kolkata,Clothing,Stole,33,2023,Aug
+Delhi,Delhi,Electronics,Electronic Games,32,2023,Sep
+Karnataka,Bangalore,Electronics,Electronic Games,32,2023,Oct
+Madhya Pradesh,Indore,Clothing,Saree,32,2023,Nov
+Maharashtra,Pune,Clothing,Stole,32,2023,Dec
+Gujarat,Ahmedabad,Clothing,Skirt,32,2023,Jan
+Maharashtra,Mumbai,Clothing,Stole,32,2023,Feb
+Uttar Pradesh,Lucknow,Clothing,Saree,32,2023,Mar
+Punjab,Amritsar,Clothing,Stole,32,2023,Apr
+Punjab,Amritsar,Electronics,Printers,32,2023,May
+Sikkim,Gangtok,Clothing,Leggings,32,2023,Jun
+Delhi,Delhi,Furniture,Bookcases,32,2023,Jul
+Madhya Pradesh,Indore,Furniture,Furnishings,32,2023,Aug
+Maharashtra,Mumbai,Clothing,Saree,32,2023,Sep
+Punjab,Chandigarh,Electronics,Printers,31,2023,Oct
+Madhya Pradesh,Indore,Furniture,Chairs,31,2023,Nov
+Maharashtra,Mumbai,Clothing,Hankerchief,31,2023,Dec
+Goa,Goa,Clothing,Saree,31,2023,Jan
+Kerala ,Thiruvananthapuram,Clothing,Skirt,31,2023,Feb
+Uttar Pradesh,Prayagraj,Clothing,Hankerchief,31,2023,Mar
+Karnataka,Bangalore,Electronics,Electronic Games,31,2023,Apr
+Madhya Pradesh,Indore,Clothing,Saree,31,2023,May
+Madhya Pradesh,Indore,Furniture,Furnishings,31,2023,Jun
+Nagaland,Kohima,Electronics,Electronic Games,31,2023,Jul
+Sikkim,Gangtok,Clothing,T-shirt,31,2023,Aug
+Madhya Pradesh,Indore,Electronics,Printers,30,2023,Sep
+Jammu and Kashmir,Kashmir,Clothing,Skirt,30,2023,Oct
+Rajasthan,Jaipur,Clothing,Saree,30,2023,Nov
+Rajasthan,Jaipur,Clothing,Hankerchief,30,2023,Dec
+Uttar Pradesh,Lucknow,Clothing,Skirt,30,2023,Jan
+Punjab,Chandigarh,Clothing,Skirt,30,2023,Feb
+Bihar,Patna,Clothing,Saree,30,2023,Mar
+Punjab,Amritsar,Furniture,Bookcases,30,2023,Apr
+Kerala ,Thiruvananthapuram,Electronics,Printers,30,2023,May
+Goa,Goa,Clothing,Hankerchief,30,2023,Jun
+Tamil Nadu,Chennai,Clothing,Hankerchief,30,2023,Jul
+Gujarat,Ahmedabad,Electronics,Phones,30,2023,Aug
+Uttar Pradesh,Lucknow,Clothing,Stole,30,2023,Sep
+Madhya Pradesh,Indore,Clothing,Stole,30,2023,Oct
+Delhi,Delhi,Furniture,Tables,29,2023,Nov
+Maharashtra,Pune,Electronics,Printers,29,2023,Dec
+Rajasthan,Jaipur,Furniture,Furnishings,29,2023,Jan
+Punjab,Amritsar,Furniture,Chairs,29,2023,Feb
+Rajasthan,Jaipur,Clothing,Hankerchief,29,2023,Mar
+Haryana,Chandigarh,Electronics,Accessories,29,2023,Apr
+Kerala ,Thiruvananthapuram,Clothing,Leggings,29,2023,May
+Madhya Pradesh,Indore,Clothing,Shirt,29,2023,Jun
+Madhya Pradesh,Indore,Electronics,Printers,29,2023,Jul
+Sikkim,Gangtok,Electronics,Printers,29,2023,Aug
+Gujarat,Surat,Furniture,Bookcases,29,2023,Sep
+Delhi,Delhi,Clothing,Hankerchief,29,2023,Oct
+Nagaland,Kohima,Furniture,Bookcases,28,2023,Nov
+Himachal Pradesh,Simla,Clothing,Hankerchief,28,2023,Dec
+Haryana,Chandigarh,Clothing,Stole,28,2023,Jan
+West Bengal,Kolkata,Clothing,Stole,28,2023,Feb
+Andhra Pradesh,Hyderabad,Furniture,Chairs,28,2023,Mar
+Madhya Pradesh,Indore,Furniture,Chairs,28,2023,Apr
+Punjab,Amritsar,Clothing,Saree,28,2023,May
+Maharashtra,Pune,Electronics,Printers,27,2023,Jun
+Madhya Pradesh,Indore,Furniture,Furnishings,27,2023,Jul
+Himachal Pradesh,Simla,Clothing,Hankerchief,27,2023,Aug
+Rajasthan,Jaipur,Clothing,Kurti,27,2023,Sep
+Kerala ,Thiruvananthapuram,Furniture,Bookcases,27,2023,Oct
+Rajasthan,Jaipur,Clothing,Saree,27,2023,Nov
+Kerala ,Thiruvananthapuram,Clothing,Saree,27,2023,Dec
+Gujarat,Surat,Electronics,Accessories,27,2023,Jan
+West Bengal,Kolkata,Clothing,Saree,27,2023,Feb
+West Bengal,Kolkata,Clothing,Hankerchief,27,2023,Mar
+Andhra Pradesh,Hyderabad,Clothing,Stole,27,2023,Apr
+Rajasthan,Jaipur,Clothing,Stole,27,2023,May
+Madhya Pradesh,Indore,Clothing,Stole,27,2023,Jun
+Gujarat,Ahmedabad,Clothing,Hankerchief,27,2023,Jul
+Sikkim,Gangtok,Clothing,Hankerchief,27,2023,Aug
+Kerala ,Thiruvananthapuram,Electronics,Printers,27,2023,Sep
+Delhi,Delhi,Electronics,Accessories,27,2023,Oct
+Maharashtra,Pune,Clothing,Shirt,26,2023,Nov
+Madhya Pradesh,Bhopal,Clothing,Skirt,26,2023,Dec
+Maharashtra,Mumbai,Electronics,Phones,26,2023,Jan
+Delhi,Delhi,Clothing,Saree,26,2023,Feb
+Uttar Pradesh,Lucknow,Furniture,Tables,26,2023,Mar
+West Bengal,Kolkata,Clothing,Skirt,26,2023,Apr
+Karnataka,Bangalore,Electronics,Printers,26,2023,May
+Gujarat,Surat,Electronics,Electronic Games,26,2023,Jun
+Andhra Pradesh,Hyderabad,Furniture,Bookcases,26,2023,Jul
+Madhya Pradesh,Indore,Clothing,Hankerchief,26,2023,Aug
+Bihar,Patna,Clothing,Hankerchief,26,2023,Sep
+Nagaland,Kohima,Clothing,Saree,26,2023,Oct
+Punjab,Chandigarh,Clothing,T-shirt,25,2023,Nov
+Gujarat,Ahmedabad,Electronics,Phones,25,2023,Dec
+Madhya Pradesh,Indore,Clothing,Leggings,25,2023,Jan
+Rajasthan,Udaipur,Clothing,Stole,25,2023,Feb
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,25,2023,Mar
+Rajasthan,Udaipur,Electronics,Printers,25,2023,Apr
+Goa,Goa,Clothing,Kurti,25,2023,May
+Andhra Pradesh,Hyderabad,Electronics,Printers,25,2023,Jun
+Maharashtra,Mumbai,Clothing,Hankerchief,25,2023,Jul
+Haryana,Chandigarh,Clothing,Hankerchief,25,2023,Aug
+West Bengal,Kolkata,Clothing,T-shirt,25,2023,Sep
+Punjab,Chandigarh,Electronics,Phones,24,2023,Oct
+Bihar,Patna,Electronics,Phones,24,2023,Nov
+Maharashtra,Mumbai,Clothing,Stole,24,2023,Dec
+West Bengal,Kolkata,Clothing,Saree,24,2023,Jan
+Maharashtra,Mumbai,Clothing,Trousers,24,2023,Feb
+Maharashtra,Mumbai,Electronics,Accessories,24,2023,Mar
+West Bengal,Kolkata,Clothing,Shirt,24,2023,Apr
+Rajasthan,Udaipur,Clothing,Leggings,24,2023,May
+Himachal Pradesh,Simla,Electronics,Accessories,24,2023,Jun
+Maharashtra,Pune,Electronics,Printers,24,2023,Jul
+Bihar,Patna,Clothing,Kurti,24,2023,Aug
+Kerala ,Thiruvananthapuram,Electronics,Accessories,24,2023,Sep
+Maharashtra,Mumbai,Electronics,Accessories,24,2023,Oct
+Punjab,Amritsar,Electronics,Phones,23,2023,Nov
+Madhya Pradesh,Indore,Electronics,Accessories,23,2023,Dec
+Rajasthan,Jaipur,Furniture,Bookcases,23,2023,Jan
+Gujarat,Surat,Clothing,Skirt,23,2023,Feb
+Gujarat,Surat,Clothing,Trousers,23,2023,Mar
+Madhya Pradesh,Indore,Clothing,Trousers,23,2023,Apr
+Goa,Goa,Clothing,T-shirt,22,2023,May
+Rajasthan,Udaipur,Clothing,Hankerchief,22,2023,Jun
+Maharashtra,Mumbai,Furniture,Furnishings,22,2023,Jul
+Tamil Nadu,Chennai,Electronics,Phones,22,2023,Aug
+Jammu and Kashmir,Kashmir,Furniture,Chairs,22,2023,Sep
+Uttar Pradesh,Lucknow,Electronics,Printers,22,2023,Oct
+Madhya Pradesh,Indore,Furniture,Bookcases,22,2023,Nov
+Rajasthan,Udaipur,Clothing,Kurti,22,2023,Dec
+Madhya Pradesh,Indore,Furniture,Tables,22,2023,Jan
+Delhi,Delhi,Furniture,Furnishings,22,2023,Feb
+Delhi,Delhi,Clothing,Hankerchief,22,2023,Mar
+Madhya Pradesh,Indore,Clothing,Skirt,21,2023,Apr
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,21,2023,May
+Maharashtra,Mumbai,Clothing,Hankerchief,21,2023,Jun
+Maharashtra,Mumbai,Furniture,Chairs,21,2023,Jul
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,21,2023,Aug
+Uttar Pradesh,Prayagraj,Electronics,Phones,21,2023,Sep
+Uttar Pradesh,Lucknow,Electronics,Phones,21,2023,Oct
+Uttar Pradesh,Lucknow,Electronics,Electronic Games,21,2023,Nov
+Madhya Pradesh,Indore,Electronics,Electronic Games,20,2023,Dec
+Gujarat,Ahmedabad,Clothing,Skirt,20,2023,Jan
+Uttar Pradesh,Lucknow,Clothing,Saree,20,2023,Feb
+Madhya Pradesh,Indore,Clothing,Stole,20,2023,Mar
+Punjab,Chandigarh,Electronics,Electronic Games,19,2023,Apr
+Gujarat,Ahmedabad,Clothing,T-shirt,19,2023,May
+Haryana,Chandigarh,Electronics,Printers,19,2023,Jun
+Karnataka,Bangalore,Furniture,Tables,19,2023,Jul
+Maharashtra,Pune,Electronics,Printers,19,2023,Aug
+West Bengal,Kolkata,Electronics,Accessories,19,2023,Sep
+Madhya Pradesh,Indore,Clothing,Saree,19,2023,Oct
+Nagaland,Kohima,Clothing,Hankerchief,18,2023,Nov
+Maharashtra,Pune,Clothing,Hankerchief,18,2023,Dec
+Madhya Pradesh,Indore,Electronics,Printers,18,2023,Jan
+Kerala ,Thiruvananthapuram,Electronics,Accessories,18,2023,Feb
+Gujarat,Surat,Clothing,Hankerchief,18,2023,Mar
+Nagaland,Kohima,Clothing,Hankerchief,18,2023,Apr
+Delhi,Delhi,Electronics,Phones,17,2023,May
+Delhi,Delhi,Clothing,Stole,17,2023,Jun
+Jammu and Kashmir,Kashmir,Furniture,Bookcases,17,2023,Jul
+Maharashtra,Mumbai,Clothing,Shirt,17,2023,Aug
+Maharashtra,Mumbai,Electronics,Printers,17,2023,Sep
+Maharashtra,Mumbai,Clothing,Hankerchief,17,2023,Oct
+West Bengal,Kolkata,Furniture,Bookcases,17,2023,Nov
+Maharashtra,Mumbai,Clothing,Leggings,17,2023,Dec
+Madhya Pradesh,Indore,Clothing,Trousers,17,2023,Jan
+Maharashtra,Mumbai,Clothing,Hankerchief,17,2023,Feb
+Madhya Pradesh,Indore,Clothing,Hankerchief,17,2023,Mar
+Delhi,Delhi,Clothing,Leggings,17,2023,Apr
+Sikkim,Gangtok,Clothing,Kurti,17,2023,May
+Madhya Pradesh,Bhopal,Clothing,T-shirt,17,2023,Jun
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,16,2023,Jul
+Madhya Pradesh,Indore,Furniture,Bookcases,16,2023,Aug
+Rajasthan,Jaipur,Clothing,Skirt,16,2023,Sep
+Punjab,Chandigarh,Clothing,Hankerchief,16,2023,Oct
+Himachal Pradesh,Simla,Electronics,Electronic Games,16,2023,Nov
+Tamil Nadu,Chennai,Clothing,Stole,16,2023,Dec
+Maharashtra,Mumbai,Clothing,Leggings,16,2023,Jan
+Gujarat,Ahmedabad,Clothing,Hankerchief,16,2023,Feb
+Maharashtra,Mumbai,Clothing,Skirt,15,2023,Mar
+Madhya Pradesh,Indore,Clothing,Skirt,15,2023,Apr
+Madhya Pradesh,Indore,Clothing,Trousers,15,2023,May
+Gujarat,Ahmedabad,Electronics,Phones,15,2023,Jun
+Madhya Pradesh,Indore,Clothing,Hankerchief,15,2023,Jul
+Goa,Goa,Clothing,Skirt,15,2023,Aug
+Madhya Pradesh,Indore,Electronics,Printers,15,2023,Sep
+West Bengal,Kolkata,Clothing,Skirt,14,2023,Oct
+Nagaland,Kohima,Electronics,Phones,14,2023,Nov
+Maharashtra,Mumbai,Furniture,Bookcases,14,2023,Dec
+Gujarat,Surat,Clothing,Hankerchief,14,2023,Jan
+Himachal Pradesh,Simla,Clothing,Skirt,14,2023,Feb
+Jammu and Kashmir,Kashmir,Furniture,Chairs,14,2023,Mar
+Haryana,Chandigarh,Electronics,Printers,14,2023,Apr
+Rajasthan,Udaipur,Clothing,Saree,14,2023,May
+Goa,Goa,Electronics,Printers,13,2023,Jun
+Himachal Pradesh,Simla,Electronics,Electronic Games,13,2023,Jul
+Maharashtra,Mumbai,Clothing,Trousers,13,2023,Aug
+Rajasthan,Jaipur,Clothing,Hankerchief,13,2023,Sep
+Madhya Pradesh,Indore,Clothing,Leggings,13,2023,Oct
+Bihar,Patna,Clothing,Trousers,13,2023,Nov
+Maharashtra,Mumbai,Furniture,Bookcases,13,2023,Dec
+Kerala ,Thiruvananthapuram,Clothing,Saree,13,2023,Jan
+Bihar,Patna,Electronics,Printers,13,2023,Feb
+Madhya Pradesh,Indore,Furniture,Bookcases,13,2023,Mar
+Madhya Pradesh,Bhopal,Clothing,Saree,12,2023,Apr
+Punjab,Chandigarh,Clothing,Stole,12,2023,May
+Himachal Pradesh,Simla,Clothing,Trousers,12,2023,Jun
+Nagaland,Kohima,Clothing,Hankerchief,12,2023,Jul
+Karnataka,Bangalore,Clothing,Stole,12,2023,Aug
+Maharashtra,Pune,Clothing,Skirt,12,2023,Sep
+Madhya Pradesh,Indore,Clothing,Trousers,12,2023,Oct
+Maharashtra,Mumbai,Clothing,Trousers,11,2023,Nov
+Madhya Pradesh,Indore,Clothing,Kurti,11,2023,Dec
+Goa,Goa,Clothing,Hankerchief,11,2023,Jan
+Maharashtra,Mumbai,Clothing,Hankerchief,11,2023,Feb
+Punjab,Chandigarh,Clothing,Hankerchief,11,2023,Mar
+Madhya Pradesh,Bhopal,Clothing,Hankerchief,11,2023,Apr
+Madhya Pradesh,Indore,Clothing,Saree,10,2023,May
+Madhya Pradesh,Bhopal,Clothing,Leggings,10,2023,Jun
+Goa,Goa,Clothing,Stole,10,2023,Jul
+Haryana,Chandigarh,Clothing,Leggings,10,2023,Aug
+Rajasthan,Jaipur,Clothing,Stole,10,2023,Sep
+Andhra Pradesh,Hyderabad,Clothing,Skirt,10,2023,Oct
+Karnataka,Bangalore,Electronics,Accessories,10,2023,Nov
+Maharashtra,Mumbai,Furniture,Bookcases,10,2023,Dec
+West Bengal,Kolkata,Clothing,Skirt,9,2023,Jan
+Maharashtra,Mumbai,Electronics,Printers,9,2023,Feb
+Rajasthan,Udaipur,Clothing,Hankerchief,9,2023,Mar
+Maharashtra,Pune,Clothing,Hankerchief,9,2023,Apr
+Gujarat,Ahmedabad,Furniture,Bookcases,9,2023,May
+Jammu and Kashmir,Kashmir,Furniture,Chairs,8,2023,Jun
+Bihar,Patna,Electronics,Electronic Games,8,2023,Jul
+West Bengal,Kolkata,Furniture,Chairs,8,2023,Aug
+Sikkim,Gangtok,Electronics,Electronic Games,8,2023,Sep
+Haryana,Chandigarh,Electronics,Phones,8,2023,Oct
+Himachal Pradesh,Simla,Electronics,Electronic Games,8,2023,Nov
+Karnataka,Bangalore,Furniture,Bookcases,7,2023,Dec
+Maharashtra,Pune,Clothing,Hankerchief,7,2023,Jan
+West Bengal,Kolkata,Furniture,Bookcases,7,2023,Feb
+Karnataka,Bangalore,Electronics,Electronic Games,7,2023,Mar
+Andhra Pradesh,Hyderabad,Clothing,Skirt,7,2023,Apr
+Rajasthan,Jaipur,Furniture,Bookcases,7,2023,May
+Delhi,Delhi,Clothing,Hankerchief,7,2023,Jun
+Tamil Nadu,Chennai,Clothing,Skirt,7,2023,Jul
+Goa,Goa,Clothing,Hankerchief,7,2023,Aug
+Sikkim,Gangtok,Clothing,Trousers,6,2023,Sep
+Maharashtra,Mumbai,Electronics,Printers,6,2023,Oct
+Himachal Pradesh,Simla,Clothing,Hankerchief,6,2023,Nov
+Rajasthan,Jaipur,Furniture,Tables,4,2023,Dec
